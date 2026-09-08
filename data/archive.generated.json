@@ -1,9 +1,704 @@
 {
-  "generatedAt": "2026-09-08T13:29:51.166Z",
+  "generatedAt": "2026-09-08T17:24:22.396Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 22,
-  "totalPages": 102,
+  "totalItems": 106,
+  "totalPages": 443,
   "items": [
+    {
+      "id": "g2-2025-iwate-algebra-3de8aef",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "数と式",
+      "unit": "文字式（連続する2つの奇数）",
+      "shortUnit": "文字式",
+      "tags": [
+        "連続する2つの奇数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-iwate-algebra-3de8aef/page-01.jpg?v=267ea822cb03c1b05fb7f13d7198cbdc75751bb4fe5e38216fcbdd6f7158a51c",
+        "/previews/g2-2025-iwate-algebra-3de8aef/page-02.jpg?v=267ea822cb03c1b05fb7f13d7198cbdc75751bb4fe5e38216fcbdd6f7158a51c",
+        "/previews/g2-2025-iwate-algebra-3de8aef/page-03.jpg?v=267ea822cb03c1b05fb7f13d7198cbdc75751bb4fe5e38216fcbdd6f7158a51c",
+        "/previews/g2-2025-iwate-algebra-3de8aef/page-04.jpg?v=267ea822cb03c1b05fb7f13d7198cbdc75751bb4fe5e38216fcbdd6f7158a51c"
+      ],
+      "contentVersion": "267ea822cb03c1b05fb7f13d7198cbdc75751bb4fe5e38216fcbdd6f7158a51c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-algebra-3de8aef.pdf?rev=267ea822cb03c1b05fb7f13d7198cbdc75751bb4fe5e38216fcbdd6f7158a51c",
+      "pdfFileName": "2025年実施_岩手県_中2数学_文字式（連続する2つの奇数）.pdf",
+      "fileSize": 1761838
+    },
+    {
+      "id": "g2-2025-iwate-equation-use-098b14b",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（切手の枚数の取り違え）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "切手の枚数の取り違え"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-iwate-equation-use-098b14b/page-01.jpg?v=864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b",
+        "/previews/g2-2025-iwate-equation-use-098b14b/page-02.jpg?v=864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b",
+        "/previews/g2-2025-iwate-equation-use-098b14b/page-03.jpg?v=864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b",
+        "/previews/g2-2025-iwate-equation-use-098b14b/page-04.jpg?v=864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b"
+      ],
+      "contentVersion": "864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-equation-use-098b14b.pdf?rev=864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b",
+      "pdfFileName": "2025年実施_岩手県_中2数学_連立方程式の利用（切手の枚数の取り違え）.pdf",
+      "fileSize": 3769397
+    },
+    {
+      "id": "g2-2025-iwate-function-a71eb01",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "一次関数の利用（ドローンの飛行高度）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "ドローンの飛行高度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-iwate-function-a71eb01/page-01.jpg?v=51f7cf14224cac99a3b2f853da7cf0c41cd4ea7ae50462f52e847acb8771ccde",
+        "/previews/g2-2025-iwate-function-a71eb01/page-02.jpg?v=51f7cf14224cac99a3b2f853da7cf0c41cd4ea7ae50462f52e847acb8771ccde",
+        "/previews/g2-2025-iwate-function-a71eb01/page-03.jpg?v=51f7cf14224cac99a3b2f853da7cf0c41cd4ea7ae50462f52e847acb8771ccde",
+        "/previews/g2-2025-iwate-function-a71eb01/page-04.jpg?v=51f7cf14224cac99a3b2f853da7cf0c41cd4ea7ae50462f52e847acb8771ccde"
+      ],
+      "contentVersion": "51f7cf14224cac99a3b2f853da7cf0c41cd4ea7ae50462f52e847acb8771ccde",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-function-a71eb01.pdf?rev=51f7cf14224cac99a3b2f853da7cf0c41cd4ea7ae50462f52e847acb8771ccde",
+      "pdfFileName": "2025年実施_岩手県_中2数学_一次関数の利用（ドローンの飛行高度）.pdf",
+      "fileSize": 5983091
+    },
+    {
+      "id": "g1-2025-iwate-function-a6291a2",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "比例の式（対応表から比例定数を求める）",
+      "shortUnit": "比例の式",
+      "tags": [
+        "対応表から比例定数を求める"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-iwate-function-a6291a2/page-01.jpg?v=7af25de91863e27c4359729b0b373f55cadd5ef5715d556c1ce99685064a5567",
+        "/previews/g1-2025-iwate-function-a6291a2/page-02.jpg?v=7af25de91863e27c4359729b0b373f55cadd5ef5715d556c1ce99685064a5567",
+        "/previews/g1-2025-iwate-function-a6291a2/page-03.jpg?v=7af25de91863e27c4359729b0b373f55cadd5ef5715d556c1ce99685064a5567",
+        "/previews/g1-2025-iwate-function-a6291a2/page-04.jpg?v=7af25de91863e27c4359729b0b373f55cadd5ef5715d556c1ce99685064a5567"
+      ],
+      "contentVersion": "7af25de91863e27c4359729b0b373f55cadd5ef5715d556c1ce99685064a5567",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2025-iwate-function-a6291a2.pdf?rev=7af25de91863e27c4359729b0b373f55cadd5ef5715d556c1ce99685064a5567",
+      "pdfFileName": "2025年実施_岩手県_中1数学_比例の式（対応表から比例定数を求める）.pdf",
+      "fileSize": 1886539
+    },
+    {
+      "id": "g1-2025-iwate-geometry-4438207",
+      "grade": 1,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "基本作図（直線について対称な点）",
+      "shortUnit": "基本作図",
+      "tags": [
+        "直線について対称な点"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2025-iwate-geometry-4438207/page-01.jpg?v=4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787",
+        "/previews/g1-2025-iwate-geometry-4438207/page-02.jpg?v=4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787",
+        "/previews/g1-2025-iwate-geometry-4438207/page-03.jpg?v=4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787",
+        "/previews/g1-2025-iwate-geometry-4438207/page-04.jpg?v=4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787"
+      ],
+      "contentVersion": "4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2025-iwate-geometry-4438207.pdf?rev=4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787",
+      "pdfFileName": "2025年実施_岩手県_中1数学_基本作図（直線について対称な点）.pdf",
+      "fileSize": 3154724
+    },
+    {
+      "id": "g2-2025-iwate-proof-705aa04",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "図形の証明",
+      "unit": "三角形の合同証明（二等辺三角形）",
+      "shortUnit": "三角形の合同証明",
+      "tags": [
+        "二等辺三角形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-iwate-proof-705aa04/page-01.jpg?v=8620658535f96a7f67c7731d3dbd337f9d691cb33e7d13f2b9b22d917e09b961",
+        "/previews/g2-2025-iwate-proof-705aa04/page-02.jpg?v=8620658535f96a7f67c7731d3dbd337f9d691cb33e7d13f2b9b22d917e09b961",
+        "/previews/g2-2025-iwate-proof-705aa04/page-03.jpg?v=8620658535f96a7f67c7731d3dbd337f9d691cb33e7d13f2b9b22d917e09b961",
+        "/previews/g2-2025-iwate-proof-705aa04/page-04.jpg?v=8620658535f96a7f67c7731d3dbd337f9d691cb33e7d13f2b9b22d917e09b961"
+      ],
+      "contentVersion": "8620658535f96a7f67c7731d3dbd337f9d691cb33e7d13f2b9b22d917e09b961",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-proof-705aa04.pdf?rev=8620658535f96a7f67c7731d3dbd337f9d691cb33e7d13f2b9b22d917e09b961",
+      "pdfFileName": "2025年実施_岩手県_中2数学_三角形の合同証明（二等辺三角形）.pdf",
+      "fileSize": 2576165
+    },
+    {
+      "id": "g2-2025-iwate-data-f867472",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（球の復元・非復元抽出）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "球の復元",
+        "非復元抽出"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-iwate-data-f867472/page-01.jpg?v=e5f973ee0a37d5263a569ac2a310e9374e1ef02d9bf63863a1817b3f41ede27f",
+        "/previews/g2-2025-iwate-data-f867472/page-02.jpg?v=e5f973ee0a37d5263a569ac2a310e9374e1ef02d9bf63863a1817b3f41ede27f",
+        "/previews/g2-2025-iwate-data-f867472/page-03.jpg?v=e5f973ee0a37d5263a569ac2a310e9374e1ef02d9bf63863a1817b3f41ede27f",
+        "/previews/g2-2025-iwate-data-f867472/page-04.jpg?v=e5f973ee0a37d5263a569ac2a310e9374e1ef02d9bf63863a1817b3f41ede27f"
+      ],
+      "contentVersion": "e5f973ee0a37d5263a569ac2a310e9374e1ef02d9bf63863a1817b3f41ede27f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-data-f867472.pdf?rev=e5f973ee0a37d5263a569ac2a310e9374e1ef02d9bf63863a1817b3f41ede27f",
+      "pdfFileName": "2025年実施_岩手県_中2数学_場合の数と確率（球の復元・非復元抽出）.pdf",
+      "fileSize": 6501538
+    },
+    {
+      "id": "g2-2025-iwate-data-62fbe4f",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "箱ひげ図（四分位範囲と分布の読み取り）",
+      "shortUnit": "箱ひげ図",
+      "tags": [
+        "四分位範囲と分布の読み取り"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-iwate-data-62fbe4f/page-01.jpg?v=e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9",
+        "/previews/g2-2025-iwate-data-62fbe4f/page-02.jpg?v=e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9",
+        "/previews/g2-2025-iwate-data-62fbe4f/page-03.jpg?v=e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9",
+        "/previews/g2-2025-iwate-data-62fbe4f/page-04.jpg?v=e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9"
+      ],
+      "contentVersion": "e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-data-62fbe4f.pdf?rev=e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9",
+      "pdfFileName": "2025年実施_岩手県_中2数学_箱ひげ図（四分位範囲と分布の読み取り）.pdf",
+      "fileSize": 6614320
+    },
+    {
+      "id": "g1-2024-iwate-algebra-0318333",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "数と式",
+      "unit": "不等式（硬貨の合計金額）",
+      "shortUnit": "不等式",
+      "tags": [
+        "硬貨の合計金額"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-iwate-algebra-0318333/page-01.jpg?v=adbef9388139e296391e34fc067e832719a39b95fce2af0350b76f4e15ec8a90",
+        "/previews/g1-2024-iwate-algebra-0318333/page-02.jpg?v=adbef9388139e296391e34fc067e832719a39b95fce2af0350b76f4e15ec8a90",
+        "/previews/g1-2024-iwate-algebra-0318333/page-03.jpg?v=adbef9388139e296391e34fc067e832719a39b95fce2af0350b76f4e15ec8a90",
+        "/previews/g1-2024-iwate-algebra-0318333/page-04.jpg?v=adbef9388139e296391e34fc067e832719a39b95fce2af0350b76f4e15ec8a90"
+      ],
+      "contentVersion": "adbef9388139e296391e34fc067e832719a39b95fce2af0350b76f4e15ec8a90",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2024-iwate-algebra-0318333.pdf?rev=adbef9388139e296391e34fc067e832719a39b95fce2af0350b76f4e15ec8a90",
+      "pdfFileName": "2024年実施_岩手県_中1数学_不等式（硬貨の合計金額）.pdf",
+      "fileSize": 2405923
+    },
+    {
+      "id": "g2-2024-iwate-equation-use-b18c183",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（スケッチブックと色えんぴつ）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "スケッチブックと色えんぴつ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-iwate-equation-use-b18c183/page-01.jpg?v=6d511178a99eebbb078d1f5f441ab9cc512d052c09d0dd79dd235e9f82f74c1e",
+        "/previews/g2-2024-iwate-equation-use-b18c183/page-02.jpg?v=6d511178a99eebbb078d1f5f441ab9cc512d052c09d0dd79dd235e9f82f74c1e",
+        "/previews/g2-2024-iwate-equation-use-b18c183/page-03.jpg?v=6d511178a99eebbb078d1f5f441ab9cc512d052c09d0dd79dd235e9f82f74c1e",
+        "/previews/g2-2024-iwate-equation-use-b18c183/page-04.jpg?v=6d511178a99eebbb078d1f5f441ab9cc512d052c09d0dd79dd235e9f82f74c1e"
+      ],
+      "contentVersion": "6d511178a99eebbb078d1f5f441ab9cc512d052c09d0dd79dd235e9f82f74c1e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-iwate-equation-use-b18c183.pdf?rev=6d511178a99eebbb078d1f5f441ab9cc512d052c09d0dd79dd235e9f82f74c1e",
+      "pdfFileName": "2024年実施_岩手県_中2数学_連立方程式の利用（スケッチブックと色えんぴつ）.pdf",
+      "fileSize": 3579638
+    },
+    {
+      "id": "g2-2024-okinawa-function-a3fd329",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "一次関数の利用（卒業文集の料金比較）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "卒業文集の料金比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-okinawa-function-a3fd329/page-01.jpg?v=b2b03049b6110d7cbd4aceea03fc8153feac925ca68997ef8eb1d24bfde9e735",
+        "/previews/g2-2024-okinawa-function-a3fd329/page-02.jpg?v=b2b03049b6110d7cbd4aceea03fc8153feac925ca68997ef8eb1d24bfde9e735",
+        "/previews/g2-2024-okinawa-function-a3fd329/page-03.jpg?v=b2b03049b6110d7cbd4aceea03fc8153feac925ca68997ef8eb1d24bfde9e735",
+        "/previews/g2-2024-okinawa-function-a3fd329/page-04.jpg?v=b2b03049b6110d7cbd4aceea03fc8153feac925ca68997ef8eb1d24bfde9e735"
+      ],
+      "contentVersion": "b2b03049b6110d7cbd4aceea03fc8153feac925ca68997ef8eb1d24bfde9e735",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-okinawa-function-a3fd329.pdf?rev=b2b03049b6110d7cbd4aceea03fc8153feac925ca68997ef8eb1d24bfde9e735",
+      "pdfFileName": "2024年実施_沖縄県_中2数学_一次関数の利用（卒業文集の料金比較）.pdf",
+      "fileSize": 5683352
+    },
+    {
+      "id": "g2-2024-iwate-function-9714f61",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "一次関数の利用（加湿器の水量と運転時間）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "加湿器の水量と運転時間"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-iwate-function-9714f61/page-01.jpg?v=eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0",
+        "/previews/g2-2024-iwate-function-9714f61/page-02.jpg?v=eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0",
+        "/previews/g2-2024-iwate-function-9714f61/page-03.jpg?v=eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0",
+        "/previews/g2-2024-iwate-function-9714f61/page-04.jpg?v=eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0"
+      ],
+      "contentVersion": "eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-iwate-function-9714f61.pdf?rev=eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0",
+      "pdfFileName": "2024年実施_岩手県_中2数学_一次関数の利用（加湿器の水量と運転時間）.pdf",
+      "fileSize": 7539333
+    },
+    {
+      "id": "g1-2024-iwate-function-255e26d",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "反比例の式と値（グラフ上の点）",
+      "shortUnit": "反比例の式と値",
+      "tags": [
+        "グラフ上の点"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-iwate-function-255e26d/page-01.jpg?v=bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356",
+        "/previews/g1-2024-iwate-function-255e26d/page-02.jpg?v=bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356",
+        "/previews/g1-2024-iwate-function-255e26d/page-03.jpg?v=bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356",
+        "/previews/g1-2024-iwate-function-255e26d/page-04.jpg?v=bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356"
+      ],
+      "contentVersion": "bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2024-iwate-function-255e26d.pdf?rev=bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356",
+      "pdfFileName": "2024年実施_岩手県_中1数学_反比例の式と値（グラフ上の点）.pdf",
+      "fileSize": 2508219
+    },
+    {
+      "id": "g1-2024-okinawa-geometry-129cdeb",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "垂線の作図（三角形の高さ）",
+      "shortUnit": "垂線の作図",
+      "tags": [
+        "三角形の高さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-okinawa-geometry-129cdeb/page-01.jpg?v=fa7e347a249c14092de48a2b2f78de68b3f96e925914a64f79b94a1a00943e40",
+        "/previews/g1-2024-okinawa-geometry-129cdeb/page-02.jpg?v=fa7e347a249c14092de48a2b2f78de68b3f96e925914a64f79b94a1a00943e40",
+        "/previews/g1-2024-okinawa-geometry-129cdeb/page-03.jpg?v=fa7e347a249c14092de48a2b2f78de68b3f96e925914a64f79b94a1a00943e40",
+        "/previews/g1-2024-okinawa-geometry-129cdeb/page-04.jpg?v=fa7e347a249c14092de48a2b2f78de68b3f96e925914a64f79b94a1a00943e40"
+      ],
+      "contentVersion": "fa7e347a249c14092de48a2b2f78de68b3f96e925914a64f79b94a1a00943e40",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2024-okinawa-geometry-129cdeb.pdf?rev=fa7e347a249c14092de48a2b2f78de68b3f96e925914a64f79b94a1a00943e40",
+      "pdfFileName": "2024年実施_沖縄県_中1数学_垂線の作図（三角形の高さ）.pdf",
+      "fileSize": 7067625
+    },
+    {
+      "id": "g1-2024-iwate-geometry-e390b1b",
+      "grade": 1,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "基本作図（2辺に接する円の中心）",
+      "shortUnit": "基本作図",
+      "tags": [
+        "2辺に接する円の中心"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2024-iwate-geometry-e390b1b/page-01.jpg?v=fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4",
+        "/previews/g1-2024-iwate-geometry-e390b1b/page-02.jpg?v=fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4",
+        "/previews/g1-2024-iwate-geometry-e390b1b/page-03.jpg?v=fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4",
+        "/previews/g1-2024-iwate-geometry-e390b1b/page-04.jpg?v=fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4"
+      ],
+      "contentVersion": "fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2024-iwate-geometry-e390b1b.pdf?rev=fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4",
+      "pdfFileName": "2024年実施_岩手県_中1数学_基本作図（2辺に接する円の中心）.pdf",
+      "fileSize": 4437274
+    },
+    {
+      "id": "g2-2024-okinawa-data-4536f39",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（プレゼント交換の順列）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "プレゼント交換の順列"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-okinawa-data-4536f39/page-01.jpg?v=12efbf39cca32ef4481f9b1a99688677ecfa7455e278eb260ba235babf36ee3c",
+        "/previews/g2-2024-okinawa-data-4536f39/page-02.jpg?v=12efbf39cca32ef4481f9b1a99688677ecfa7455e278eb260ba235babf36ee3c",
+        "/previews/g2-2024-okinawa-data-4536f39/page-03.jpg?v=12efbf39cca32ef4481f9b1a99688677ecfa7455e278eb260ba235babf36ee3c",
+        "/previews/g2-2024-okinawa-data-4536f39/page-04.jpg?v=12efbf39cca32ef4481f9b1a99688677ecfa7455e278eb260ba235babf36ee3c"
+      ],
+      "contentVersion": "12efbf39cca32ef4481f9b1a99688677ecfa7455e278eb260ba235babf36ee3c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-okinawa-data-4536f39.pdf?rev=12efbf39cca32ef4481f9b1a99688677ecfa7455e278eb260ba235babf36ee3c",
+      "pdfFileName": "2024年実施_沖縄県_中2数学_場合の数と確率（プレゼント交換の順列）.pdf",
+      "fileSize": 4425802
+    },
+    {
+      "id": "g2-2024-okinawa-data-d9a6c76",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "箱ひげ図と四分位範囲（降水日数の比較）",
+      "shortUnit": "箱ひげ図と四分位範囲",
+      "tags": [
+        "降水日数の比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-okinawa-data-d9a6c76/page-01.jpg?v=dd1a7c27ce46fe16950c30627549bc331eefee83a85de137a02de8bc7ae40c76",
+        "/previews/g2-2024-okinawa-data-d9a6c76/page-02.jpg?v=dd1a7c27ce46fe16950c30627549bc331eefee83a85de137a02de8bc7ae40c76",
+        "/previews/g2-2024-okinawa-data-d9a6c76/page-03.jpg?v=dd1a7c27ce46fe16950c30627549bc331eefee83a85de137a02de8bc7ae40c76",
+        "/previews/g2-2024-okinawa-data-d9a6c76/page-04.jpg?v=dd1a7c27ce46fe16950c30627549bc331eefee83a85de137a02de8bc7ae40c76"
+      ],
+      "contentVersion": "dd1a7c27ce46fe16950c30627549bc331eefee83a85de137a02de8bc7ae40c76",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-okinawa-data-d9a6c76.pdf?rev=dd1a7c27ce46fe16950c30627549bc331eefee83a85de137a02de8bc7ae40c76",
+      "pdfFileName": "2024年実施_沖縄県_中2数学_箱ひげ図と四分位範囲（降水日数の比較）.pdf",
+      "fileSize": 7052120
+    },
+    {
+      "id": "g2-2024-iwate-data-f7d3e38",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（カードゲームの勝敗）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "カードゲームの勝敗"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-iwate-data-f7d3e38/page-01.jpg?v=2547f46bd6f78a5ec5007b07a438ce1295ca3f36082355a1c9c6da5257a0005d",
+        "/previews/g2-2024-iwate-data-f7d3e38/page-02.jpg?v=2547f46bd6f78a5ec5007b07a438ce1295ca3f36082355a1c9c6da5257a0005d",
+        "/previews/g2-2024-iwate-data-f7d3e38/page-03.jpg?v=2547f46bd6f78a5ec5007b07a438ce1295ca3f36082355a1c9c6da5257a0005d",
+        "/previews/g2-2024-iwate-data-f7d3e38/page-04.jpg?v=2547f46bd6f78a5ec5007b07a438ce1295ca3f36082355a1c9c6da5257a0005d"
+      ],
+      "contentVersion": "2547f46bd6f78a5ec5007b07a438ce1295ca3f36082355a1c9c6da5257a0005d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-iwate-data-f7d3e38.pdf?rev=2547f46bd6f78a5ec5007b07a438ce1295ca3f36082355a1c9c6da5257a0005d",
+      "pdfFileName": "2024年実施_岩手県_中2数学_場合の数と確率（カードゲームの勝敗）.pdf",
+      "fileSize": 6259330
+    },
+    {
+      "id": "g2-2024-iwate-data-ef7bf03",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "箱ひげ図（中央値・四分位数・作図）",
+      "shortUnit": "箱ひげ図",
+      "tags": [
+        "中央値",
+        "四分位数",
+        "作図"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-iwate-data-ef7bf03/page-01.jpg?v=7178157a4adcb060a72b0d03a4cf84ff811ae8ad1b03dfe5fd7b8954a4bc37ea",
+        "/previews/g2-2024-iwate-data-ef7bf03/page-02.jpg?v=7178157a4adcb060a72b0d03a4cf84ff811ae8ad1b03dfe5fd7b8954a4bc37ea",
+        "/previews/g2-2024-iwate-data-ef7bf03/page-03.jpg?v=7178157a4adcb060a72b0d03a4cf84ff811ae8ad1b03dfe5fd7b8954a4bc37ea",
+        "/previews/g2-2024-iwate-data-ef7bf03/page-04.jpg?v=7178157a4adcb060a72b0d03a4cf84ff811ae8ad1b03dfe5fd7b8954a4bc37ea"
+      ],
+      "contentVersion": "7178157a4adcb060a72b0d03a4cf84ff811ae8ad1b03dfe5fd7b8954a4bc37ea",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-iwate-data-ef7bf03.pdf?rev=7178157a4adcb060a72b0d03a4cf84ff811ae8ad1b03dfe5fd7b8954a4bc37ea",
+      "pdfFileName": "2024年実施_岩手県_中2数学_箱ひげ図（中央値・四分位数・作図）.pdf",
+      "fileSize": 5813749
+    },
+    {
+      "id": "g1-2023-iwate-algebra-5128b58",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "数と式",
+      "unit": "文字式（正方形の周の長さと面積）",
+      "shortUnit": "文字式",
+      "tags": [
+        "正方形の周の長さと面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-iwate-algebra-5128b58/page-01.jpg?v=e9b2cf424556e48f36fdc5f9a6f0a2734156fa2e51c0ee9410c6865e0e126d93",
+        "/previews/g1-2023-iwate-algebra-5128b58/page-02.jpg?v=e9b2cf424556e48f36fdc5f9a6f0a2734156fa2e51c0ee9410c6865e0e126d93",
+        "/previews/g1-2023-iwate-algebra-5128b58/page-03.jpg?v=e9b2cf424556e48f36fdc5f9a6f0a2734156fa2e51c0ee9410c6865e0e126d93",
+        "/previews/g1-2023-iwate-algebra-5128b58/page-04.jpg?v=e9b2cf424556e48f36fdc5f9a6f0a2734156fa2e51c0ee9410c6865e0e126d93"
+      ],
+      "contentVersion": "e9b2cf424556e48f36fdc5f9a6f0a2734156fa2e51c0ee9410c6865e0e126d93",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-iwate-algebra-5128b58.pdf?rev=e9b2cf424556e48f36fdc5f9a6f0a2734156fa2e51c0ee9410c6865e0e126d93",
+      "pdfFileName": "2023年実施_岩手県_中1数学_文字式（正方形の周の長さと面積）.pdf",
+      "fileSize": 1816226
+    },
+    {
+      "id": "g2-2023-iwate-equation-use-0dc3b5d",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（タルトとクッキーの価格）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "タルトとクッキーの価格"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-iwate-equation-use-0dc3b5d/page-01.jpg?v=edb0d6e0b635a29d56532e72a998d9697b0d93bedfc2d0f8fe300f0dc3b63a73",
+        "/previews/g2-2023-iwate-equation-use-0dc3b5d/page-02.jpg?v=edb0d6e0b635a29d56532e72a998d9697b0d93bedfc2d0f8fe300f0dc3b63a73",
+        "/previews/g2-2023-iwate-equation-use-0dc3b5d/page-03.jpg?v=edb0d6e0b635a29d56532e72a998d9697b0d93bedfc2d0f8fe300f0dc3b63a73",
+        "/previews/g2-2023-iwate-equation-use-0dc3b5d/page-04.jpg?v=edb0d6e0b635a29d56532e72a998d9697b0d93bedfc2d0f8fe300f0dc3b63a73"
+      ],
+      "contentVersion": "edb0d6e0b635a29d56532e72a998d9697b0d93bedfc2d0f8fe300f0dc3b63a73",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-iwate-equation-use-0dc3b5d.pdf?rev=edb0d6e0b635a29d56532e72a998d9697b0d93bedfc2d0f8fe300f0dc3b63a73",
+      "pdfFileName": "2023年実施_岩手県_中2数学_連立方程式の利用（タルトとクッキーの価格）.pdf",
+      "fileSize": 3461469
+    },
+    {
+      "id": "g2-2023-okinawa-function-186efc7",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "一次関数の利用（電話料金プランの比較）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "電話料金プランの比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-okinawa-function-186efc7/page-01.jpg?v=d78fbf3e5621b6c20b33f5ffc40912e19c4436a139d0e14098c3f17c3e279b5a",
+        "/previews/g2-2023-okinawa-function-186efc7/page-02.jpg?v=d78fbf3e5621b6c20b33f5ffc40912e19c4436a139d0e14098c3f17c3e279b5a",
+        "/previews/g2-2023-okinawa-function-186efc7/page-03.jpg?v=d78fbf3e5621b6c20b33f5ffc40912e19c4436a139d0e14098c3f17c3e279b5a",
+        "/previews/g2-2023-okinawa-function-186efc7/page-04.jpg?v=d78fbf3e5621b6c20b33f5ffc40912e19c4436a139d0e14098c3f17c3e279b5a"
+      ],
+      "contentVersion": "d78fbf3e5621b6c20b33f5ffc40912e19c4436a139d0e14098c3f17c3e279b5a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-okinawa-function-186efc7.pdf?rev=d78fbf3e5621b6c20b33f5ffc40912e19c4436a139d0e14098c3f17c3e279b5a",
+      "pdfFileName": "2023年実施_沖縄県_中2数学_一次関数の利用（電話料金プランの比較）.pdf",
+      "fileSize": 5275438
+    },
+    {
+      "id": "g2-2023-iwate-function-bc2b5e1",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "一次関数の利用（X線検査機と荷物の面積）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "X線検査機と荷物の面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-iwate-function-bc2b5e1/page-01.jpg?v=ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a",
+        "/previews/g2-2023-iwate-function-bc2b5e1/page-02.jpg?v=ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a",
+        "/previews/g2-2023-iwate-function-bc2b5e1/page-03.jpg?v=ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a",
+        "/previews/g2-2023-iwate-function-bc2b5e1/page-04.jpg?v=ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a"
+      ],
+      "contentVersion": "ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-iwate-function-bc2b5e1.pdf?rev=ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a",
+      "pdfFileName": "2023年実施_岩手県_中2数学_一次関数の利用（X線検査機と荷物の面積）.pdf",
+      "fileSize": 6243692
+    },
+    {
+      "id": "g1-2023-iwate-function-1f9f469",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "比例と反比例（グラフの識別）",
+      "shortUnit": "比例と反比例",
+      "tags": [
+        "グラフの識別"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-iwate-function-1f9f469/page-01.jpg?v=c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5",
+        "/previews/g1-2023-iwate-function-1f9f469/page-02.jpg?v=c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5",
+        "/previews/g1-2023-iwate-function-1f9f469/page-03.jpg?v=c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5",
+        "/previews/g1-2023-iwate-function-1f9f469/page-04.jpg?v=c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5"
+      ],
+      "contentVersion": "c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-iwate-function-1f9f469.pdf?rev=c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5",
+      "pdfFileName": "2023年実施_岩手県_中1数学_比例と反比例（グラフの識別）.pdf",
+      "fileSize": 2978040
+    },
+    {
+      "id": "g1-2023-okinawa-geometry-eb3ab81",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "角の二等分線の作図（三角形）",
+      "shortUnit": "角の二等分線の作図",
+      "tags": [
+        "三角形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-okinawa-geometry-eb3ab81/page-01.jpg?v=5fcf8aa5f1d790b46ffe9fdfb6666e447c90082efaafee15d7a8059654bd13a3",
+        "/previews/g1-2023-okinawa-geometry-eb3ab81/page-02.jpg?v=5fcf8aa5f1d790b46ffe9fdfb6666e447c90082efaafee15d7a8059654bd13a3",
+        "/previews/g1-2023-okinawa-geometry-eb3ab81/page-03.jpg?v=5fcf8aa5f1d790b46ffe9fdfb6666e447c90082efaafee15d7a8059654bd13a3",
+        "/previews/g1-2023-okinawa-geometry-eb3ab81/page-04.jpg?v=5fcf8aa5f1d790b46ffe9fdfb6666e447c90082efaafee15d7a8059654bd13a3"
+      ],
+      "contentVersion": "5fcf8aa5f1d790b46ffe9fdfb6666e447c90082efaafee15d7a8059654bd13a3",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-okinawa-geometry-eb3ab81.pdf?rev=5fcf8aa5f1d790b46ffe9fdfb6666e447c90082efaafee15d7a8059654bd13a3",
+      "pdfFileName": "2023年実施_沖縄県_中1数学_角の二等分線の作図（三角形）.pdf",
+      "fileSize": 3081599
+    },
+    {
+      "id": "g1-2023-iwate-geometry-d84f716",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "基本作図（直角三角形の高さ・垂線）",
+      "shortUnit": "基本作図",
+      "tags": [
+        "直角三角形の高さ",
+        "垂線"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2023-iwate-geometry-d84f716/page-01.jpg?v=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
+        "/previews/g1-2023-iwate-geometry-d84f716/page-02.jpg?v=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
+        "/previews/g1-2023-iwate-geometry-d84f716/page-03.jpg?v=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
+        "/previews/g1-2023-iwate-geometry-d84f716/page-04.jpg?v=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5"
+      ],
+      "contentVersion": "277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-iwate-geometry-d84f716.pdf?rev=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
+      "pdfFileName": "2023年実施_岩手県_中1数学_基本作図（直角三角形の高さ・垂線）.pdf",
+      "fileSize": 3126522
+    },
+    {
+      "id": "g2-2023-okinawa-data-afd60f8",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（2個のさいころ・2けたの整数）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "2個のさいころ",
+        "2けたの整数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-okinawa-data-afd60f8/page-01.jpg?v=f2bd68331cb94b4eab072e1df663550e4742f6ae41dfe8992b40321b30d4a4bb",
+        "/previews/g2-2023-okinawa-data-afd60f8/page-02.jpg?v=f2bd68331cb94b4eab072e1df663550e4742f6ae41dfe8992b40321b30d4a4bb",
+        "/previews/g2-2023-okinawa-data-afd60f8/page-03.jpg?v=f2bd68331cb94b4eab072e1df663550e4742f6ae41dfe8992b40321b30d4a4bb",
+        "/previews/g2-2023-okinawa-data-afd60f8/page-04.jpg?v=f2bd68331cb94b4eab072e1df663550e4742f6ae41dfe8992b40321b30d4a4bb"
+      ],
+      "contentVersion": "f2bd68331cb94b4eab072e1df663550e4742f6ae41dfe8992b40321b30d4a4bb",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-okinawa-data-afd60f8.pdf?rev=f2bd68331cb94b4eab072e1df663550e4742f6ae41dfe8992b40321b30d4a4bb",
+      "pdfFileName": "2023年実施_沖縄県_中2数学_場合の数と確率（2個のさいころ・2けたの整数）.pdf",
+      "fileSize": 3301288
+    },
+    {
+      "id": "g2-2023-okinawa-data-3fd93d9",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "箱ひげ図と四分位範囲（気温データ）",
+      "shortUnit": "箱ひげ図と四分位範囲",
+      "tags": [
+        "気温データ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-okinawa-data-3fd93d9/page-01.jpg?v=4da712a3710567d348174e2e24a53937b5464c37e6f9aa7284f5b790bc7daac6",
+        "/previews/g2-2023-okinawa-data-3fd93d9/page-02.jpg?v=4da712a3710567d348174e2e24a53937b5464c37e6f9aa7284f5b790bc7daac6",
+        "/previews/g2-2023-okinawa-data-3fd93d9/page-03.jpg?v=4da712a3710567d348174e2e24a53937b5464c37e6f9aa7284f5b790bc7daac6",
+        "/previews/g2-2023-okinawa-data-3fd93d9/page-04.jpg?v=4da712a3710567d348174e2e24a53937b5464c37e6f9aa7284f5b790bc7daac6"
+      ],
+      "contentVersion": "4da712a3710567d348174e2e24a53937b5464c37e6f9aa7284f5b790bc7daac6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-okinawa-data-3fd93d9.pdf?rev=4da712a3710567d348174e2e24a53937b5464c37e6f9aa7284f5b790bc7daac6",
+      "pdfFileName": "2023年実施_沖縄県_中2数学_箱ひげ図と四分位範囲（気温データ）.pdf",
+      "fileSize": 6374605
+    },
+    {
+      "id": "g2-2023-iwate-data-a279460",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（じゃんけんカード）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "じゃんけんカード"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-iwate-data-a279460/page-01.jpg?v=6f1a7cda78781462fd54976f3cfbbf18b6bfc922f4785859588e8e465cf5c4b5",
+        "/previews/g2-2023-iwate-data-a279460/page-02.jpg?v=6f1a7cda78781462fd54976f3cfbbf18b6bfc922f4785859588e8e465cf5c4b5",
+        "/previews/g2-2023-iwate-data-a279460/page-03.jpg?v=6f1a7cda78781462fd54976f3cfbbf18b6bfc922f4785859588e8e465cf5c4b5",
+        "/previews/g2-2023-iwate-data-a279460/page-04.jpg?v=6f1a7cda78781462fd54976f3cfbbf18b6bfc922f4785859588e8e465cf5c4b5"
+      ],
+      "contentVersion": "6f1a7cda78781462fd54976f3cfbbf18b6bfc922f4785859588e8e465cf5c4b5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-iwate-data-a279460.pdf?rev=6f1a7cda78781462fd54976f3cfbbf18b6bfc922f4785859588e8e465cf5c4b5",
+      "pdfFileName": "2023年実施_岩手県_中2数学_場合の数と確率（じゃんけんカード）.pdf",
+      "fileSize": 5407164
+    },
+    {
+      "id": "g2-2023-iwate-data-efb86f1",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "箱ひげ図と四分位数（第3四分位数）",
+      "shortUnit": "箱ひげ図と四分位数",
+      "tags": [
+        "第3四分位数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-iwate-data-efb86f1/page-01.jpg?v=bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8",
+        "/previews/g2-2023-iwate-data-efb86f1/page-02.jpg?v=bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8",
+        "/previews/g2-2023-iwate-data-efb86f1/page-03.jpg?v=bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8",
+        "/previews/g2-2023-iwate-data-efb86f1/page-04.jpg?v=bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8"
+      ],
+      "contentVersion": "bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-iwate-data-efb86f1.pdf?rev=bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8",
+      "pdfFileName": "2023年実施_岩手県_中2数学_箱ひげ図と四分位数（第3四分位数）.pdf",
+      "fileSize": 3548182
+    },
     {
       "id": "g1-2023-hokkaido-data-bea1743",
       "grade": 1,
@@ -29,6 +724,332 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-hokkaido-data-bea1743.pdf?rev=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
       "pdfFileName": "2023年実施_北海道_中1数学_度数分布と相対度数（累積度数・度数折れ線・分布の比較）.pdf",
       "fileSize": 11877616
+    },
+    {
+      "id": "g1-2022-iwate-algebra-fbb3e53",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "数と式",
+      "unit": "文字式（代金とおつりの関係）",
+      "shortUnit": "文字式",
+      "tags": [
+        "代金とおつりの関係"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-iwate-algebra-fbb3e53/page-01.jpg?v=31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090",
+        "/previews/g1-2022-iwate-algebra-fbb3e53/page-02.jpg?v=31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090",
+        "/previews/g1-2022-iwate-algebra-fbb3e53/page-03.jpg?v=31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090",
+        "/previews/g1-2022-iwate-algebra-fbb3e53/page-04.jpg?v=31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090"
+      ],
+      "contentVersion": "31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-algebra-fbb3e53.pdf?rev=31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090",
+      "pdfFileName": "2022年実施_岩手県_中1数学_文字式（代金とおつりの関係）.pdf",
+      "fileSize": 1909570
+    },
+    {
+      "id": "g2-2022-iwate-equation-use-8c54f60",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（硬貨の枚数と重さ）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "硬貨の枚数と重さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-iwate-equation-use-8c54f60/page-01.jpg?v=a5612e9302dc57a96e8c5100bd4ce11018b9d98ef5f3d95f6109d4404cc2b7b0",
+        "/previews/g2-2022-iwate-equation-use-8c54f60/page-02.jpg?v=a5612e9302dc57a96e8c5100bd4ce11018b9d98ef5f3d95f6109d4404cc2b7b0",
+        "/previews/g2-2022-iwate-equation-use-8c54f60/page-03.jpg?v=a5612e9302dc57a96e8c5100bd4ce11018b9d98ef5f3d95f6109d4404cc2b7b0",
+        "/previews/g2-2022-iwate-equation-use-8c54f60/page-04.jpg?v=a5612e9302dc57a96e8c5100bd4ce11018b9d98ef5f3d95f6109d4404cc2b7b0"
+      ],
+      "contentVersion": "a5612e9302dc57a96e8c5100bd4ce11018b9d98ef5f3d95f6109d4404cc2b7b0",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-iwate-equation-use-8c54f60.pdf?rev=a5612e9302dc57a96e8c5100bd4ce11018b9d98ef5f3d95f6109d4404cc2b7b0",
+      "pdfFileName": "2022年実施_岩手県_中2数学_連立方程式の利用（硬貨の枚数と重さ）.pdf",
+      "fileSize": 3805516
+    },
+    {
+      "id": "g2-2022-gunma-pattern-c18ea74",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "規則性",
+      "unit": "碁石の規則性と文字式・方程式",
+      "shortUnit": "碁石の規則性と文字式・方程式",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-gunma-pattern-c18ea74/page-01.jpg?v=ebae79ceaba20779b636a288b185b7baa076837c0ca0400d070c77a28c2ff20f",
+        "/previews/g2-2022-gunma-pattern-c18ea74/page-02.jpg?v=ebae79ceaba20779b636a288b185b7baa076837c0ca0400d070c77a28c2ff20f",
+        "/previews/g2-2022-gunma-pattern-c18ea74/page-03.jpg?v=ebae79ceaba20779b636a288b185b7baa076837c0ca0400d070c77a28c2ff20f",
+        "/previews/g2-2022-gunma-pattern-c18ea74/page-04.jpg?v=ebae79ceaba20779b636a288b185b7baa076837c0ca0400d070c77a28c2ff20f"
+      ],
+      "contentVersion": "ebae79ceaba20779b636a288b185b7baa076837c0ca0400d070c77a28c2ff20f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-gunma-pattern-c18ea74.pdf?rev=ebae79ceaba20779b636a288b185b7baa076837c0ca0400d070c77a28c2ff20f",
+      "pdfFileName": "2022年実施_群馬県_中2数学_碁石の規則性と文字式・方程式.pdf",
+      "fileSize": 6243644
+    },
+    {
+      "id": "g2-2022-okinawa-function-a7356bd",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "一次関数の利用（マスク注文料金の比較）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "マスク注文料金の比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-okinawa-function-a7356bd/page-01.jpg?v=093f5f9116a5f22492e1f712ec8894ad47a4dc6542ef06e9b2e0d14ae9324f9a",
+        "/previews/g2-2022-okinawa-function-a7356bd/page-02.jpg?v=093f5f9116a5f22492e1f712ec8894ad47a4dc6542ef06e9b2e0d14ae9324f9a",
+        "/previews/g2-2022-okinawa-function-a7356bd/page-03.jpg?v=093f5f9116a5f22492e1f712ec8894ad47a4dc6542ef06e9b2e0d14ae9324f9a",
+        "/previews/g2-2022-okinawa-function-a7356bd/page-04.jpg?v=093f5f9116a5f22492e1f712ec8894ad47a4dc6542ef06e9b2e0d14ae9324f9a"
+      ],
+      "contentVersion": "093f5f9116a5f22492e1f712ec8894ad47a4dc6542ef06e9b2e0d14ae9324f9a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-okinawa-function-a7356bd.pdf?rev=093f5f9116a5f22492e1f712ec8894ad47a4dc6542ef06e9b2e0d14ae9324f9a",
+      "pdfFileName": "2022年実施_沖縄県_中2数学_一次関数の利用（マスク注文料金の比較）.pdf",
+      "fileSize": 6310102
+    },
+    {
+      "id": "g2-2022-iwate-function-8f4b9be",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（街灯と影）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "街灯と影"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-iwate-function-8f4b9be/page-01.jpg?v=33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974",
+        "/previews/g2-2022-iwate-function-8f4b9be/page-02.jpg?v=33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974",
+        "/previews/g2-2022-iwate-function-8f4b9be/page-03.jpg?v=33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974",
+        "/previews/g2-2022-iwate-function-8f4b9be/page-04.jpg?v=33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974",
+        "/previews/g2-2022-iwate-function-8f4b9be/page-05.jpg?v=33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974"
+      ],
+      "contentVersion": "33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-iwate-function-8f4b9be.pdf?rev=33c5c3600e703d9663169cde47d38835145679b4bdcc5961a4dc69985519e974",
+      "pdfFileName": "2022年実施_岩手県_中2数学_一次関数のグラフの利用（街灯と影）.pdf",
+      "fileSize": 9525582
+    },
+    {
+      "id": "g1-2022-iwate-function-2ee300e",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "比例のグラフ（傾きが負の直線）",
+      "shortUnit": "比例のグラフ",
+      "tags": [
+        "傾きが負の直線"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-iwate-function-2ee300e/page-01.jpg?v=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
+        "/previews/g1-2022-iwate-function-2ee300e/page-02.jpg?v=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
+        "/previews/g1-2022-iwate-function-2ee300e/page-03.jpg?v=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
+        "/previews/g1-2022-iwate-function-2ee300e/page-04.jpg?v=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2"
+      ],
+      "contentVersion": "46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-function-2ee300e.pdf?rev=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
+      "pdfFileName": "2022年実施_岩手県_中1数学_比例のグラフ（傾きが負の直線）.pdf",
+      "fileSize": 3535869
+    },
+    {
+      "id": "g1-2022-okinawa-geometry-3d75645",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "球・円柱・円すい（表面積と体積）",
+      "shortUnit": "球・円柱・円すい",
+      "tags": [
+        "表面積と体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-okinawa-geometry-3d75645/page-01.jpg?v=352062e996e27c9dd6bd13e0ca9678753223c55724150ea76f02bfb61037730a",
+        "/previews/g1-2022-okinawa-geometry-3d75645/page-02.jpg?v=352062e996e27c9dd6bd13e0ca9678753223c55724150ea76f02bfb61037730a",
+        "/previews/g1-2022-okinawa-geometry-3d75645/page-03.jpg?v=352062e996e27c9dd6bd13e0ca9678753223c55724150ea76f02bfb61037730a",
+        "/previews/g1-2022-okinawa-geometry-3d75645/page-04.jpg?v=352062e996e27c9dd6bd13e0ca9678753223c55724150ea76f02bfb61037730a"
+      ],
+      "contentVersion": "352062e996e27c9dd6bd13e0ca9678753223c55724150ea76f02bfb61037730a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-okinawa-geometry-3d75645.pdf?rev=352062e996e27c9dd6bd13e0ca9678753223c55724150ea76f02bfb61037730a",
+      "pdfFileName": "2022年実施_沖縄県_中1数学_球・円柱・円すい（表面積と体積）.pdf",
+      "fileSize": 4160749
+    },
+    {
+      "id": "g2-2022-okinawa-geometry-82f4400",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "作図（平行四辺形・垂直二等分線）",
+      "shortUnit": "作図",
+      "tags": [
+        "平行四辺形",
+        "垂直二等分線"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-okinawa-geometry-82f4400/page-01.jpg?v=889384ee30dbd6f7f7d8d5aeb9ee68d69d11472d1387a47659a5914910e23748",
+        "/previews/g2-2022-okinawa-geometry-82f4400/page-02.jpg?v=889384ee30dbd6f7f7d8d5aeb9ee68d69d11472d1387a47659a5914910e23748",
+        "/previews/g2-2022-okinawa-geometry-82f4400/page-03.jpg?v=889384ee30dbd6f7f7d8d5aeb9ee68d69d11472d1387a47659a5914910e23748",
+        "/previews/g2-2022-okinawa-geometry-82f4400/page-04.jpg?v=889384ee30dbd6f7f7d8d5aeb9ee68d69d11472d1387a47659a5914910e23748"
+      ],
+      "contentVersion": "889384ee30dbd6f7f7d8d5aeb9ee68d69d11472d1387a47659a5914910e23748",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-okinawa-geometry-82f4400.pdf?rev=889384ee30dbd6f7f7d8d5aeb9ee68d69d11472d1387a47659a5914910e23748",
+      "pdfFileName": "2022年実施_沖縄県_中2数学_作図（平行四辺形・垂直二等分線）.pdf",
+      "fileSize": 5295740
+    },
+    {
+      "id": "g1-2022-iwate-geometry-409acee",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "基本作図（角の二等分線と円の交点）",
+      "shortUnit": "基本作図",
+      "tags": [
+        "角の二等分線と円の交点"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-iwate-geometry-409acee/page-01.jpg?v=4289f80515a779a49b8b74a08372f74711075101fa0ce03546c727dc5b0f78d5",
+        "/previews/g1-2022-iwate-geometry-409acee/page-02.jpg?v=4289f80515a779a49b8b74a08372f74711075101fa0ce03546c727dc5b0f78d5",
+        "/previews/g1-2022-iwate-geometry-409acee/page-03.jpg?v=4289f80515a779a49b8b74a08372f74711075101fa0ce03546c727dc5b0f78d5",
+        "/previews/g1-2022-iwate-geometry-409acee/page-04.jpg?v=4289f80515a779a49b8b74a08372f74711075101fa0ce03546c727dc5b0f78d5"
+      ],
+      "contentVersion": "4289f80515a779a49b8b74a08372f74711075101fa0ce03546c727dc5b0f78d5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-geometry-409acee.pdf?rev=4289f80515a779a49b8b74a08372f74711075101fa0ce03546c727dc5b0f78d5",
+      "pdfFileName": "2022年実施_岩手県_中1数学_基本作図（角の二等分線と円の交点）.pdf",
+      "fileSize": 3104751
+    },
+    {
+      "id": "g2-2022-iwate-proof-b898447",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "図形の証明",
+      "unit": "三角形の合同証明（2つの正方形）",
+      "shortUnit": "三角形の合同証明",
+      "tags": [
+        "2つの正方形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-iwate-proof-b898447/page-01.jpg?v=7911f06ad6883e4a89c72f15774261f59776da560af5844b020facb1fd5d877e",
+        "/previews/g2-2022-iwate-proof-b898447/page-02.jpg?v=7911f06ad6883e4a89c72f15774261f59776da560af5844b020facb1fd5d877e",
+        "/previews/g2-2022-iwate-proof-b898447/page-03.jpg?v=7911f06ad6883e4a89c72f15774261f59776da560af5844b020facb1fd5d877e",
+        "/previews/g2-2022-iwate-proof-b898447/page-04.jpg?v=7911f06ad6883e4a89c72f15774261f59776da560af5844b020facb1fd5d877e"
+      ],
+      "contentVersion": "7911f06ad6883e4a89c72f15774261f59776da560af5844b020facb1fd5d877e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-iwate-proof-b898447.pdf?rev=7911f06ad6883e4a89c72f15774261f59776da560af5844b020facb1fd5d877e",
+      "pdfFileName": "2022年実施_岩手県_中2数学_三角形の合同証明（2つの正方形）.pdf",
+      "fileSize": 2673942
+    },
+    {
+      "id": "g2-2022-gunma-proof-6050a80",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "角の二等分線を用いた合同の証明と折り紙の作図",
+      "shortUnit": "角の二等分線を用いた合同の証明と折り紙の作図",
+      "tags": [],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-gunma-proof-6050a80/page-01.jpg?v=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
+        "/previews/g2-2022-gunma-proof-6050a80/page-02.jpg?v=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
+        "/previews/g2-2022-gunma-proof-6050a80/page-03.jpg?v=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
+        "/previews/g2-2022-gunma-proof-6050a80/page-04.jpg?v=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
+        "/previews/g2-2022-gunma-proof-6050a80/page-05.jpg?v=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181"
+      ],
+      "contentVersion": "4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-gunma-proof-6050a80.pdf?rev=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
+      "pdfFileName": "2022年実施_群馬県_中2数学_角の二等分線を用いた合同の証明と折り紙の作図.pdf",
+      "fileSize": 6522195
+    },
+    {
+      "id": "g2-2022-okinawa-data-2505003",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（2回の玉の取り出し・数直線）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "2回の玉の取り出し",
+        "数直線"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-okinawa-data-2505003/page-01.jpg?v=105f95ffbae21bb51e675569c4d4d05db5a1482302ab3d1e6664c500097f7dca",
+        "/previews/g2-2022-okinawa-data-2505003/page-02.jpg?v=105f95ffbae21bb51e675569c4d4d05db5a1482302ab3d1e6664c500097f7dca",
+        "/previews/g2-2022-okinawa-data-2505003/page-03.jpg?v=105f95ffbae21bb51e675569c4d4d05db5a1482302ab3d1e6664c500097f7dca",
+        "/previews/g2-2022-okinawa-data-2505003/page-04.jpg?v=105f95ffbae21bb51e675569c4d4d05db5a1482302ab3d1e6664c500097f7dca"
+      ],
+      "contentVersion": "105f95ffbae21bb51e675569c4d4d05db5a1482302ab3d1e6664c500097f7dca",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-okinawa-data-2505003.pdf?rev=105f95ffbae21bb51e675569c4d4d05db5a1482302ab3d1e6664c500097f7dca",
+      "pdfFileName": "2022年実施_沖縄県_中2数学_場合の数と確率（2回の玉の取り出し・数直線）.pdf",
+      "fileSize": 5488917
+    },
+    {
+      "id": "g2-2022-iwate-data-9c1da10",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（硬貨・カード・正五角形）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "硬貨",
+        "カード",
+        "正五角形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2022-iwate-data-9c1da10/page-01.jpg?v=b7066d1ea5aab0510dd084e1a3ff3a10d584f8a75f46938a6cb6bcb35b26188b",
+        "/previews/g2-2022-iwate-data-9c1da10/page-02.jpg?v=b7066d1ea5aab0510dd084e1a3ff3a10d584f8a75f46938a6cb6bcb35b26188b",
+        "/previews/g2-2022-iwate-data-9c1da10/page-03.jpg?v=b7066d1ea5aab0510dd084e1a3ff3a10d584f8a75f46938a6cb6bcb35b26188b",
+        "/previews/g2-2022-iwate-data-9c1da10/page-04.jpg?v=b7066d1ea5aab0510dd084e1a3ff3a10d584f8a75f46938a6cb6bcb35b26188b"
+      ],
+      "contentVersion": "b7066d1ea5aab0510dd084e1a3ff3a10d584f8a75f46938a6cb6bcb35b26188b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-iwate-data-9c1da10.pdf?rev=b7066d1ea5aab0510dd084e1a3ff3a10d584f8a75f46938a6cb6bcb35b26188b",
+      "pdfFileName": "2022年実施_岩手県_中2数学_場合の数と確率（硬貨・カード・正五角形）.pdf",
+      "fileSize": 6987033
+    },
+    {
+      "id": "g1-2022-iwate-data-2006928",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "度数分布と代表値（最頻値・中央値・平均値）",
+      "shortUnit": "度数分布と代表値",
+      "tags": [
+        "最頻値",
+        "中央値",
+        "平均値"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-iwate-data-2006928/page-01.jpg?v=541f6625a80cc1620fc2ea6ced5415f486a235c1f13f437783ccda570a3544df",
+        "/previews/g1-2022-iwate-data-2006928/page-02.jpg?v=541f6625a80cc1620fc2ea6ced5415f486a235c1f13f437783ccda570a3544df",
+        "/previews/g1-2022-iwate-data-2006928/page-03.jpg?v=541f6625a80cc1620fc2ea6ced5415f486a235c1f13f437783ccda570a3544df",
+        "/previews/g1-2022-iwate-data-2006928/page-04.jpg?v=541f6625a80cc1620fc2ea6ced5415f486a235c1f13f437783ccda570a3544df"
+      ],
+      "contentVersion": "541f6625a80cc1620fc2ea6ced5415f486a235c1f13f437783ccda570a3544df",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-data-2006928.pdf?rev=541f6625a80cc1620fc2ea6ced5415f486a235c1f13f437783ccda570a3544df",
+      "pdfFileName": "2022年実施_岩手県_中1数学_度数分布と代表値（最頻値・中央値・平均値）.pdf",
+      "fileSize": 7284172
     },
     {
       "id": "g2-2022-hokkaido-data-fc0c344",
@@ -58,6 +1079,146 @@
       "fileSize": 8144085
     },
     {
+      "id": "g1-2021-okinawa-algebra-39bdfb6",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "最大公約数（長方形の正方形分割）",
+      "shortUnit": "最大公約数",
+      "tags": [
+        "長方形の正方形分割"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2021-okinawa-algebra-39bdfb6/page-01.jpg?v=baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3",
+        "/previews/g1-2021-okinawa-algebra-39bdfb6/page-02.jpg?v=baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3",
+        "/previews/g1-2021-okinawa-algebra-39bdfb6/page-03.jpg?v=baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3",
+        "/previews/g1-2021-okinawa-algebra-39bdfb6/page-04.jpg?v=baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3",
+        "/previews/g1-2021-okinawa-algebra-39bdfb6/page-05.jpg?v=baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3"
+      ],
+      "contentVersion": "baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-okinawa-algebra-39bdfb6.pdf?rev=baf5458148cf09fd0426645b17456b5cca350ec3811e6538534e4abc60be77d3",
+      "pdfFileName": "2021年実施_沖縄県_中1数学_最大公約数（長方形の正方形分割）.pdf",
+      "fileSize": 7510986
+    },
+    {
+      "id": "g2-2021-iwate-algebra-31b12cf",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "数と式",
+      "unit": "等式の変形（円周の長さの公式）",
+      "shortUnit": "等式の変形",
+      "tags": [
+        "円周の長さの公式"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-iwate-algebra-31b12cf/page-01.jpg?v=3a13b1c80efb019444d15b9f42235dc56c5b976e03ee526b7c40ea57ab06a652",
+        "/previews/g2-2021-iwate-algebra-31b12cf/page-02.jpg?v=3a13b1c80efb019444d15b9f42235dc56c5b976e03ee526b7c40ea57ab06a652",
+        "/previews/g2-2021-iwate-algebra-31b12cf/page-03.jpg?v=3a13b1c80efb019444d15b9f42235dc56c5b976e03ee526b7c40ea57ab06a652",
+        "/previews/g2-2021-iwate-algebra-31b12cf/page-04.jpg?v=3a13b1c80efb019444d15b9f42235dc56c5b976e03ee526b7c40ea57ab06a652"
+      ],
+      "contentVersion": "3a13b1c80efb019444d15b9f42235dc56c5b976e03ee526b7c40ea57ab06a652",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-algebra-31b12cf.pdf?rev=3a13b1c80efb019444d15b9f42235dc56c5b976e03ee526b7c40ea57ab06a652",
+      "pdfFileName": "2021年実施_岩手県_中2数学_等式の変形（円周の長さの公式）.pdf",
+      "fileSize": 1521833
+    },
+    {
+      "id": "g2-2021-iwate-equation-use-cc0d846",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（家庭ごみと資源ごみの排出量）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "家庭ごみと資源ごみの排出量"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-iwate-equation-use-cc0d846/page-01.jpg?v=cfcabcb8bfd2bfd8f858d737efe0925198cd4bd0023d3d3ab9d31eaff88bd8b6",
+        "/previews/g2-2021-iwate-equation-use-cc0d846/page-02.jpg?v=cfcabcb8bfd2bfd8f858d737efe0925198cd4bd0023d3d3ab9d31eaff88bd8b6",
+        "/previews/g2-2021-iwate-equation-use-cc0d846/page-03.jpg?v=cfcabcb8bfd2bfd8f858d737efe0925198cd4bd0023d3d3ab9d31eaff88bd8b6",
+        "/previews/g2-2021-iwate-equation-use-cc0d846/page-04.jpg?v=cfcabcb8bfd2bfd8f858d737efe0925198cd4bd0023d3d3ab9d31eaff88bd8b6"
+      ],
+      "contentVersion": "cfcabcb8bfd2bfd8f858d737efe0925198cd4bd0023d3d3ab9d31eaff88bd8b6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-equation-use-cc0d846.pdf?rev=cfcabcb8bfd2bfd8f858d737efe0925198cd4bd0023d3d3ab9d31eaff88bd8b6",
+      "pdfFileName": "2021年実施_岩手県_中2数学_連立方程式の利用（家庭ごみと資源ごみの排出量）.pdf",
+      "fileSize": 3256559
+    },
+    {
+      "id": "g2-2021-gunma-equation-use-833cafc",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（2けたの整数と位の入れ替え）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "2けたの整数と位の入れ替え"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gunma-equation-use-833cafc/page-01.jpg?v=d9dfed33dce324ebdea3b73473b26e46217ce826df48fb209d4b6bcbf44acead",
+        "/previews/g2-2021-gunma-equation-use-833cafc/page-02.jpg?v=d9dfed33dce324ebdea3b73473b26e46217ce826df48fb209d4b6bcbf44acead",
+        "/previews/g2-2021-gunma-equation-use-833cafc/page-03.jpg?v=d9dfed33dce324ebdea3b73473b26e46217ce826df48fb209d4b6bcbf44acead",
+        "/previews/g2-2021-gunma-equation-use-833cafc/page-04.jpg?v=d9dfed33dce324ebdea3b73473b26e46217ce826df48fb209d4b6bcbf44acead"
+      ],
+      "contentVersion": "d9dfed33dce324ebdea3b73473b26e46217ce826df48fb209d4b6bcbf44acead",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gunma-equation-use-833cafc.pdf?rev=d9dfed33dce324ebdea3b73473b26e46217ce826df48fb209d4b6bcbf44acead",
+      "pdfFileName": "2021年実施_群馬県_中2数学_連立方程式の利用（2けたの整数と位の入れ替え）.pdf",
+      "fileSize": 3323742
+    },
+    {
+      "id": "g2-2021-gunma-equation-use-a63301b",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（男女の人数と割合）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "男女の人数と割合"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gunma-equation-use-a63301b/page-01.jpg?v=8c014e1aee8d76cfbf91ed16477281c739a886025496abde4442b87a85bd16a1",
+        "/previews/g2-2021-gunma-equation-use-a63301b/page-02.jpg?v=8c014e1aee8d76cfbf91ed16477281c739a886025496abde4442b87a85bd16a1",
+        "/previews/g2-2021-gunma-equation-use-a63301b/page-03.jpg?v=8c014e1aee8d76cfbf91ed16477281c739a886025496abde4442b87a85bd16a1",
+        "/previews/g2-2021-gunma-equation-use-a63301b/page-04.jpg?v=8c014e1aee8d76cfbf91ed16477281c739a886025496abde4442b87a85bd16a1"
+      ],
+      "contentVersion": "8c014e1aee8d76cfbf91ed16477281c739a886025496abde4442b87a85bd16a1",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gunma-equation-use-a63301b.pdf?rev=8c014e1aee8d76cfbf91ed16477281c739a886025496abde4442b87a85bd16a1",
+      "pdfFileName": "2021年実施_群馬県_中2数学_連立方程式の利用（男女の人数と割合）.pdf",
+      "fileSize": 2549432
+    },
+    {
+      "id": "g2-2021-okinawa-pattern-a562b83",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "規則性",
+      "unit": "文字式による説明（2けたの数・11の倍数）",
+      "shortUnit": "文字式による説明",
+      "tags": [
+        "2けたの数",
+        "11の倍数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-okinawa-pattern-a562b83/page-01.jpg?v=4c2540ef808e411927a3f0e8f49998e7d299331cf16126c98024b28a26d26d71",
+        "/previews/g2-2021-okinawa-pattern-a562b83/page-02.jpg?v=4c2540ef808e411927a3f0e8f49998e7d299331cf16126c98024b28a26d26d71",
+        "/previews/g2-2021-okinawa-pattern-a562b83/page-03.jpg?v=4c2540ef808e411927a3f0e8f49998e7d299331cf16126c98024b28a26d26d71",
+        "/previews/g2-2021-okinawa-pattern-a562b83/page-04.jpg?v=4c2540ef808e411927a3f0e8f49998e7d299331cf16126c98024b28a26d26d71"
+      ],
+      "contentVersion": "4c2540ef808e411927a3f0e8f49998e7d299331cf16126c98024b28a26d26d71",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-okinawa-pattern-a562b83.pdf?rev=4c2540ef808e411927a3f0e8f49998e7d299331cf16126c98024b28a26d26d71",
+      "pdfFileName": "2021年実施_沖縄県_中2数学_文字式による説明（2けたの数・11の倍数）.pdf",
+      "fileSize": 6717280
+    },
+    {
       "id": "g2-2021-hokkaido-pattern-b3143a5",
       "grade": 2,
       "year": 2021,
@@ -83,6 +1244,77 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-hokkaido-pattern-b3143a5.pdf?rev=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
       "pdfFileName": "2021年実施_北海道_中2数学_規則性と文字式（ストロー・五角形・正六角形・説明）.pdf",
       "fileSize": 8233531
+    },
+    {
+      "id": "g2-2021-iwate-function-7188ecf",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "一次関数の利用（加熱時間・温度・電気料金）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "加熱時間",
+        "温度",
+        "電気料金"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-iwate-function-7188ecf/page-01.jpg?v=5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2",
+        "/previews/g2-2021-iwate-function-7188ecf/page-02.jpg?v=5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2",
+        "/previews/g2-2021-iwate-function-7188ecf/page-03.jpg?v=5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2",
+        "/previews/g2-2021-iwate-function-7188ecf/page-04.jpg?v=5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2"
+      ],
+      "contentVersion": "5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-function-7188ecf.pdf?rev=5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2",
+      "pdfFileName": "2021年実施_岩手県_中2数学_一次関数の利用（加熱時間・温度・電気料金）.pdf",
+      "fileSize": 6837203
+    },
+    {
+      "id": "g1-2021-iwate-function-5b941c8",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "反比例の式（対応表から比例定数を求める）",
+      "shortUnit": "反比例の式",
+      "tags": [
+        "対応表から比例定数を求める"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2021-iwate-function-5b941c8/page-01.jpg?v=cc742a1a7091275b6b70859e5be57494876c1aac3978a48f3c5d051eec3b520b",
+        "/previews/g1-2021-iwate-function-5b941c8/page-02.jpg?v=cc742a1a7091275b6b70859e5be57494876c1aac3978a48f3c5d051eec3b520b",
+        "/previews/g1-2021-iwate-function-5b941c8/page-03.jpg?v=cc742a1a7091275b6b70859e5be57494876c1aac3978a48f3c5d051eec3b520b",
+        "/previews/g1-2021-iwate-function-5b941c8/page-04.jpg?v=cc742a1a7091275b6b70859e5be57494876c1aac3978a48f3c5d051eec3b520b"
+      ],
+      "contentVersion": "cc742a1a7091275b6b70859e5be57494876c1aac3978a48f3c5d051eec3b520b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-iwate-function-5b941c8.pdf?rev=cc742a1a7091275b6b70859e5be57494876c1aac3978a48f3c5d051eec3b520b",
+      "pdfFileName": "2021年実施_岩手県_中1数学_反比例の式（対応表から比例定数を求める）.pdf",
+      "fileSize": 1922594
+    },
+    {
+      "id": "g2-2021-gunma-function-ef298f9",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "関数",
+      "unit": "一次関数の利用（円周上の動点と速さ）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "円周上の動点と速さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gunma-function-ef298f9/page-01.jpg?v=f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48",
+        "/previews/g2-2021-gunma-function-ef298f9/page-02.jpg?v=f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48",
+        "/previews/g2-2021-gunma-function-ef298f9/page-03.jpg?v=f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48",
+        "/previews/g2-2021-gunma-function-ef298f9/page-04.jpg?v=f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48"
+      ],
+      "contentVersion": "f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gunma-function-ef298f9.pdf?rev=f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48",
+      "pdfFileName": "2021年実施_群馬県_中2数学_一次関数の利用（円周上の動点と速さ）.pdf",
+      "fileSize": 5909360
     },
     {
       "id": "g2-2021-fukuoka-function-14fefc7",
@@ -111,6 +1343,95 @@
       "fileSize": 8522960
     },
     {
+      "id": "g2-2021-okinawa-geometry-1ab8240",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "角の二等分線の作図（平行線・二等辺三角形）",
+      "shortUnit": "角の二等分線の作図",
+      "tags": [
+        "平行線",
+        "二等辺三角形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-okinawa-geometry-1ab8240/page-01.jpg?v=d5ddb60b10c06f1b98006cfc432726518aa6db27ca9814830ae89fa46e9c4a5b",
+        "/previews/g2-2021-okinawa-geometry-1ab8240/page-02.jpg?v=d5ddb60b10c06f1b98006cfc432726518aa6db27ca9814830ae89fa46e9c4a5b",
+        "/previews/g2-2021-okinawa-geometry-1ab8240/page-03.jpg?v=d5ddb60b10c06f1b98006cfc432726518aa6db27ca9814830ae89fa46e9c4a5b",
+        "/previews/g2-2021-okinawa-geometry-1ab8240/page-04.jpg?v=d5ddb60b10c06f1b98006cfc432726518aa6db27ca9814830ae89fa46e9c4a5b"
+      ],
+      "contentVersion": "d5ddb60b10c06f1b98006cfc432726518aa6db27ca9814830ae89fa46e9c4a5b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-okinawa-geometry-1ab8240.pdf?rev=d5ddb60b10c06f1b98006cfc432726518aa6db27ca9814830ae89fa46e9c4a5b",
+      "pdfFileName": "2021年実施_沖縄県_中2数学_角の二等分線の作図（平行線・二等辺三角形）.pdf",
+      "fileSize": 4690828
+    },
+    {
+      "id": "g2-2021-gunma-geometry-213c217",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "四角形の包含関係と成立条件",
+      "shortUnit": "四角形の包含関係と成立条件",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gunma-geometry-213c217/page-01.jpg?v=af36dd5e28690c46674215e9ee0ad692db702e8fa58d5a60d9863def37367614",
+        "/previews/g2-2021-gunma-geometry-213c217/page-02.jpg?v=af36dd5e28690c46674215e9ee0ad692db702e8fa58d5a60d9863def37367614",
+        "/previews/g2-2021-gunma-geometry-213c217/page-03.jpg?v=af36dd5e28690c46674215e9ee0ad692db702e8fa58d5a60d9863def37367614",
+        "/previews/g2-2021-gunma-geometry-213c217/page-04.jpg?v=af36dd5e28690c46674215e9ee0ad692db702e8fa58d5a60d9863def37367614"
+      ],
+      "contentVersion": "af36dd5e28690c46674215e9ee0ad692db702e8fa58d5a60d9863def37367614",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gunma-geometry-213c217.pdf?rev=af36dd5e28690c46674215e9ee0ad692db702e8fa58d5a60d9863def37367614",
+      "pdfFileName": "2021年実施_群馬県_中2数学_四角形の包含関係と成立条件.pdf",
+      "fileSize": 5157732
+    },
+    {
+      "id": "g1-2021-gunma-geometry-74b824d",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "二等辺三角形と垂直二等分線の作図・説明",
+      "shortUnit": "二等辺三角形と垂直二等分線の作図・説明",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2021-gunma-geometry-74b824d/page-01.jpg?v=3785957d1b684ec6050c5292cf9a725dfa0e861b4e399e08909da1214a5954e0",
+        "/previews/g1-2021-gunma-geometry-74b824d/page-02.jpg?v=3785957d1b684ec6050c5292cf9a725dfa0e861b4e399e08909da1214a5954e0",
+        "/previews/g1-2021-gunma-geometry-74b824d/page-03.jpg?v=3785957d1b684ec6050c5292cf9a725dfa0e861b4e399e08909da1214a5954e0",
+        "/previews/g1-2021-gunma-geometry-74b824d/page-04.jpg?v=3785957d1b684ec6050c5292cf9a725dfa0e861b4e399e08909da1214a5954e0"
+      ],
+      "contentVersion": "3785957d1b684ec6050c5292cf9a725dfa0e861b4e399e08909da1214a5954e0",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-gunma-geometry-74b824d.pdf?rev=3785957d1b684ec6050c5292cf9a725dfa0e861b4e399e08909da1214a5954e0",
+      "pdfFileName": "2021年実施_群馬県_中1数学_二等辺三角形と垂直二等分線の作図・説明.pdf",
+      "fileSize": 5474781
+    },
+    {
+      "id": "g2-2021-iwate-proof-fd0573b",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "図形の証明",
+      "unit": "三角形の合同証明（平行線の錯角と同位角）",
+      "shortUnit": "三角形の合同証明",
+      "tags": [
+        "平行線の錯角と同位角"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-iwate-proof-fd0573b/page-01.jpg?v=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
+        "/previews/g2-2021-iwate-proof-fd0573b/page-02.jpg?v=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
+        "/previews/g2-2021-iwate-proof-fd0573b/page-03.jpg?v=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
+        "/previews/g2-2021-iwate-proof-fd0573b/page-04.jpg?v=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5"
+      ],
+      "contentVersion": "ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-proof-fd0573b.pdf?rev=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
+      "pdfFileName": "2021年実施_岩手県_中2数学_三角形の合同証明（平行線の錯角と同位角）.pdf",
+      "fileSize": 2804261
+    },
+    {
       "id": "g2-2021-hokkaido-proof-5478fa7",
       "grade": 2,
       "year": 2021,
@@ -136,6 +1457,77 @@
       "fileSize": 3804318
     },
     {
+      "id": "g2-2021-okinawa-data-9bfedfa",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（2個のさいころ・座標）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "2個のさいころ",
+        "座標"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-okinawa-data-9bfedfa/page-01.jpg?v=c4ead33d3219a8f196308c1d3b4c041bd1acc0a537b16d86de9884d3e08dd112",
+        "/previews/g2-2021-okinawa-data-9bfedfa/page-02.jpg?v=c4ead33d3219a8f196308c1d3b4c041bd1acc0a537b16d86de9884d3e08dd112",
+        "/previews/g2-2021-okinawa-data-9bfedfa/page-03.jpg?v=c4ead33d3219a8f196308c1d3b4c041bd1acc0a537b16d86de9884d3e08dd112",
+        "/previews/g2-2021-okinawa-data-9bfedfa/page-04.jpg?v=c4ead33d3219a8f196308c1d3b4c041bd1acc0a537b16d86de9884d3e08dd112"
+      ],
+      "contentVersion": "c4ead33d3219a8f196308c1d3b4c041bd1acc0a537b16d86de9884d3e08dd112",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-okinawa-data-9bfedfa.pdf?rev=c4ead33d3219a8f196308c1d3b4c041bd1acc0a537b16d86de9884d3e08dd112",
+      "pdfFileName": "2021年実施_沖縄県_中2数学_場合の数と確率（2個のさいころ・座標）.pdf",
+      "fileSize": 4506921
+    },
+    {
+      "id": "g2-2021-iwate-data-b4ff220",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "確率（2通りの選曲方法の比較）",
+      "shortUnit": "確率",
+      "tags": [
+        "2通りの選曲方法の比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-iwate-data-b4ff220/page-01.jpg?v=cfce083d7adbb9ed1da7a33340dc47dba542d5e5d5a5dbd5b0533add01a3da6b",
+        "/previews/g2-2021-iwate-data-b4ff220/page-02.jpg?v=cfce083d7adbb9ed1da7a33340dc47dba542d5e5d5a5dbd5b0533add01a3da6b",
+        "/previews/g2-2021-iwate-data-b4ff220/page-03.jpg?v=cfce083d7adbb9ed1da7a33340dc47dba542d5e5d5a5dbd5b0533add01a3da6b",
+        "/previews/g2-2021-iwate-data-b4ff220/page-04.jpg?v=cfce083d7adbb9ed1da7a33340dc47dba542d5e5d5a5dbd5b0533add01a3da6b"
+      ],
+      "contentVersion": "cfce083d7adbb9ed1da7a33340dc47dba542d5e5d5a5dbd5b0533add01a3da6b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-data-b4ff220.pdf?rev=cfce083d7adbb9ed1da7a33340dc47dba542d5e5d5a5dbd5b0533add01a3da6b",
+      "pdfFileName": "2021年実施_岩手県_中2数学_確率（2通りの選曲方法の比較）.pdf",
+      "fileSize": 4675865
+    },
+    {
+      "id": "g1-2021-iwate-data-4f80620",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "データの活用",
+      "unit": "度数分布表と代表値（最頻値・平均値）",
+      "shortUnit": "度数分布表と代表値",
+      "tags": [
+        "最頻値",
+        "平均値"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2021-iwate-data-4f80620/page-01.jpg?v=cc6a7e31d9621e59fc163246bb4aa42b93cf565faa77c8993762f516f8de8975",
+        "/previews/g1-2021-iwate-data-4f80620/page-02.jpg?v=cc6a7e31d9621e59fc163246bb4aa42b93cf565faa77c8993762f516f8de8975",
+        "/previews/g1-2021-iwate-data-4f80620/page-03.jpg?v=cc6a7e31d9621e59fc163246bb4aa42b93cf565faa77c8993762f516f8de8975",
+        "/previews/g1-2021-iwate-data-4f80620/page-04.jpg?v=cc6a7e31d9621e59fc163246bb4aa42b93cf565faa77c8993762f516f8de8975"
+      ],
+      "contentVersion": "cc6a7e31d9621e59fc163246bb4aa42b93cf565faa77c8993762f516f8de8975",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-iwate-data-4f80620.pdf?rev=cc6a7e31d9621e59fc163246bb4aa42b93cf565faa77c8993762f516f8de8975",
+      "pdfFileName": "2021年実施_岩手県_中1数学_度数分布表と代表値（最頻値・平均値）.pdf",
+      "fileSize": 3529001
+    },
+    {
       "id": "g1-2021-fukuoka-data-07c42de",
       "grade": 1,
       "year": 2021,
@@ -157,6 +1549,101 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-fukuoka-data-07c42de.pdf?rev=3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85",
       "pdfFileName": "2021年実施_福岡県_中1数学_相対度数と代表値（紙飛行機の飛行距離のヒストグラム）.pdf",
       "fileSize": 5847778
+    },
+    {
+      "id": "g2-2020-gunma-algebra-77609ed",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "群馬県",
+      "field": "数と式",
+      "unit": "文字式を用いた整数の性質の証明（11の倍数）",
+      "shortUnit": "文字式を用いた整数の性質の証明",
+      "tags": [
+        "11の倍数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-gunma-algebra-77609ed/page-01.jpg?v=906d0dd3c23d9d6c2a540153211259a407934a65e603356f8d511dac4c901452",
+        "/previews/g2-2020-gunma-algebra-77609ed/page-02.jpg?v=906d0dd3c23d9d6c2a540153211259a407934a65e603356f8d511dac4c901452",
+        "/previews/g2-2020-gunma-algebra-77609ed/page-03.jpg?v=906d0dd3c23d9d6c2a540153211259a407934a65e603356f8d511dac4c901452",
+        "/previews/g2-2020-gunma-algebra-77609ed/page-04.jpg?v=906d0dd3c23d9d6c2a540153211259a407934a65e603356f8d511dac4c901452"
+      ],
+      "contentVersion": "906d0dd3c23d9d6c2a540153211259a407934a65e603356f8d511dac4c901452",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-gunma-algebra-77609ed.pdf?rev=906d0dd3c23d9d6c2a540153211259a407934a65e603356f8d511dac4c901452",
+      "pdfFileName": "2020年実施_群馬県_中2数学_文字式を用いた整数の性質の証明（11の倍数）.pdf",
+      "fileSize": 2744463
+    },
+    {
+      "id": "g1-2020-gunma-equation-use-5f9c3bc",
+      "grade": 1,
+      "year": 2020,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "一次方程式の利用（税率の異なる商品の販売数）",
+      "shortUnit": "一次方程式の利用",
+      "tags": [
+        "税率の異なる商品の販売数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2020-gunma-equation-use-5f9c3bc/page-01.jpg?v=1026baa62693bd923ce97d848f3744b9ab52f7d9c0f840e2a96040004f0c31c4",
+        "/previews/g1-2020-gunma-equation-use-5f9c3bc/page-02.jpg?v=1026baa62693bd923ce97d848f3744b9ab52f7d9c0f840e2a96040004f0c31c4",
+        "/previews/g1-2020-gunma-equation-use-5f9c3bc/page-03.jpg?v=1026baa62693bd923ce97d848f3744b9ab52f7d9c0f840e2a96040004f0c31c4",
+        "/previews/g1-2020-gunma-equation-use-5f9c3bc/page-04.jpg?v=1026baa62693bd923ce97d848f3744b9ab52f7d9c0f840e2a96040004f0c31c4"
+      ],
+      "contentVersion": "1026baa62693bd923ce97d848f3744b9ab52f7d9c0f840e2a96040004f0c31c4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2020-gunma-equation-use-5f9c3bc.pdf?rev=1026baa62693bd923ce97d848f3744b9ab52f7d9c0f840e2a96040004f0c31c4",
+      "pdfFileName": "2020年実施_群馬県_中1数学_一次方程式の利用（税率の異なる商品の販売数）.pdf",
+      "fileSize": 1804822
+    },
+    {
+      "id": "g2-2020-okinawa-pattern-8ef905f",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "規則性",
+      "unit": "操作の規則性（命令・余り・周期）",
+      "shortUnit": "操作の規則性",
+      "tags": [
+        "命令",
+        "余り",
+        "周期"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2020-okinawa-pattern-8ef905f/page-01.jpg?v=5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665",
+        "/previews/g2-2020-okinawa-pattern-8ef905f/page-02.jpg?v=5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665",
+        "/previews/g2-2020-okinawa-pattern-8ef905f/page-03.jpg?v=5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665",
+        "/previews/g2-2020-okinawa-pattern-8ef905f/page-04.jpg?v=5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665",
+        "/previews/g2-2020-okinawa-pattern-8ef905f/page-05.jpg?v=5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665"
+      ],
+      "contentVersion": "5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-pattern-8ef905f.pdf?rev=5556ce94690dce26ac429eb022ac9e18937bb0629b3c7dd5636922507f0a4665",
+      "pdfFileName": "2020年実施_沖縄県_中2数学_操作の規則性（命令・余り・周期）.pdf",
+      "fileSize": 12813837
+    },
+    {
+      "id": "g2-2020-okinawa-pattern-ac08267",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "規則性",
+      "unit": "文字式による説明（カレンダーの5数の和）",
+      "shortUnit": "文字式による説明",
+      "tags": [
+        "カレンダーの5数の和"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-okinawa-pattern-ac08267/page-01.jpg?v=f486c6aa0202b245a4b367a7f6ff78e50a00bc8872e5eef9dfb05d0120cf6f2e",
+        "/previews/g2-2020-okinawa-pattern-ac08267/page-02.jpg?v=f486c6aa0202b245a4b367a7f6ff78e50a00bc8872e5eef9dfb05d0120cf6f2e",
+        "/previews/g2-2020-okinawa-pattern-ac08267/page-03.jpg?v=f486c6aa0202b245a4b367a7f6ff78e50a00bc8872e5eef9dfb05d0120cf6f2e",
+        "/previews/g2-2020-okinawa-pattern-ac08267/page-04.jpg?v=f486c6aa0202b245a4b367a7f6ff78e50a00bc8872e5eef9dfb05d0120cf6f2e"
+      ],
+      "contentVersion": "f486c6aa0202b245a4b367a7f6ff78e50a00bc8872e5eef9dfb05d0120cf6f2e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-pattern-ac08267.pdf?rev=f486c6aa0202b245a4b367a7f6ff78e50a00bc8872e5eef9dfb05d0120cf6f2e",
+      "pdfFileName": "2020年実施_沖縄県_中2数学_文字式による説明（カレンダーの5数の和）.pdf",
+      "fileSize": 9404299
     },
     {
       "id": "g2-2020-hokkaido-pattern-d8e2220",
@@ -183,6 +1670,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-hokkaido-pattern-d8e2220.pdf?rev=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
       "pdfFileName": "2020年実施_北海道_中2数学_整数の性質と文字式（倍数・カレンダー・うるう年の周期）.pdf",
       "fileSize": 7673770
+    },
+    {
+      "id": "g2-2020-okinawa-function-7f7d632",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "一次関数と動点（直角三角形の面積）",
+      "shortUnit": "一次関数と動点",
+      "tags": [
+        "直角三角形の面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-okinawa-function-7f7d632/page-01.jpg?v=6aac32ebf8f8f8adfec9e09509d3625c9f778220021fc46a8765d208e51f8d45",
+        "/previews/g2-2020-okinawa-function-7f7d632/page-02.jpg?v=6aac32ebf8f8f8adfec9e09509d3625c9f778220021fc46a8765d208e51f8d45",
+        "/previews/g2-2020-okinawa-function-7f7d632/page-03.jpg?v=6aac32ebf8f8f8adfec9e09509d3625c9f778220021fc46a8765d208e51f8d45",
+        "/previews/g2-2020-okinawa-function-7f7d632/page-04.jpg?v=6aac32ebf8f8f8adfec9e09509d3625c9f778220021fc46a8765d208e51f8d45"
+      ],
+      "contentVersion": "6aac32ebf8f8f8adfec9e09509d3625c9f778220021fc46a8765d208e51f8d45",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-function-7f7d632.pdf?rev=6aac32ebf8f8f8adfec9e09509d3625c9f778220021fc46a8765d208e51f8d45",
+      "pdfFileName": "2020年実施_沖縄県_中2数学_一次関数と動点（直角三角形の面積）.pdf",
+      "fileSize": 6047936
     },
     {
       "id": "g2-2020-nagano-function-3c27a83",
@@ -233,6 +1743,75 @@
       "fileSize": 7484134
     },
     {
+      "id": "g1-2020-okinawa-geometry-b7f5a7b",
+      "grade": 1,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "作図と対称移動（線分の長さの和）",
+      "shortUnit": "作図と対称移動",
+      "tags": [
+        "線分の長さの和"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2020-okinawa-geometry-b7f5a7b/page-01.jpg?v=c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344",
+        "/previews/g1-2020-okinawa-geometry-b7f5a7b/page-02.jpg?v=c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344",
+        "/previews/g1-2020-okinawa-geometry-b7f5a7b/page-03.jpg?v=c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344",
+        "/previews/g1-2020-okinawa-geometry-b7f5a7b/page-04.jpg?v=c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344"
+      ],
+      "contentVersion": "c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2020-okinawa-geometry-b7f5a7b.pdf?rev=c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344",
+      "pdfFileName": "2020年実施_沖縄県_中1数学_作図と対称移動（線分の長さの和）.pdf",
+      "fileSize": 6750282
+    },
+    {
+      "id": "g2-2020-okinawa-proof-fe426e0",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "図形の証明",
+      "unit": "平行四辺形と合同の証明（面積比）",
+      "shortUnit": "平行四辺形と合同の証明",
+      "tags": [
+        "面積比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-okinawa-proof-fe426e0/page-01.jpg?v=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
+        "/previews/g2-2020-okinawa-proof-fe426e0/page-02.jpg?v=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
+        "/previews/g2-2020-okinawa-proof-fe426e0/page-03.jpg?v=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
+        "/previews/g2-2020-okinawa-proof-fe426e0/page-04.jpg?v=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e"
+      ],
+      "contentVersion": "bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-proof-fe426e0.pdf?rev=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
+      "pdfFileName": "2020年実施_沖縄県_中2数学_平行四辺形と合同の証明（面積比）.pdf",
+      "fileSize": 7253734
+    },
+    {
+      "id": "g2-2020-okinawa-data-f675a87",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（カード2枚でつくる整数）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "カード2枚でつくる整数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-okinawa-data-f675a87/page-01.jpg?v=0ad3f879d694e1fc54512ce2755a01be6a1e94c7c1a11f7ec9bc2644c52d54fd",
+        "/previews/g2-2020-okinawa-data-f675a87/page-02.jpg?v=0ad3f879d694e1fc54512ce2755a01be6a1e94c7c1a11f7ec9bc2644c52d54fd",
+        "/previews/g2-2020-okinawa-data-f675a87/page-03.jpg?v=0ad3f879d694e1fc54512ce2755a01be6a1e94c7c1a11f7ec9bc2644c52d54fd",
+        "/previews/g2-2020-okinawa-data-f675a87/page-04.jpg?v=0ad3f879d694e1fc54512ce2755a01be6a1e94c7c1a11f7ec9bc2644c52d54fd"
+      ],
+      "contentVersion": "0ad3f879d694e1fc54512ce2755a01be6a1e94c7c1a11f7ec9bc2644c52d54fd",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-data-f675a87.pdf?rev=0ad3f879d694e1fc54512ce2755a01be6a1e94c7c1a11f7ec9bc2644c52d54fd",
+      "pdfFileName": "2020年実施_沖縄県_中2数学_場合の数と確率（カード2枚でつくる整数）.pdf",
+      "fileSize": 4576562
+    },
+    {
       "id": "g2-2020-fukuoka-data-ed159c6",
       "grade": 2,
       "year": 2020,
@@ -280,6 +1859,76 @@
       "fileSize": 5629637
     },
     {
+      "id": "g1-2019-gunma-equation-use-9901989",
+      "grade": 1,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "一次方程式の利用（硬貨の枚数と重さ）",
+      "shortUnit": "一次方程式の利用",
+      "tags": [
+        "硬貨の枚数と重さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2019-gunma-equation-use-9901989/page-01.jpg?v=528b3b13e0b4ada789fcaea4ca3b68b399dd46d6f27c4d00a117ef400eeca540",
+        "/previews/g1-2019-gunma-equation-use-9901989/page-02.jpg?v=528b3b13e0b4ada789fcaea4ca3b68b399dd46d6f27c4d00a117ef400eeca540",
+        "/previews/g1-2019-gunma-equation-use-9901989/page-03.jpg?v=528b3b13e0b4ada789fcaea4ca3b68b399dd46d6f27c4d00a117ef400eeca540",
+        "/previews/g1-2019-gunma-equation-use-9901989/page-04.jpg?v=528b3b13e0b4ada789fcaea4ca3b68b399dd46d6f27c4d00a117ef400eeca540"
+      ],
+      "contentVersion": "528b3b13e0b4ada789fcaea4ca3b68b399dd46d6f27c4d00a117ef400eeca540",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2019-gunma-equation-use-9901989.pdf?rev=528b3b13e0b4ada789fcaea4ca3b68b399dd46d6f27c4d00a117ef400eeca540",
+      "pdfFileName": "2019年実施_群馬県_中1数学_一次方程式の利用（硬貨の枚数と重さ）.pdf",
+      "fileSize": 3044105
+    },
+    {
+      "id": "g2-2019-gunma-equation-use-8978fe8",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（ガスの基本料金と従量料金）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "ガスの基本料金と従量料金"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-gunma-equation-use-8978fe8/page-01.jpg?v=2c25ab2c79dd13ea18c3f79c566a7585ada111b69746417e71cdb653d5286e0b",
+        "/previews/g2-2019-gunma-equation-use-8978fe8/page-02.jpg?v=2c25ab2c79dd13ea18c3f79c566a7585ada111b69746417e71cdb653d5286e0b",
+        "/previews/g2-2019-gunma-equation-use-8978fe8/page-03.jpg?v=2c25ab2c79dd13ea18c3f79c566a7585ada111b69746417e71cdb653d5286e0b",
+        "/previews/g2-2019-gunma-equation-use-8978fe8/page-04.jpg?v=2c25ab2c79dd13ea18c3f79c566a7585ada111b69746417e71cdb653d5286e0b"
+      ],
+      "contentVersion": "2c25ab2c79dd13ea18c3f79c566a7585ada111b69746417e71cdb653d5286e0b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gunma-equation-use-8978fe8.pdf?rev=2c25ab2c79dd13ea18c3f79c566a7585ada111b69746417e71cdb653d5286e0b",
+      "pdfFileName": "2019年実施_群馬県_中2数学_連立方程式の利用（ガスの基本料金と従量料金）.pdf",
+      "fileSize": 3967367
+    },
+    {
+      "id": "g2-2019-okinawa-pattern-cfb5dbe",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "規則性",
+      "unit": "規則性（円形に並べた駒の裏返し）",
+      "shortUnit": "規則性",
+      "tags": [
+        "円形に並べた駒の裏返し"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2019-okinawa-pattern-cfb5dbe/page-01.jpg?v=e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca",
+        "/previews/g2-2019-okinawa-pattern-cfb5dbe/page-02.jpg?v=e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca",
+        "/previews/g2-2019-okinawa-pattern-cfb5dbe/page-03.jpg?v=e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca",
+        "/previews/g2-2019-okinawa-pattern-cfb5dbe/page-04.jpg?v=e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca",
+        "/previews/g2-2019-okinawa-pattern-cfb5dbe/page-05.jpg?v=e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca"
+      ],
+      "contentVersion": "e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-okinawa-pattern-cfb5dbe.pdf?rev=e59cd88dc8d5978539db6ec1928184db275fba14f0e0faa94af656c80897adca",
+      "pdfFileName": "2019年実施_沖縄県_中2数学_規則性（円形に並べた駒の裏返し）.pdf",
+      "fileSize": 5395419
+    },
+    {
       "id": "g2-2019-hokkaido-pattern-f9114b9",
       "grade": 2,
       "year": 2019,
@@ -303,6 +1952,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-hokkaido-pattern-f9114b9.pdf?rev=9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4",
       "pdfFileName": "2019年実施_北海道_中2数学_文字式による説明（ます目の和・単項式・方程式の応用）.pdf",
       "fileSize": 6400155
+    },
+    {
+      "id": "g2-2019-okinawa-function-18ce45c",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "一次関数の利用（電気料金プランの比較）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "電気料金プランの比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-okinawa-function-18ce45c/page-01.jpg?v=4d61b791377456f01dced006c03fe2c09c1b28dfeace100098a9908bd2320f91",
+        "/previews/g2-2019-okinawa-function-18ce45c/page-02.jpg?v=4d61b791377456f01dced006c03fe2c09c1b28dfeace100098a9908bd2320f91",
+        "/previews/g2-2019-okinawa-function-18ce45c/page-03.jpg?v=4d61b791377456f01dced006c03fe2c09c1b28dfeace100098a9908bd2320f91",
+        "/previews/g2-2019-okinawa-function-18ce45c/page-04.jpg?v=4d61b791377456f01dced006c03fe2c09c1b28dfeace100098a9908bd2320f91"
+      ],
+      "contentVersion": "4d61b791377456f01dced006c03fe2c09c1b28dfeace100098a9908bd2320f91",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-okinawa-function-18ce45c.pdf?rev=4d61b791377456f01dced006c03fe2c09c1b28dfeace100098a9908bd2320f91",
+      "pdfFileName": "2019年実施_沖縄県_中2数学_一次関数の利用（電気料金プランの比較）.pdf",
+      "fileSize": 5794259
     },
     {
       "id": "g2-2019-nagano-function-d0f869f",
@@ -353,6 +2025,50 @@
       "fileSize": 6892640
     },
     {
+      "id": "g1-2019-okinawa-geometry-9816cb5",
+      "grade": 1,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "垂直二等分線の作図（2点から等距離の点）",
+      "shortUnit": "垂直二等分線の作図",
+      "tags": [
+        "2点から等距離の点"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2019-okinawa-geometry-9816cb5/page-01.jpg?v=d6a49a00d4fc4ce154d6a59146740e8d936e6cc0d40980fd1cecbbadc0d5b6f4",
+        "/previews/g1-2019-okinawa-geometry-9816cb5/page-02.jpg?v=d6a49a00d4fc4ce154d6a59146740e8d936e6cc0d40980fd1cecbbadc0d5b6f4",
+        "/previews/g1-2019-okinawa-geometry-9816cb5/page-03.jpg?v=d6a49a00d4fc4ce154d6a59146740e8d936e6cc0d40980fd1cecbbadc0d5b6f4",
+        "/previews/g1-2019-okinawa-geometry-9816cb5/page-04.jpg?v=d6a49a00d4fc4ce154d6a59146740e8d936e6cc0d40980fd1cecbbadc0d5b6f4"
+      ],
+      "contentVersion": "d6a49a00d4fc4ce154d6a59146740e8d936e6cc0d40980fd1cecbbadc0d5b6f4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2019-okinawa-geometry-9816cb5.pdf?rev=d6a49a00d4fc4ce154d6a59146740e8d936e6cc0d40980fd1cecbbadc0d5b6f4",
+      "pdfFileName": "2019年実施_沖縄県_中1数学_垂直二等分線の作図（2点から等距離の点）.pdf",
+      "fileSize": 2312612
+    },
+    {
+      "id": "g2-2019-gunma-proof-598ce98",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "角の二等分線の作図と垂直であることの証明",
+      "shortUnit": "角の二等分線の作図と垂直であることの証明",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-gunma-proof-598ce98/page-01.jpg?v=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
+        "/previews/g2-2019-gunma-proof-598ce98/page-02.jpg?v=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
+        "/previews/g2-2019-gunma-proof-598ce98/page-03.jpg?v=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
+        "/previews/g2-2019-gunma-proof-598ce98/page-04.jpg?v=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be"
+      ],
+      "contentVersion": "3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gunma-proof-598ce98.pdf?rev=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
+      "pdfFileName": "2019年実施_群馬県_中2数学_角の二等分線の作図と垂直であることの証明.pdf",
+      "fileSize": 3629171
+    },
+    {
       "id": "g2-2019-hokkaido-proof-2f53791",
       "grade": 2,
       "year": 2019,
@@ -378,6 +2094,55 @@
       "fileSize": 3288475
     },
     {
+      "id": "g2-2019-okinawa-data-d665a18",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "確率と相対度数（カードの復元抽出・積の余り）",
+      "shortUnit": "確率と相対度数",
+      "tags": [
+        "カードの復元抽出",
+        "積の余り"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-okinawa-data-d665a18/page-01.jpg?v=db12341a05c52e52f54bac3ed6ce79e74051b88373eb8bafa432c083558a1a10",
+        "/previews/g2-2019-okinawa-data-d665a18/page-02.jpg?v=db12341a05c52e52f54bac3ed6ce79e74051b88373eb8bafa432c083558a1a10",
+        "/previews/g2-2019-okinawa-data-d665a18/page-03.jpg?v=db12341a05c52e52f54bac3ed6ce79e74051b88373eb8bafa432c083558a1a10",
+        "/previews/g2-2019-okinawa-data-d665a18/page-04.jpg?v=db12341a05c52e52f54bac3ed6ce79e74051b88373eb8bafa432c083558a1a10"
+      ],
+      "contentVersion": "db12341a05c52e52f54bac3ed6ce79e74051b88373eb8bafa432c083558a1a10",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-okinawa-data-d665a18.pdf?rev=db12341a05c52e52f54bac3ed6ce79e74051b88373eb8bafa432c083558a1a10",
+      "pdfFileName": "2019年実施_沖縄県_中2数学_確率と相対度数（カードの復元抽出・積の余り）.pdf",
+      "fileSize": 5470334
+    },
+    {
+      "id": "g1-2019-okinawa-data-3ef6720",
+      "grade": 1,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "データの活用",
+      "unit": "代表値とヒストグラム（平均値・中央値・最頻値）",
+      "shortUnit": "代表値とヒストグラム",
+      "tags": [
+        "平均値",
+        "中央値",
+        "最頻値"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2019-okinawa-data-3ef6720/page-01.jpg?v=fce8b7ec980c1cca995e3260cc048800f9cb6d148ff9b4b45f9ece555019616d",
+        "/previews/g1-2019-okinawa-data-3ef6720/page-02.jpg?v=fce8b7ec980c1cca995e3260cc048800f9cb6d148ff9b4b45f9ece555019616d",
+        "/previews/g1-2019-okinawa-data-3ef6720/page-03.jpg?v=fce8b7ec980c1cca995e3260cc048800f9cb6d148ff9b4b45f9ece555019616d",
+        "/previews/g1-2019-okinawa-data-3ef6720/page-04.jpg?v=fce8b7ec980c1cca995e3260cc048800f9cb6d148ff9b4b45f9ece555019616d"
+      ],
+      "contentVersion": "fce8b7ec980c1cca995e3260cc048800f9cb6d148ff9b4b45f9ece555019616d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2019-okinawa-data-3ef6720.pdf?rev=fce8b7ec980c1cca995e3260cc048800f9cb6d148ff9b4b45f9ece555019616d",
+      "pdfFileName": "2019年実施_沖縄県_中1数学_代表値とヒストグラム（平均値・中央値・最頻値）.pdf",
+      "fileSize": 6122197
+    },
+    {
       "id": "g2-2019-fukuoka-data-6bdc017",
       "grade": 2,
       "year": 2019,
@@ -400,6 +2165,50 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-fukuoka-data-6bdc017.pdf?rev=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
       "pdfFileName": "2019年実施_福岡県_中2数学_確率（玉の取り出し・2種類のくじ引きの比較）.pdf",
       "fileSize": 4257570
+    },
+    {
+      "id": "g1-2018-gunma-equation-use-e685d15",
+      "grade": 1,
+      "year": 2018,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "一次方程式の利用（単品販売とセット販売）",
+      "shortUnit": "一次方程式の利用",
+      "tags": [
+        "単品販売とセット販売"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2018-gunma-equation-use-e685d15/page-01.jpg?v=541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878",
+        "/previews/g1-2018-gunma-equation-use-e685d15/page-02.jpg?v=541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878",
+        "/previews/g1-2018-gunma-equation-use-e685d15/page-03.jpg?v=541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878",
+        "/previews/g1-2018-gunma-equation-use-e685d15/page-04.jpg?v=541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878"
+      ],
+      "contentVersion": "541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-gunma-equation-use-e685d15.pdf?rev=541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878",
+      "pdfFileName": "2018年実施_群馬県_中1数学_一次方程式の利用（単品販売とセット販売）.pdf",
+      "fileSize": 2042527
+    },
+    {
+      "id": "g1-2018-gunma-function-2d6d0dd",
+      "grade": 1,
+      "year": 2018,
+      "prefecture": "群馬県",
+      "field": "関数",
+      "unit": "反比例の式とグラフ",
+      "shortUnit": "反比例の式とグラフ",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2018-gunma-function-2d6d0dd/page-01.jpg?v=4778ca3e92a8379c1e8b3b965222ad1fbef8600d3f97f11d6d21fcf56a43e5a4",
+        "/previews/g1-2018-gunma-function-2d6d0dd/page-02.jpg?v=4778ca3e92a8379c1e8b3b965222ad1fbef8600d3f97f11d6d21fcf56a43e5a4",
+        "/previews/g1-2018-gunma-function-2d6d0dd/page-03.jpg?v=4778ca3e92a8379c1e8b3b965222ad1fbef8600d3f97f11d6d21fcf56a43e5a4",
+        "/previews/g1-2018-gunma-function-2d6d0dd/page-04.jpg?v=4778ca3e92a8379c1e8b3b965222ad1fbef8600d3f97f11d6d21fcf56a43e5a4"
+      ],
+      "contentVersion": "4778ca3e92a8379c1e8b3b965222ad1fbef8600d3f97f11d6d21fcf56a43e5a4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-gunma-function-2d6d0dd.pdf?rev=4778ca3e92a8379c1e8b3b965222ad1fbef8600d3f97f11d6d21fcf56a43e5a4",
+      "pdfFileName": "2018年実施_群馬県_中1数学_反比例の式とグラフ.pdf",
+      "fileSize": 2858502
     },
     {
       "id": "g2-2018-nagano-function-c44c5a7",
@@ -448,6 +2257,71 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-fukuoka-function-eac66cd.pdf?rev=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
       "pdfFileName": "2018年実施_福岡県_中2数学_一次関数のグラフの利用（水そうの水面の高さ）.pdf",
       "fileSize": 8049607
+    },
+    {
+      "id": "g2-2018-gunma-proof-9731512",
+      "grade": 2,
+      "year": 2018,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "平行線と多角形の内角を用いた図形の証明",
+      "shortUnit": "平行線と多角形の内角を用いた図形の証明",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2018-gunma-proof-9731512/page-01.jpg?v=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
+        "/previews/g2-2018-gunma-proof-9731512/page-02.jpg?v=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
+        "/previews/g2-2018-gunma-proof-9731512/page-03.jpg?v=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
+        "/previews/g2-2018-gunma-proof-9731512/page-04.jpg?v=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9"
+      ],
+      "contentVersion": "81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-gunma-proof-9731512.pdf?rev=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
+      "pdfFileName": "2018年実施_群馬県_中2数学_平行線と多角形の内角を用いた図形の証明.pdf",
+      "fileSize": 3324602
+    },
+    {
+      "id": "g2-2018-gunma-data-d6a1aed",
+      "grade": 2,
+      "year": 2018,
+      "prefecture": "群馬県",
+      "field": "データの活用",
+      "unit": "さいころを用いた確率（ビンゴの成立）",
+      "shortUnit": "さいころを用いた確率",
+      "tags": [
+        "ビンゴの成立"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2018-gunma-data-d6a1aed/page-01.jpg?v=b15e91227e0c702a695713ec37b149228b565e72ee373d510f64537d695c0582",
+        "/previews/g2-2018-gunma-data-d6a1aed/page-02.jpg?v=b15e91227e0c702a695713ec37b149228b565e72ee373d510f64537d695c0582",
+        "/previews/g2-2018-gunma-data-d6a1aed/page-03.jpg?v=b15e91227e0c702a695713ec37b149228b565e72ee373d510f64537d695c0582",
+        "/previews/g2-2018-gunma-data-d6a1aed/page-04.jpg?v=b15e91227e0c702a695713ec37b149228b565e72ee373d510f64537d695c0582"
+      ],
+      "contentVersion": "b15e91227e0c702a695713ec37b149228b565e72ee373d510f64537d695c0582",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-gunma-data-d6a1aed.pdf?rev=b15e91227e0c702a695713ec37b149228b565e72ee373d510f64537d695c0582",
+      "pdfFileName": "2018年実施_群馬県_中2数学_さいころを用いた確率（ビンゴの成立）.pdf",
+      "fileSize": 4853010
+    },
+    {
+      "id": "g1-2018-gunma-data-8f125ce",
+      "grade": 1,
+      "year": 2018,
+      "prefecture": "群馬県",
+      "field": "データの活用",
+      "unit": "中央値と代表値を用いた資料の比較",
+      "shortUnit": "中央値と代表値を用いた資料の比較",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2018-gunma-data-8f125ce/page-01.jpg?v=8451bead8963841f1f09f8aa2307f3701f440a40c466b52836fb7fb2785d9e5a",
+        "/previews/g1-2018-gunma-data-8f125ce/page-02.jpg?v=8451bead8963841f1f09f8aa2307f3701f440a40c466b52836fb7fb2785d9e5a",
+        "/previews/g1-2018-gunma-data-8f125ce/page-03.jpg?v=8451bead8963841f1f09f8aa2307f3701f440a40c466b52836fb7fb2785d9e5a",
+        "/previews/g1-2018-gunma-data-8f125ce/page-04.jpg?v=8451bead8963841f1f09f8aa2307f3701f440a40c466b52836fb7fb2785d9e5a"
+      ],
+      "contentVersion": "8451bead8963841f1f09f8aa2307f3701f440a40c466b52836fb7fb2785d9e5a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-gunma-data-8f125ce.pdf?rev=8451bead8963841f1f09f8aa2307f3701f440a40c466b52836fb7fb2785d9e5a",
+      "pdfFileName": "2018年実施_群馬県_中1数学_中央値と代表値を用いた資料の比較.pdf",
+      "fileSize": 4620343
     },
     {
       "id": "g1-2018-fukuoka-data-65f69ec",
@@ -501,6 +2375,29 @@
       "fileSize": 12310919
     },
     {
+      "id": "g2-2017-gunma-equation-use-d598e35",
+      "grade": 2,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（部活動の男女別人数と割合）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "部活動の男女別人数と割合"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2017-gunma-equation-use-d598e35/page-01.jpg?v=bf4baf103fa88cbcc51fba112b8fc60c2805806373184053f8da5e26825038dd",
+        "/previews/g2-2017-gunma-equation-use-d598e35/page-02.jpg?v=bf4baf103fa88cbcc51fba112b8fc60c2805806373184053f8da5e26825038dd",
+        "/previews/g2-2017-gunma-equation-use-d598e35/page-03.jpg?v=bf4baf103fa88cbcc51fba112b8fc60c2805806373184053f8da5e26825038dd",
+        "/previews/g2-2017-gunma-equation-use-d598e35/page-04.jpg?v=bf4baf103fa88cbcc51fba112b8fc60c2805806373184053f8da5e26825038dd"
+      ],
+      "contentVersion": "bf4baf103fa88cbcc51fba112b8fc60c2805806373184053f8da5e26825038dd",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-gunma-equation-use-d598e35.pdf?rev=bf4baf103fa88cbcc51fba112b8fc60c2805806373184053f8da5e26825038dd",
+      "pdfFileName": "2017年実施_群馬県_中2数学_連立方程式の利用（部活動の男女別人数と割合）.pdf",
+      "fileSize": 2485645
+    },
+    {
       "id": "g2-2017-fukuoka-equation-use-4358e97",
       "grade": 2,
       "year": 2017,
@@ -547,6 +2444,48 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-fukuoka-function-67706d3.pdf?rev=9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3",
       "pdfFileName": "2017年実施_福岡県_中2数学_一次関数のグラフの利用（速さ・道のり・すれちがい）.pdf",
       "fileSize": 5502595
+    },
+    {
+      "id": "g1-2017-gunma-geometry-6cb2437",
+      "grade": 1,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "垂直二等分線の作図と3点から等距離の点",
+      "shortUnit": "垂直二等分線の作図と3点から等距離の点",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2017-gunma-geometry-6cb2437/page-01.jpg?v=8d873011829e0221792919109f3526c3021f6e3783a606eee57728e0a679e0c4",
+        "/previews/g1-2017-gunma-geometry-6cb2437/page-02.jpg?v=8d873011829e0221792919109f3526c3021f6e3783a606eee57728e0a679e0c4",
+        "/previews/g1-2017-gunma-geometry-6cb2437/page-03.jpg?v=8d873011829e0221792919109f3526c3021f6e3783a606eee57728e0a679e0c4",
+        "/previews/g1-2017-gunma-geometry-6cb2437/page-04.jpg?v=8d873011829e0221792919109f3526c3021f6e3783a606eee57728e0a679e0c4"
+      ],
+      "contentVersion": "8d873011829e0221792919109f3526c3021f6e3783a606eee57728e0a679e0c4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2017-gunma-geometry-6cb2437.pdf?rev=8d873011829e0221792919109f3526c3021f6e3783a606eee57728e0a679e0c4",
+      "pdfFileName": "2017年実施_群馬県_中1数学_垂直二等分線の作図と3点から等距離の点.pdf",
+      "fileSize": 2879751
+    },
+    {
+      "id": "g2-2017-gunma-proof-6536242",
+      "grade": 2,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "折り返しと平行線を用いた図形の証明",
+      "shortUnit": "折り返しと平行線を用いた図形の証明",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2017-gunma-proof-6536242/page-01.jpg?v=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
+        "/previews/g2-2017-gunma-proof-6536242/page-02.jpg?v=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
+        "/previews/g2-2017-gunma-proof-6536242/page-03.jpg?v=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
+        "/previews/g2-2017-gunma-proof-6536242/page-04.jpg?v=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332"
+      ],
+      "contentVersion": "3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-gunma-proof-6536242.pdf?rev=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
+      "pdfFileName": "2017年実施_群馬県_中2数学_折り返しと平行線を用いた図形の証明.pdf",
+      "fileSize": 1983098
     }
   ]
 }

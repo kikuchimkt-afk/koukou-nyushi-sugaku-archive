@@ -2,16 +2,15 @@
 
 from __future__ import annotations
 
+import hashlib
+import json
 from collections import Counter
-from pathlib import Path
-
 from pypdf import PdfReader
 
 from configs import CONFIGS
+from source_paths import section_source_path, source_paths
 
 
-REPO = Path(__file__).resolve().parents[2]
-GITHUB = REPO.parent
 FIELDS = {
     "数と式",
     "方程式",
@@ -22,15 +21,28 @@ FIELDS = {
     "図形の証明",
     "データの活用",
 }
-EXPECTED_BY_PREFECTURE = {"北海道": 8, "福岡県": 11, "長野県": 3}
+EXPECTED_CONFIG_COUNT = 106
+EXPECTED_BY_PREFECTURE = {
+    "北海道": 8,
+    "福岡県": 11,
+    "長野県": 3,
+    "群馬県": 20,
+    "沖縄県": 27,
+    "岩手県": 37,
+}
 EXPECTED_BY_GRADE_FIELD = {
-    (1, "データの活用"): 4,
-    (2, "数と式"): 1,
-    (2, "方程式の利用"): 1,
-    (2, "規則性"): 3,
-    (2, "関数"): 8,
-    (2, "図形の証明"): 2,
-    (2, "データの活用"): 3,
+    (1, "数と式"): 4,
+    (1, "方程式の利用"): 3,
+    (1, "関数"): 6,
+    (1, "図形"): 11,
+    (1, "データの活用"): 8,
+    (2, "数と式"): 4,
+    (2, "方程式の利用"): 10,
+    (2, "規則性"): 8,
+    (2, "関数"): 19,
+    (2, "図形"): 3,
+    (2, "図形の証明"): 10,
+    (2, "データの活用"): 20,
 }
 EXPECTED_SELECTION = {
     (
@@ -122,9 +134,111 @@ EXPECTED_SELECTION = {
         "関数", "2020年実施_長野県_中2数学_一次関数のグラフの読み取りと利用（2店のリボンの値段）.pdf",
     ),
 }
+EXPECTED_ADDITIONAL_SLUGS = {
+    "gunma_2017_back_q4",
+    "gunma_2017_front_q4",
+    "gunma_2017_front_q5",
+    "gunma_2018_back_q2",
+    "gunma_2018_back_q3",
+    "gunma_2018_back_q5",
+    "gunma_2018_front_q4",
+    "gunma_2018_front_q5",
+    "gunma_2019_back_q2",
+    "gunma_2019_back_q3",
+    "gunma_2019_front_q4",
+    "gunma_2020_back_q3",
+    "gunma_2020_front_q3",
+    "gunma_2021_back_q2",
+    "gunma_2021_back_q3",
+    "gunma_2021_back_q4",
+    "gunma_2021_back_q5",
+    "gunma_2021_front_q3",
+    "gunma_2022_back_q4",
+    "gunma_2022_back_q5",
+    "iwate_q10_2021",
+    "iwate_q10_2023",
+    "iwate_q10_2024",
+    "iwate_q10_2025",
+    "iwate_q11_2022",
+    "iwate_q2_2021",
+    "iwate_q2_2022",
+    "iwate_q2_2023",
+    "iwate_q2_2024",
+    "iwate_q2_2025",
+    "iwate_q3_2021",
+    "iwate_q3_2022",
+    "iwate_q3_2023",
+    "iwate_q3_2024",
+    "iwate_q3_2025",
+    "iwate_q5_2022",
+    "iwate_q5_2023",
+    "iwate_q5_2024",
+    "iwate_q5_2025",
+    "iwate_q6_2021",
+    "iwate_q6_2022",
+    "iwate_q6_2023",
+    "iwate_q6_2024",
+    "iwate_q6_2025",
+    "iwate_q7_2021",
+    "iwate_q7_2022",
+    "iwate_q7_2023",
+    "iwate_q7_2024",
+    "iwate_q7_2025",
+    "iwate_q8_2021",
+    "iwate_q8_2022",
+    "iwate_q8_2023",
+    "iwate_q8_2024",
+    "iwate_q8_2025",
+    "iwate_q9_2021",
+    "iwate_q9_2022",
+    "iwate_q9_2025",
+    "okinawa_q10_2019_math",
+    "okinawa_q10_2020_math",
+    "okinawa_q10_2021_math",
+    "okinawa_q3_2019_math",
+    "okinawa_q3_2020_math",
+    "okinawa_q3_2021_math",
+    "okinawa_q3_2022_math",
+    "okinawa_q3_2023_math",
+    "okinawa_q3_2024_math",
+    "okinawa_q4_2019_math",
+    "okinawa_q4_2020_math",
+    "okinawa_q4_2021_math",
+    "okinawa_q4_2022_math",
+    "okinawa_q4_2023_math",
+    "okinawa_q4_2024_math",
+    "okinawa_q5_2019_math",
+    "okinawa_q5_2020_math",
+    "okinawa_q5_2021_math",
+    "okinawa_q5_2023_math",
+    "okinawa_q5_2024_math",
+    "okinawa_q6_2019_math",
+    "okinawa_q6_2020_math",
+    "okinawa_q6_2022_math",
+    "okinawa_q7_2023_math",
+    "okinawa_q7_2024_math",
+    "okinawa_q8_2020_math",
+    "okinawa_q9_2022_math",
+}
+ADDITIONAL_SELECTION_KEYS = (
+    "slug",
+    "year",
+    "prefecture",
+    "session",
+    "question",
+    "grade",
+    "field",
+    "filename",
+    "problem_source_pdf",
+    "answer_source_pdf",
+    "answers_source_pdf",
+    "explanation_source_pdf",
+)
+EXPECTED_ADDITIONAL_SELECTION_SHA256 = (
+    "84f7425f08ebaca624ecf67cd6e21cd70b1f7986a86fcef2e15551b09483eb1c"
+)
 REQUIRED_KEYS = {
     "slug",
-    "repo",
     "year",
     "prefecture",
     "question",
@@ -153,9 +267,40 @@ def validate_box(label: str, item: dict, ref: tuple[int, int]) -> None:
         raise ValueError(f"{label}: box {coords} exceeds reference {ref}")
 
 
+def validate_ref_size(
+    label: str, ref: tuple[int, int], reader: PdfReader, page_number: int
+) -> None:
+    page = reader.pages[page_number - 1]
+    expected_width = float(page.mediabox.width) * 150 / 72
+    expected_height = float(page.mediabox.height) * 150 / 72
+    if (page.rotation or 0) % 180:
+        expected_width, expected_height = expected_height, expected_width
+    expected = (round(expected_width), round(expected_height))
+    if max(abs(ref[0] - expected[0]), abs(ref[1] - expected[1])) > 3:
+        raise ValueError(
+            f"{label}: ref_size {ref} differs from 150dpi page size {expected}"
+        )
+
+
+def additional_selection_sha256(configs: list[dict]) -> str:
+    projection = [
+        {key: config.get(key) for key in ADDITIONAL_SELECTION_KEYS}
+        for config in configs
+    ]
+    payload = json.dumps(
+        sorted(projection, key=lambda item: item["slug"]),
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    ).encode("utf-8")
+    return hashlib.sha256(payload).hexdigest()
+
+
 def main() -> None:
-    if len(CONFIGS) != 22:
-        raise ValueError(f"Expected 22 configs, got {len(CONFIGS)}")
+    if len(CONFIGS) != EXPECTED_CONFIG_COUNT:
+        raise ValueError(
+            f"Expected {EXPECTED_CONFIG_COUNT} configs, got {len(CONFIGS)}"
+        )
     slugs = [config["slug"] for config in CONFIGS]
     filenames = [config["filename"] for config in CONFIGS]
     if len(slugs) != len(set(slugs)):
@@ -166,7 +311,7 @@ def main() -> None:
     actual_selection = {
         (
             config["slug"],
-            config["repo"],
+            config.get("repo") or config.get("problem_source_pdf"),
             config["year"],
             config["prefecture"],
             config["question"],
@@ -176,10 +321,29 @@ def main() -> None:
         )
         for config in CONFIGS
     }
-    if actual_selection != EXPECTED_SELECTION:
-        missing = sorted(EXPECTED_SELECTION - actual_selection)
-        extra = sorted(actual_selection - EXPECTED_SELECTION)
+    existing_selection = {
+        item for item in actual_selection if item[0] not in EXPECTED_ADDITIONAL_SLUGS
+    }
+    if existing_selection != EXPECTED_SELECTION:
+        missing = sorted(EXPECTED_SELECTION - existing_selection)
+        extra = sorted(existing_selection - EXPECTED_SELECTION)
         raise ValueError(f"Approved selection differs: missing={missing} extra={extra}")
+    actual_additional_slugs = set(slugs) - {item[0] for item in EXPECTED_SELECTION}
+    if actual_additional_slugs != EXPECTED_ADDITIONAL_SLUGS:
+        missing = sorted(EXPECTED_ADDITIONAL_SLUGS - actual_additional_slugs)
+        extra = sorted(actual_additional_slugs - EXPECTED_ADDITIONAL_SLUGS)
+        raise ValueError(
+            f"Additional approved selection differs: missing={missing} extra={extra}"
+        )
+    additional_configs = [
+        config for config in CONFIGS if config["slug"] in EXPECTED_ADDITIONAL_SLUGS
+    ]
+    actual_selection_hash = additional_selection_sha256(additional_configs)
+    if actual_selection_hash != EXPECTED_ADDITIONAL_SELECTION_SHA256:
+        raise ValueError(
+            "Additional approved selection metadata differs: "
+            f"{actual_selection_hash} != {EXPECTED_ADDITIONAL_SELECTION_SHA256}"
+        )
 
     for config in CONFIGS:
         missing = REQUIRED_KEYS - config.keys()
@@ -196,22 +360,41 @@ def main() -> None:
         if not (0.5 <= float(config["answer_scale"]) <= 4.0):
             raise ValueError(f"{slug}: unreasonable answer scale")
 
-        base = GITHUB / config["repo"] / "public" / "files" / str(config["year"])
-        problem_pdf = base / "解説付き問題" / "数学.pdf"
-        answer_pdf = base / "解答用紙" / "数学.pdf"
-        if not problem_pdf.is_file() or not answer_pdf.is_file():
-            raise FileNotFoundError(f"{slug}: source PDF missing")
-        problem_pages = len(PdfReader(problem_pdf).pages)
-        answer_pages = len(PdfReader(answer_pdf).pages)
+        problem_pdf, answer_pdf = source_paths(config)
+        answers_pdf = section_source_path(config, "answers", problem_pdf)
+        explanation_pdf = section_source_path(config, "explanation", problem_pdf)
+        section_readers = {
+            "problem": PdfReader(problem_pdf),
+            "answers": PdfReader(answers_pdf),
+            "explanation": PdfReader(explanation_pdf),
+        }
+        section_page_counts = {
+            section: len(reader.pages) for section, reader in section_readers.items()
+        }
+        answer_reader = PdfReader(answer_pdf)
+        answer_pages = len(answer_reader.pages)
 
         for section in ("problem", "answers", "explanation"):
             if not config[section]:
                 raise ValueError(f"{slug}: empty {section}")
             for index, item in enumerate(config[section], 1):
                 page = item.get("page")
-                if not isinstance(page, int) or not 1 <= page <= problem_pages:
+                if not isinstance(page, int) or not 1 <= page <= section_page_counts[section]:
                     raise ValueError(f"{slug}/{section}/{index}: invalid page {page}")
-                ref = tuple(item.get("ref_size", config["science_ref"]))
+                default_ref = {
+                    "problem": config["science_ref"],
+                    "answers": config.get("answers_ref", config["science_ref"]),
+                    "explanation": config.get(
+                        "explanation_ref", config["science_ref"]
+                    ),
+                }[section]
+                ref = tuple(item.get("ref_size", default_ref))
+                validate_ref_size(
+                    f"{slug}/{section}/{index}",
+                    ref,
+                    section_readers[section],
+                    page,
+                )
                 validate_box(f"{slug}/{section}/{index}", item, ref)
 
         if not config["answer_sheet"]:
@@ -221,6 +404,9 @@ def main() -> None:
             if not 1 <= page <= answer_pages:
                 raise ValueError(f"{slug}/answer_sheet/{index}: invalid page {page}")
             source_ref = tuple(item.get("source_ref_size", item.get("ref_size", (1075, 1518))))
+            validate_ref_size(
+                f"{slug}/answer_sheet/{index}", source_ref, answer_reader, page
+            )
             rotation = item.get("rotation", 0)
             upright_ref = (source_ref[1], source_ref[0]) if rotation in ("cw", "ccw") else source_ref
             validate_box(f"{slug}/answer_sheet/{index}", item, upright_ref)
@@ -231,7 +417,10 @@ def main() -> None:
         raise ValueError(f"Prefecture counts differ: {dict(by_prefecture)}")
     if dict(by_grade_field) != EXPECTED_BY_GRADE_FIELD:
         raise ValueError(f"Grade/field counts differ: {dict(by_grade_field)}")
-    print("OK: 22 configs / sources present / pages and boxes valid / counts match")
+    print(
+        f"OK: {len(CONFIGS)} configs / sources present / "
+        "pages and boxes valid / counts match"
+    )
 
 
 if __name__ == "__main__":

@@ -19,7 +19,6 @@ REVIEW_ROOT = REPO / "tmp" / "extract" / "review"
 AUDIT_ROOT = REPO / "tmp" / "extract" / "audit"
 GENERATION_MANIFEST = REVIEW_ROOT / "generation-manifest.json"
 BASE_BUILDER = Path(__file__).resolve().with_name("base_builder.py")
-GITHUB = REPO.parent
 DEFAULT_PDFTOPPM = Path(
     r"C:\Users\user\.cache\codex-runtimes\codex-primary-runtime"
     r"\dependencies\native\poppler\Library\bin\pdftoppm.exe"
@@ -27,6 +26,8 @@ DEFAULT_PDFTOPPM = Path(
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from configs import CONFIGS  # noqa: E402
+from generation_contract import LEGACY_PIPELINE_SLUGS, pipeline_sha256  # noqa: E402
+from source_paths import section_source_path, source_paths  # noqa: E402
 
 
 def sha256(path: Path) -> str:
@@ -96,6 +97,7 @@ def main() -> None:
     if generation.get("schemaVersion") != 1 or not isinstance(generation.get("items"), dict):
         raise RuntimeError(f"生成履歴の形式が不正です: {GENERATION_MANIFEST}")
     builder_hash = sha256(BASE_BUILDER)
+    pipeline_hash = pipeline_sha256()
     if generation.get("baseBuilderSha256") != builder_hash:
         raise RuntimeError("生成後に基底ビルダーが変更されています。PDFを再生成してください。")
 
@@ -104,7 +106,10 @@ def main() -> None:
     if set(generation["items"]) != expected_slugs:
         missing = sorted(expected_slugs - set(generation["items"]))
         extra = sorted(set(generation["items"]) - expected_slugs)
-        raise RuntimeError(f"生成履歴が22設定と一致しません: missing={missing} extra={extra}")
+        raise RuntimeError(
+            f"生成履歴が{len(CONFIGS)}設定と一致しません: "
+            f"missing={missing} extra={extra}"
+        )
     pdfs = sorted(REVIEW_ROOT.rglob("*.pdf"), key=lambda path: path.name)
     names = [path.name for path in pdfs]
     if len(pdfs) != len(expected) or set(names) != set(expected):
@@ -129,23 +134,52 @@ def main() -> None:
             raise RuntimeError(f"生成後にPDFが変更されています: {config['slug']}")
         if generated.get("configSha256") != config_sha256(config):
             raise RuntimeError(f"生成後に設定が変更されています: {config['slug']}")
-        source_base = (
-            GITHUB / config["repo"] / "public" / "files" / str(config["year"])
+        recorded_pipeline_hash = generated.get("pipelineSha256")
+        if recorded_pipeline_hash is None:
+            if config["slug"] not in LEGACY_PIPELINE_SLUGS:
+                raise RuntimeError(
+                    f"生成パイプラインの履歴がありません: {config['slug']}"
+                )
+        elif recorded_pipeline_hash != pipeline_hash:
+            raise RuntimeError(
+                f"生成後にPDFパイプラインが変更されています: {config['slug']}"
+            )
+        problem_source, answer_source = source_paths(config)
+        answers_source = section_source_path(config, "answers", problem_source)
+        explanation_source = section_source_path(
+            config, "explanation", problem_source
         )
-        problem_source = source_base / "解説付き問題" / "数学.pdf"
-        answer_source = source_base / "解答用紙" / "数学.pdf"
         source_expectations = (
-            ("problemSource", "problemSourceSha256", problem_source),
-            ("answerSource", "answerSourceSha256", answer_source),
+            ("problemSource", "problemSourceSha256", problem_source, None, None),
+            ("answerSource", "answerSourceSha256", answer_source, None, None),
+            (
+                "answersSource",
+                "answersSourceSha256",
+                answers_source,
+                "problemSource",
+                "problemSourceSha256",
+            ),
+            (
+                "explanationSource",
+                "explanationSourceSha256",
+                explanation_source,
+                "problemSource",
+                "problemSourceSha256",
+            ),
         )
-        for path_key, hash_key, source_path in source_expectations:
-            if generated.get(path_key) != str(source_path):
+        for path_key, hash_key, source_path, fallback_path_key, fallback_hash_key in source_expectations:
+            recorded_path = generated.get(path_key)
+            recorded_hash = generated.get(hash_key)
+            if recorded_path is None and fallback_path_key and source_path == problem_source:
+                recorded_path = generated.get(fallback_path_key)
+                recorded_hash = generated.get(fallback_hash_key)
+            if recorded_path != str(source_path):
                 raise RuntimeError(f"生成履歴の原本パスが不一致です: {config['slug']}")
             if not source_path.is_file():
                 raise RuntimeError(f"原本がありません: {config['slug']} {source_path}")
             if source_path not in source_hashes:
                 source_hashes[source_path] = sha256(source_path)
-            if generated.get(hash_key) != source_hashes[source_path]:
+            if recorded_hash != source_hashes[source_path]:
                 raise RuntimeError(f"生成後に原本が変更されています: {config['slug']}")
         if generated.get("minimumEffectiveDpi", 0) < 600:
             raise RuntimeError(f"実効解像度が600dpi未満です: {config['slug']}")
