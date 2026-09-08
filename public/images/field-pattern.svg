@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="規則性と文字式">
+  <defs>
+    <linearGradient id="bgP" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a2313"/><stop offset="1" stop-color="#0c0b12"/>
+    </linearGradient>
+    <radialGradient id="gP" cx="0.7" cy="0.28" r="0.62">
+      <stop offset="0" stop-color="#e4ba78" stop-opacity="0.32"/><stop offset="1" stop-color="#e4ba78" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="640" fill="url(#bgP)"/>
+  <rect width="900" height="640" fill="url(#gP)"/>
+
+  <g transform="translate(70 150)" fill="none" stroke="#e4ba78" stroke-width="3" stroke-linejoin="round">
+    <path d="M0 60l40-46 40 46-40 46z" stroke-opacity="0.9"/>
+    <path d="M96 60l40-46 40 46-40 46z" stroke-opacity="0.9"/>
+    <path d="M136 14l40-46 40 46-40 46z" stroke-opacity="0.65"/>
+    <path d="M192 60l40-46 40 46-40 46z" stroke-opacity="0.65"/>
+    <path d="M232 14l40-46 40 46-40 46z" stroke-opacity="0.45"/>
+    <path d="M288 60l40-46 40 46-40 46z" stroke-opacity="0.45"/>
+    <path d="M328 14l40-46 40 46-40 46z" stroke-opacity="0.3"/>
+    <path d="M384 60l40-46 40 46-40 46z" stroke-opacity="0.22"/>
+  </g>
+  <g fill="#e4ba78" fill-opacity="0.85">
+    <circle cx="620" cy="196" r="5"/><circle cx="646" cy="196" r="5"/><circle cx="672" cy="196" r="5"/>
+  </g>
+
+  <g fill="#edf3fb" font-family="Georgia, 'Times New Roman', serif" font-style="italic">
+    <text x="70" y="380" font-size="34" fill-opacity="0.45">1個目 5</text>
+    <text x="70" y="428" font-size="34" fill-opacity="0.45">2個目 9</text>
+    <text x="70" y="476" font-size="34" fill-opacity="0.45">3個目 13</text>
+    <text x="330" y="428" font-size="64" fill-opacity="0.92">5 + 4(n − 1)</text>
+  </g>
+  <path d="M300 410h20M300 410l-8-8M300 410l-8 8" stroke="#e4ba78" stroke-width="3" fill="none" stroke-linecap="round" stroke-opacity="0.8"/>
+  <path d="M330 452h300" stroke="#e4ba78" stroke-width="3" stroke-opacity="0.55"/>
+</svg>

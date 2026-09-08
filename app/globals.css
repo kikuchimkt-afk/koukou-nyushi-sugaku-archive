@@ -14,6 +14,10 @@
   --mint: #79ddc3;
   --amber: #e4ba78;
   --violet: #a89cf5;
+  --cyan: #8fd8ef;
+  --lime: #bde083;
+  --rose: #f2a1bb;
+  --coral: #ffa98a;
   --card: rgba(15, 25, 43, 0.84);
   --shadow: 0 30px 80px rgba(0, 0, 0, 0.38);
 }
@@ -112,17 +116,17 @@ img { display: block; max-width: 100%; }
 .grade-tab strong { font-size: 0.78rem; }
 .grade-tab.is-active { border-color: rgba(117,170,255,0.48); color: var(--ink); background: linear-gradient(135deg, rgba(117,170,255,0.16), rgba(121,221,195,0.06)); box-shadow: 0 18px 50px rgba(0,0,0,0.2); }
 
-.field-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
-.field-card { position: relative; min-height: 320px; overflow: hidden; padding: 0; border: 1px solid var(--line); border-radius: 28px; cursor: pointer; text-align: left; background: var(--navy-900); box-shadow: 0 20px 60px rgba(0,0,0,0.23); transition: transform 0.3s ease, border-color 0.3s ease; }
+.field-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
+.field-card { position: relative; min-height: 268px; overflow: hidden; padding: 0; border: 1px solid var(--line); border-radius: 24px; cursor: pointer; text-align: left; background: var(--navy-900); box-shadow: 0 20px 60px rgba(0,0,0,0.23); transition: transform 0.3s ease, border-color 0.3s ease; }
 .field-card:hover, .field-card.is-active { transform: translateY(-4px); border-color: rgba(117,170,255,0.5); }
 .field-card > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform 0.7s ease; }
 .field-card:hover > img { transform: scale(1.045); }
 .field-card-overlay { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(4,9,18,0.96), rgba(5,12,24,0.74) 52%, rgba(5,12,24,0.2)), linear-gradient(0deg, rgba(4,9,18,0.78), transparent 62%); }
-.field-card-content { position: relative; display: flex; height: 100%; flex-direction: column; justify-content: end; padding: 30px; }
-.field-card-content small { color: var(--blue-light); font-size: 0.68rem; letter-spacing: 0.18em; }
-.field-card-content strong { margin-top: 5px; font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 2.7rem; }
-.field-card-content > span { max-width: 330px; margin-top: 5px; color: var(--ink-soft); font-size: 0.86rem; }
-.field-card-content em { display: inline-flex; align-items: center; gap: 9px; margin-top: 20px; color: var(--ink); font-size: 0.83rem; font-style: normal; font-weight: 700; }
+.field-card-content { position: relative; display: flex; height: 100%; flex-direction: column; justify-content: end; padding: 24px; }
+.field-card-content small { color: var(--blue-light); font-size: 0.6rem; letter-spacing: 0.14em; }
+.field-card-content strong { margin-top: 5px; font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 1.72rem; line-height: 1.2; }
+.field-card-content > span { max-width: 100%; margin-top: 6px; color: var(--ink-soft); font-size: 0.78rem; line-height: 1.55; }
+.field-card-content em { display: inline-flex; align-items: center; gap: 9px; margin-top: 16px; color: var(--ink); font-size: 0.8rem; font-style: normal; font-weight: 700; }
 .field-card-content em b { color: var(--blue-light); font-size: 1.1rem; }
 
 .archive-section { padding-bottom: 106px; }
@@ -153,9 +157,13 @@ img { display: block; max-width: 100%; }
 .badges span { padding: 3px 7px; border: 1px solid var(--line); border-radius: 999px; color: var(--ink-dim); font-size: 0.65rem; background: rgba(255,255,255,0.025); }
 .badges .field-badge { border-color: transparent; color: #06101c; font-weight: 800; }
 .field-algebra { background: var(--blue-light) !important; }
-.field-geometry { background: var(--mint) !important; }
-.field-function { background: var(--amber) !important; }
-.field-data { background: var(--violet) !important; }
+.field-equation { background: var(--cyan) !important; }
+.field-equation-use { background: var(--mint) !important; }
+.field-pattern { background: var(--amber) !important; }
+.field-function { background: var(--lime) !important; }
+.field-geometry { background: var(--violet) !important; }
+.field-proof { background: var(--rose) !important; }
+.field-data { background: var(--coral) !important; }
 .question-body h3 { min-height: 3.15em; margin: 13px 0 9px; font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 1.22rem; line-height: 1.55; }
 .tag-list { display: flex; min-height: 54px; flex-wrap: wrap; align-content: flex-start; gap: 5px; }
 .tag-list span { align-self: flex-start; padding: 3px 7px; border-radius: 7px; color: var(--ink-soft); font-size: 0.67rem; background: rgba(255,255,255,0.055); }
@@ -274,6 +282,10 @@ img { display: block; max-width: 100%; }
 
 @keyframes hero-drift { from { transform: scale(1.03); } to { transform: scale(1.075) translate(-0.8%, -0.5%); } }
 
+@media (max-width: 1180px) {
+  .field-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
 @media (max-width: 980px) {
   .filter-panel { grid-template-columns: 2fr repeat(2, 1fr); }
   .clear-button { grid-column: 3; }
@@ -316,9 +328,9 @@ img { display: block; max-width: 100%; }
   .grade-tabs { grid-template-columns: 1fr; }
   .grade-tab { min-height: 68px; }
   .field-grid { grid-template-columns: 1fr; }
-  .field-card { min-height: 275px; }
-  .field-card-content { padding: 24px; }
-  .field-card-content strong { font-size: 2.2rem; }
+  .field-card { min-height: 232px; }
+  .field-card-content { padding: 22px; }
+  .field-card-content strong { font-size: 1.9rem; }
   .filter-panel { position: static; grid-template-columns: 1fr 1fr; padding: 13px; }
   .search-field { grid-column: 1 / -1; }
   .clear-button { grid-column: 1 / -1; }

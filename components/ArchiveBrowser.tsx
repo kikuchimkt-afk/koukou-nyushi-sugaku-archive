@@ -32,22 +32,42 @@ const FIELD_META: Record<MathField, { image: string; eyebrow: string; descriptio
   数と式: {
     image: "/images/field-algebra.svg",
     eyebrow: "NUMBERS · EXPRESSIONS",
-    description: "文字式の利用、規則性、方程式の応用を説明する問題",
+    description: "正負の数、文字式、式の計算と値",
   },
-  図形: {
-    image: "/images/field-geometry.svg",
-    eyebrow: "PLANE · SOLID",
-    description: "作図、角度、合同の証明、空間図形を考える問題",
+  方程式: {
+    image: "/images/field-equation.svg",
+    eyebrow: "EQUATIONS",
+    description: "一次方程式、連立方程式、比例式を解く問題",
+  },
+  方程式の利用: {
+    image: "/images/field-equation-use.svg",
+    eyebrow: "WORD PROBLEMS",
+    description: "文章題、速さ・割合、図形への方程式の応用",
+  },
+  規則性: {
+    image: "/images/field-pattern.svg",
+    eyebrow: "PATTERNS · PROOF",
+    description: "並び方の規則、文字式による説明、数の性質",
   },
   関数: {
     image: "/images/field-function.svg",
     eyebrow: "LINEAR · GRAPH",
-    description: "比例・反比例、一次関数とグラフを読み解く問題",
+    description: "比例・反比例、一次関数、グラフの読み取り",
+  },
+  図形: {
+    image: "/images/field-geometry.svg",
+    eyebrow: "PLANE · SOLID",
+    description: "作図、角度、平面図形、空間図形と計量",
+  },
+  図形の証明: {
+    image: "/images/field-proof.svg",
+    eyebrow: "CONGRUENCE · PROOF",
+    description: "合同の証明、平行線と角、三角形と四角形",
   },
   データの活用: {
     image: "/images/field-data.svg",
     eyebrow: "DATA · PROBABILITY",
-    description: "度数分布、代表値、箱ひげ図、確率を扱う問題",
+    description: "度数分布、代表値、箱ひげ図、確率",
   },
 };
 
@@ -277,13 +297,13 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="hero-overlay" />
         <div className="hero-content shell">
           <p className="eyebrow">MATH ENTRANCE EXAM ARCHIVE</p>
-          <div className="hero-grade"><span>中1・中2</span> 数と式・図形・関数・データの活用</div>
+          <div className="hero-grade"><span>中1・中2</span> 規則性・関数・図形・図形の証明・データの活用</div>
           <h1 className="app-title">Mathmatica<span>マスマティカ</span></h1>
           <p className="hero-copy">
             高校入試の数学大問を、単元別に整理しました。PDFを開く前に全ページを画像で確認でき、問題選定を短時間で進められます。
           </p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#fields">領域から選ぶ</a>
+            <a className="button button-primary" href="#fields">単元から選ぶ</a>
             <a className="button button-secondary" href="#questions">一覧を見る</a>
           </div>
           <dl className="hero-stats" aria-label="収録情報">
@@ -326,7 +346,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="section-heading">
           <div>
             <p className="eyebrow">FIELDS</p>
-            <h2 id="fields-title">4領域から選ぶ</h2>
+            <h2 id="fields-title">単元から選ぶ</h2>
           </div>
           <p>解説冒頭の単元見出しと全設問を確認し、学年範囲で構成される独立大問を収録しています。</p>
         </div>
@@ -370,7 +390,7 @@ export function ArchiveBrowser({ data }: Props) {
             <span>単元・キーワード</span>
             <div><span aria-hidden="true">⌕</span><input value={filters.q} onChange={(event) => setFilter("q", event.target.value)} placeholder="例：凸レンズ、地震、再結晶" /></div>
           </label>
-          <FilterSelect label="領域" value={filters.field} onChange={(value) => setFilter("field", value)} options={FIELDS.map((field) => ({ value: field, label: `${field}（${fieldCounts.get(field)}）` }))} />
+          <FilterSelect label="単元" value={filters.field} onChange={(value) => setFilter("field", value)} options={FIELDS.map((field) => ({ value: field, label: `${field}（${fieldCounts.get(field)}）` }))} />
           <FilterSelect label="実施年" value={filters.year} onChange={(value) => setFilter("year", value)} options={years.map((year) => ({ value: String(year), label: `${year}年` }))} />
           <FilterSelect label="都道府県" value={filters.prefecture} onChange={(value) => setFilter("prefecture", value)} options={prefectures.map((prefecture) => ({ value: prefecture, label: prefecture }))} />
           <button className="clear-button" type="button" onClick={() => setFilters(EMPTY_FILTERS)} disabled={!filters.q && !filters.grade && !filters.field && !filters.year && !filters.prefecture}>条件をクリア</button>
@@ -434,7 +454,7 @@ export function ArchiveBrowser({ data }: Props) {
           <p className="eyebrow">FOR TEACHERS</p>
           <h2>PDFを開く前に、授業で使えるか判断。</h2>
           <ol>
-            <li><b>01</b><span><strong>絞り込む</strong>領域・年度・県・単元で候補を絞ります。</span></li>
+            <li><b>01</b><span><strong>絞り込む</strong>単元・年度・県・キーワードで候補を絞ります。</span></li>
             <li><b>02</b><span><strong>付箋に集める</strong>候補を残し、複数の問題を連続して見比べます。</span></li>
             <li><b>03</b><span><strong>1ファイルで利用</strong>採用する高解像度PDFを付箋順に結合して取得します。</span></li>
           </ol>
@@ -703,7 +723,16 @@ function normalize(value: string) {
 }
 
 function fieldClass(field: MathField) {
-  return { 数と式: "algebra", 図形: "geometry", 関数: "function", データの活用: "data" }[field];
+  return {
+    数と式: "algebra",
+    方程式: "equation",
+    方程式の利用: "equation-use",
+    規則性: "pattern",
+    関数: "function",
+    図形: "geometry",
+    図形の証明: "proof",
+    データの活用: "data",
+  }[field];
 }
 
 function formatFileSize(bytes: number) {

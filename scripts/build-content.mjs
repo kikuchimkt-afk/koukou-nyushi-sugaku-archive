@@ -10,6 +10,19 @@ const sourceRoot = path.resolve(args["source-root"] || process.env.SOURCE_ROOT |
 const pdftoppm = args.pdftoppm || process.env.PDFTOPPM || "pdftoppm";
 const releaseTag = args["release-tag"] || process.env.RELEASE_TAG || "pdfs-v1";
 const githubRepo = args["github-repo"] || process.env.GITHUB_REPO || "kikuchimkt-afk/koukou-nyushi-sugaku-archive";
+// types/archive.ts の FIELDS と同じ並び・同じ表記にすること。
+const FIELD_CODES = {
+  数と式: "algebra",
+  方程式: "equation",
+  方程式の利用: "equation-use",
+  規則性: "pattern",
+  関数: "function",
+  図形: "geometry",
+  図形の証明: "proof",
+  データの活用: "data",
+};
+const FIELDS = Object.keys(FIELD_CODES);
+
 const previewRoot = path.join(repoRoot, "public", "previews");
 const releaseRoot = path.join(repoRoot, ".release-assets");
 const dataPath = path.join(repoRoot, "data", "archive.generated.json");
@@ -131,7 +144,7 @@ for (const entry of await readdir(releaseRoot, { withFileTypes: true })) {
 
 items.sort((a, b) =>
   b.year - a.year ||
-  a.field.localeCompare(b.field, "ja") ||
+  FIELDS.indexOf(a.field) - FIELDS.indexOf(b.field) ||
   a.prefecture.localeCompare(b.prefecture, "ja") ||
   a.unit.localeCompare(b.unit, "ja"),
 );
@@ -187,20 +200,25 @@ function parsePdfName(filename) {
 
 function detectField(sourceDir, unit) {
   const parent = path.basename(sourceDir);
-  if (parent.includes("_数と式_")) return "数と式";
-  if (parent.includes("_図形_")) return "図形";
-  if (parent.includes("_関数_")) return "関数";
-  if (parent.includes("_データの活用_")) return "データの活用";
+  // 最終版フォルダ名（中2数学_規則性_最終版 など）を第一の根拠にする。
+  const named = FIELDS.find((field) => parent.includes(`_${field}_`));
+  if (named) return named;
   return detectFieldFromUnit(unit);
 }
 
-// 領域は中学校学習指導要領の4領域（数と式・図形・関数・データの活用）に合わせる。
+// 単元名から、中学数学の大きめの単元へ割り当てる。判定は上から順に評価する。
 function detectFieldFromUnit(unit) {
-  if (/度数|代表値|中央値|平均値|最頻値|相対度数|階級|ヒストグラム|箱ひげ|四分位|散らばり|確率|場合の数|標本|データ/.test(unit)) {
+  if (/度数|代表値|中央値|平均値|最頻値|相対度数|累積度数|階級|ヒストグラム|度数折れ線|箱ひげ|四分位|散らばり|分布|確率|場合の数|標本|データ|資料/.test(unit)) {
     return "データの活用";
   }
+  if (/規則性|規則|文字式による説明|式による証明|式による説明|数の性質|倍数|carry|並べ方の規則|n番目/.test(unit)) {
+    return "規則性";
+  }
+  if (/証明/.test(unit)) return "図形の証明";
   if (/比例|反比例|一次関数|変化の割合|変域|グラフ|座標|関数/.test(unit)) return "関数";
-  if (/図形|作図|角度|合同|証明|相似|円|三角形|四角形|多角形|平行|面積|体積|表面積|おうぎ形|立体|投影図|展開図|移動|ねじれ|柱|錐|球|線分/.test(unit)) {
+  if (/方程式の利用|方程式の応用|文章題|速さ|割合|道のり/.test(unit)) return "方程式の利用";
+  if (/方程式|連立|不等式|比例式/.test(unit)) return "方程式";
+  if (/図形|作図|角度|角の大きさ|合同|相似|円|三角形|四角形|多角形|平行|面積|体積|表面積|おうぎ形|立体|投影図|展開図|移動|ねじれ|柱|錐|球|線分|垂線/.test(unit)) {
     return "図形";
   }
   return "数と式";
@@ -208,7 +226,7 @@ function detectFieldFromUnit(unit) {
 
 function makeId(parsed, field) {
   const pref = prefectureCode(parsed.prefecture);
-  const fieldCode = { 数と式: "algebra", 図形: "geometry", 関数: "function", データの活用: "data" }[field];
+  const fieldCode = FIELD_CODES[field];
   const hash = createHash("sha1").update(parsed.unit).digest("hex").slice(0, 7);
   return `g${parsed.grade}-${parsed.year}-${pref}-${fieldCode}-${hash}`;
 }

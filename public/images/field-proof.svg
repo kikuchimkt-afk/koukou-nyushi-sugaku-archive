@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="三角形の合同と証明">
+  <defs>
+    <linearGradient id="bgPr" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b1626"/><stop offset="1" stop-color="#100810"/>
+    </linearGradient>
+    <radialGradient id="gPr" cx="0.7" cy="0.32" r="0.6">
+      <stop offset="0" stop-color="#f2a1bb" stop-opacity="0.26"/><stop offset="1" stop-color="#f2a1bb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="640" fill="url(#bgPr)"/>
+  <rect width="900" height="640" fill="url(#gPr)"/>
+
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M90 400L300 400L200 190Z" stroke="#f2a1bb" stroke-width="3.4"/>
+    <path d="M520 400L730 400L630 190Z" stroke="#f2a1bb" stroke-width="3.4" stroke-opacity="0.72"/>
+    <g stroke="#edf3fb" stroke-width="2.6" stroke-opacity="0.85">
+      <path d="M141 297l14 8M147 287l14 8"/>
+      <path d="M571 297l14 8M577 287l14 8"/>
+      <path d="M258 297l-14 8"/>
+      <path d="M688 297l-14 8"/>
+      <path d="M188 400v-14M212 400v-14"/>
+      <path d="M618 400v-14M642 400v-14"/>
+    </g>
+    <path d="M116 400a26 26 0 0 0 14 -26" stroke="#f2a1bb" stroke-width="2.4" stroke-opacity="0.8"/>
+    <path d="M546 400a26 26 0 0 0 14 -26" stroke="#f2a1bb" stroke-width="2.4" stroke-opacity="0.8"/>
+  </g>
+  <g fill="#edf3fb" fill-opacity="0.78" font-family="Georgia, serif" font-size="26">
+    <text x="64" y="436">B</text><text x="296" y="436">C</text><text x="186" y="168">A</text>
+    <text x="494" y="436">E</text><text x="726" y="436">F</text><text x="616" y="168">D</text>
+  </g>
+  <text x="330" y="316" font-size="52" fill="#f2a1bb" fill-opacity="0.9" font-family="Georgia, serif">≡</text>
+  <text x="90" y="530" font-size="30" fill="#edf3fb" fill-opacity="0.55" font-family="Georgia, serif">1組の辺とその両端の角がそれぞれ等しい</text>
+</svg>

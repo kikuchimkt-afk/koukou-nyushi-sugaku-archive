@@ -1,25 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="作図と合同の証明">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="平面図形と空間図形">
   <defs>
     <linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f2231"/><stop offset="1" stop-color="#070f16"/>
+      <stop offset="0" stop-color="#1d1a35"/><stop offset="1" stop-color="#0a0912"/>
     </linearGradient>
-    <radialGradient id="gG" cx="0.7" cy="0.34" r="0.6">
-      <stop offset="0" stop-color="#79ddc3" stop-opacity="0.26"/><stop offset="1" stop-color="#79ddc3" stop-opacity="0"/>
+    <radialGradient id="gG" cx="0.7" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#a89cf5" stop-opacity="0.28"/><stop offset="1" stop-color="#a89cf5" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="900" height="640" fill="url(#bgG)"/>
   <rect width="900" height="640" fill="url(#gG)"/>
-  <g fill="none" stroke-linejoin="round">
-    <path d="M170 470L470 470L360 190Z" stroke="#79ddc3" stroke-width="3.4" stroke-opacity="0.85"/>
-    <path d="M470 470L700 470L590 190L360 190Z" stroke="#79ddc3" stroke-width="2.6" stroke-opacity="0.35"/>
-    <circle cx="360" cy="190" r="215" stroke="#a9c9ff" stroke-width="2" stroke-opacity="0.3" stroke-dasharray="9 11"/>
-    <circle cx="470" cy="470" r="215" stroke="#a9c9ff" stroke-width="2" stroke-opacity="0.3" stroke-dasharray="9 11"/>
-    <path d="M170 470L590 190" stroke="#a89cf5" stroke-width="2" stroke-opacity="0.45"/>
-    <path d="M196 470a26 26 0 0 0 12 -22" stroke="#edf3fb" stroke-width="2.2" stroke-opacity="0.6"/>
-    <path d="M338 210a26 26 0 0 0 24 6" stroke="#edf3fb" stroke-width="2.2" stroke-opacity="0.6"/>
+
+  <g fill="none" stroke="#a89cf5" stroke-linejoin="round">
+    <path d="M120 470L120 250L280 180L440 250L440 470L280 540Z" stroke-width="3.2" stroke-opacity="0.9"/>
+    <path d="M120 250L280 320L440 250" stroke-width="2.4" stroke-opacity="0.45" stroke-dasharray="8 9"/>
+    <path d="M280 320L280 540" stroke-width="2.4" stroke-opacity="0.45" stroke-dasharray="8 9"/>
+
+    <path d="M640 200L760 470L520 470Z" stroke-width="3" stroke-opacity="0.75"/>
+    <ellipse cx="640" cy="470" rx="120" ry="34" stroke-width="3" stroke-opacity="0.75"/>
+    <path d="M640 200L640 470" stroke-width="2.2" stroke-opacity="0.4" stroke-dasharray="7 8"/>
+    <path d="M640 470h120" stroke-width="2.2" stroke-opacity="0.4" stroke-dasharray="7 8"/>
+    <path d="M616 470v-24h24" stroke-width="2.2" stroke-opacity="0.7"/>
   </g>
-  <g fill="#edf3fb" fill-opacity="0.75" font-family="Georgia, 'Times New Roman', serif">
-    <circle cx="170" cy="470" r="7"/><circle cx="470" cy="470" r="7"/><circle cx="360" cy="190" r="7"/>
-    <text x="140" y="510" font-size="30">B</text><text x="484" y="510" font-size="30">C</text><text x="344" y="164" font-size="30">A</text>
+  <g fill="#edf3fb" fill-opacity="0.55" font-family="Georgia, serif" font-size="26">
+    <text x="676" y="352">母線</text>
+    <text x="120" y="580">角柱・角錐・円錐と作図</text>
   </g>
 </svg>

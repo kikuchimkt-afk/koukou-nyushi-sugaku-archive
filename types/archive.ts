@@ -1,4 +1,13 @@
-export const FIELDS = ["数と式", "図形", "関数", "データの活用"] as const;
+export const FIELDS = [
+  "数と式",
+  "方程式",
+  "方程式の利用",
+  "規則性",
+  "関数",
+  "図形",
+  "図形の証明",
+  "データの活用",
+] as const;
 
 export type MathField = (typeof FIELDS)[number];
 
