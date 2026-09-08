@@ -10,8 +10,16 @@ const ids = new Set();
 const releaseNames = new Set();
 // 収録を追加したら、ここと EXPECTED_TOTALS を更新する。
 // 値は data/archive.generated.json を機械集計して合わせること。
-const expectedCounts = new Map([]);
-const EXPECTED_TOTALS = { releaseTag: "pdfs-v1", items: null, pages: null };
+const expectedCounts = new Map([
+  ["1:データの活用", 4],
+  ["2:数と式", 1],
+  ["2:方程式の利用", 1],
+  ["2:規則性", 3],
+  ["2:関数", 8],
+  ["2:図形の証明", 2],
+  ["2:データの活用", 3],
+]);
+const EXPECTED_TOTALS = { releaseTag: "pdfs-v1", items: 22, pages: 102 };
 const VALID_FIELDS = new Set([
   "数と式",
   "方程式",

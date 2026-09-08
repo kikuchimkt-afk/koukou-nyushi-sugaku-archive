@@ -1,4 +1,5 @@
 .release-assets/
+output/pdf/
 tmp/
 scripts/
 README.md

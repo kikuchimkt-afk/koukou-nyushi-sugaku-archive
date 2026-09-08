@@ -3,6 +3,7 @@ node_modules/
 .vercel/
 *.tsbuildinfo
 .release-assets/
+output/pdf/
 tmp/
 .DS_Store
 

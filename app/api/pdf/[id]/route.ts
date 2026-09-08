@@ -35,7 +35,7 @@ export async function GET(request: Request, context: { params: Promise<{ id: str
   const upstream = await fetch(item.pdfUrl, {
     headers: {
       Range: `bytes=${start}-${end}`,
-      "User-Agent": "koukou-nyushi-rika-archive/1.0",
+      "User-Agent": "koukou-nyushi-sugaku-archive/1.0",
     },
     cache: "no-store",
   });

@@ -1,7 +1,552 @@
 {
-  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "generatedAt": "2026-09-08T13:29:51.166Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 0,
-  "totalPages": 0,
-  "items": []
+  "totalItems": 22,
+  "totalPages": 102,
+  "items": [
+    {
+      "id": "g1-2023-hokkaido-data-bea1743",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "北海道",
+      "field": "データの活用",
+      "unit": "度数分布と相対度数（累積度数・度数折れ線・分布の比較）",
+      "shortUnit": "度数分布と相対度数",
+      "tags": [
+        "累積度数",
+        "度数折れ線",
+        "分布の比較"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-hokkaido-data-bea1743/page-01.jpg?v=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
+        "/previews/g1-2023-hokkaido-data-bea1743/page-02.jpg?v=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
+        "/previews/g1-2023-hokkaido-data-bea1743/page-03.jpg?v=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
+        "/previews/g1-2023-hokkaido-data-bea1743/page-04.jpg?v=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
+        "/previews/g1-2023-hokkaido-data-bea1743/page-05.jpg?v=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207"
+      ],
+      "contentVersion": "7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-hokkaido-data-bea1743.pdf?rev=7abeab1ee2de321b0f5340498d1dfa2dfc4c6d61e37aedac4443db7648c12207",
+      "pdfFileName": "2023年実施_北海道_中1数学_度数分布と相対度数（累積度数・度数折れ線・分布の比較）.pdf",
+      "fileSize": 11877616
+    },
+    {
+      "id": "g2-2022-hokkaido-data-fc0c344",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "データの活用",
+      "unit": "箱ひげ図と四分位数（第3四分位数・範囲・中央値・分布）",
+      "shortUnit": "箱ひげ図と四分位数",
+      "tags": [
+        "第3四分位数",
+        "範囲",
+        "中央値",
+        "分布"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-hokkaido-data-fc0c344/page-01.jpg?v=7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b",
+        "/previews/g2-2022-hokkaido-data-fc0c344/page-02.jpg?v=7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b",
+        "/previews/g2-2022-hokkaido-data-fc0c344/page-03.jpg?v=7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b",
+        "/previews/g2-2022-hokkaido-data-fc0c344/page-04.jpg?v=7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b",
+        "/previews/g2-2022-hokkaido-data-fc0c344/page-05.jpg?v=7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b"
+      ],
+      "contentVersion": "7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-hokkaido-data-fc0c344.pdf?rev=7dfda60e4d930ada10c24a343ddc08475d273a9664b7513fe4901a3972c4992b",
+      "pdfFileName": "2022年実施_北海道_中2数学_箱ひげ図と四分位数（第3四分位数・範囲・中央値・分布）.pdf",
+      "fileSize": 8144085
+    },
+    {
+      "id": "g2-2021-hokkaido-pattern-b3143a5",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "北海道",
+      "field": "規則性",
+      "unit": "規則性と文字式（ストロー・五角形・正六角形・説明）",
+      "shortUnit": "規則性と文字式",
+      "tags": [
+        "ストロー",
+        "五角形",
+        "正六角形",
+        "説明"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-hokkaido-pattern-b3143a5/page-01.jpg?v=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
+        "/previews/g2-2021-hokkaido-pattern-b3143a5/page-02.jpg?v=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
+        "/previews/g2-2021-hokkaido-pattern-b3143a5/page-03.jpg?v=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
+        "/previews/g2-2021-hokkaido-pattern-b3143a5/page-04.jpg?v=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
+        "/previews/g2-2021-hokkaido-pattern-b3143a5/page-05.jpg?v=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f"
+      ],
+      "contentVersion": "500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-hokkaido-pattern-b3143a5.pdf?rev=500bf0014e5ebc4c039a238f42de23c93567bcc38db36cc72a940388212edd6f",
+      "pdfFileName": "2021年実施_北海道_中2数学_規則性と文字式（ストロー・五角形・正六角形・説明）.pdf",
+      "fileSize": 8233531
+    },
+    {
+      "id": "g2-2021-fukuoka-function-14fefc7",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（家・図書館・駅の移動）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "家",
+        "図書館",
+        "駅の移動"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2021-fukuoka-function-14fefc7/page-01.jpg?v=4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53",
+        "/previews/g2-2021-fukuoka-function-14fefc7/page-02.jpg?v=4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53",
+        "/previews/g2-2021-fukuoka-function-14fefc7/page-03.jpg?v=4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53",
+        "/previews/g2-2021-fukuoka-function-14fefc7/page-04.jpg?v=4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53",
+        "/previews/g2-2021-fukuoka-function-14fefc7/page-05.jpg?v=4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53"
+      ],
+      "contentVersion": "4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-fukuoka-function-14fefc7.pdf?rev=4cb1bbd0ece2b7f13d1be8bff2f126ce3aaf042e1b90d7ab6297604984169f53",
+      "pdfFileName": "2021年実施_福岡県_中2数学_一次関数のグラフの利用（家・図書館・駅の移動）.pdf",
+      "fileSize": 8522960
+    },
+    {
+      "id": "g2-2021-hokkaido-proof-5478fa7",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "北海道",
+      "field": "図形の証明",
+      "unit": "台形と合同の証明（対角線・平行線と角・線分の相等）",
+      "shortUnit": "台形と合同の証明",
+      "tags": [
+        "対角線",
+        "平行線と角",
+        "線分の相等"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-hokkaido-proof-5478fa7/page-01.jpg?v=a750bee71da714e746f950c5275d5c096f7220329564a71f7955da04d2fee32d",
+        "/previews/g2-2021-hokkaido-proof-5478fa7/page-02.jpg?v=a750bee71da714e746f950c5275d5c096f7220329564a71f7955da04d2fee32d",
+        "/previews/g2-2021-hokkaido-proof-5478fa7/page-03.jpg?v=a750bee71da714e746f950c5275d5c096f7220329564a71f7955da04d2fee32d",
+        "/previews/g2-2021-hokkaido-proof-5478fa7/page-04.jpg?v=a750bee71da714e746f950c5275d5c096f7220329564a71f7955da04d2fee32d"
+      ],
+      "contentVersion": "a750bee71da714e746f950c5275d5c096f7220329564a71f7955da04d2fee32d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-hokkaido-proof-5478fa7.pdf?rev=a750bee71da714e746f950c5275d5c096f7220329564a71f7955da04d2fee32d",
+      "pdfFileName": "2021年実施_北海道_中2数学_台形と合同の証明（対角線・平行線と角・線分の相等）.pdf",
+      "fileSize": 3804318
+    },
+    {
+      "id": "g1-2021-fukuoka-data-07c42de",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "データの活用",
+      "unit": "相対度数と代表値（紙飛行機の飛行距離のヒストグラム）",
+      "shortUnit": "相対度数と代表値",
+      "tags": [
+        "紙飛行機の飛行距離のヒストグラム"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2021-fukuoka-data-07c42de/page-01.jpg?v=3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85",
+        "/previews/g1-2021-fukuoka-data-07c42de/page-02.jpg?v=3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85",
+        "/previews/g1-2021-fukuoka-data-07c42de/page-03.jpg?v=3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85",
+        "/previews/g1-2021-fukuoka-data-07c42de/page-04.jpg?v=3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85"
+      ],
+      "contentVersion": "3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-fukuoka-data-07c42de.pdf?rev=3c27997989c48493253c674bf0673cb3fefacb33de8f077897536d5f21f5aa85",
+      "pdfFileName": "2021年実施_福岡県_中1数学_相対度数と代表値（紙飛行機の飛行距離のヒストグラム）.pdf",
+      "fileSize": 5847778
+    },
+    {
+      "id": "g2-2020-hokkaido-pattern-d8e2220",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "北海道",
+      "field": "規則性",
+      "unit": "整数の性質と文字式（倍数・カレンダー・うるう年の周期）",
+      "shortUnit": "整数の性質と文字式",
+      "tags": [
+        "倍数",
+        "カレンダー",
+        "うるう年の周期"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2020-hokkaido-pattern-d8e2220/page-01.jpg?v=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
+        "/previews/g2-2020-hokkaido-pattern-d8e2220/page-02.jpg?v=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
+        "/previews/g2-2020-hokkaido-pattern-d8e2220/page-03.jpg?v=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
+        "/previews/g2-2020-hokkaido-pattern-d8e2220/page-04.jpg?v=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
+        "/previews/g2-2020-hokkaido-pattern-d8e2220/page-05.jpg?v=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd"
+      ],
+      "contentVersion": "e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-hokkaido-pattern-d8e2220.pdf?rev=e365410c1013ad93ce8aea66598aa7a488fa99762e7fdaf651ce18ea8c0f65fd",
+      "pdfFileName": "2020年実施_北海道_中2数学_整数の性質と文字式（倍数・カレンダー・うるう年の周期）.pdf",
+      "fileSize": 7673770
+    },
+    {
+      "id": "g2-2020-nagano-function-3c27a83",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "長野県",
+      "field": "関数",
+      "unit": "一次関数のグラフの読み取りと利用（2店のリボンの値段）",
+      "shortUnit": "一次関数のグラフの読み取りと利用",
+      "tags": [
+        "2店のリボンの値段"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2020-nagano-function-3c27a83/page-01.jpg?v=47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14",
+        "/previews/g2-2020-nagano-function-3c27a83/page-02.jpg?v=47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14",
+        "/previews/g2-2020-nagano-function-3c27a83/page-03.jpg?v=47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14",
+        "/previews/g2-2020-nagano-function-3c27a83/page-04.jpg?v=47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14",
+        "/previews/g2-2020-nagano-function-3c27a83/page-05.jpg?v=47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14"
+      ],
+      "contentVersion": "47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-nagano-function-3c27a83.pdf?rev=47c2ff6ab10ace544f230d2c4bff47a95b29691909d33012947edc72c31c7b14",
+      "pdfFileName": "2020年実施_長野県_中2数学_一次関数のグラフの読み取りと利用（2店のリボンの値段）.pdf",
+      "fileSize": 10413566
+    },
+    {
+      "id": "g2-2020-fukuoka-function-6efdef8",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "福岡県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（電話の料金プランの比較）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "電話の料金プランの比較"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2020-fukuoka-function-6efdef8/page-01.jpg?v=7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2",
+        "/previews/g2-2020-fukuoka-function-6efdef8/page-02.jpg?v=7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2",
+        "/previews/g2-2020-fukuoka-function-6efdef8/page-03.jpg?v=7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2",
+        "/previews/g2-2020-fukuoka-function-6efdef8/page-04.jpg?v=7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2",
+        "/previews/g2-2020-fukuoka-function-6efdef8/page-05.jpg?v=7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2"
+      ],
+      "contentVersion": "7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-fukuoka-function-6efdef8.pdf?rev=7aeeed7d4ccbe9e334ff6c6bcfe100388c8b1d91cf950d128dcea60d64ac00b2",
+      "pdfFileName": "2020年実施_福岡県_中2数学_一次関数のグラフの利用（電話の料金プランの比較）.pdf",
+      "fileSize": 7484134
+    },
+    {
+      "id": "g2-2020-fukuoka-data-ed159c6",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "福岡県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（カードとコマの移動）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "カードとコマの移動"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-fukuoka-data-ed159c6/page-01.jpg?v=bc14c65f2f9ce26dd51370d69b23c42f7e294e353f4850303a451d348bb97e61",
+        "/previews/g2-2020-fukuoka-data-ed159c6/page-02.jpg?v=bc14c65f2f9ce26dd51370d69b23c42f7e294e353f4850303a451d348bb97e61",
+        "/previews/g2-2020-fukuoka-data-ed159c6/page-03.jpg?v=bc14c65f2f9ce26dd51370d69b23c42f7e294e353f4850303a451d348bb97e61",
+        "/previews/g2-2020-fukuoka-data-ed159c6/page-04.jpg?v=bc14c65f2f9ce26dd51370d69b23c42f7e294e353f4850303a451d348bb97e61"
+      ],
+      "contentVersion": "bc14c65f2f9ce26dd51370d69b23c42f7e294e353f4850303a451d348bb97e61",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-fukuoka-data-ed159c6.pdf?rev=bc14c65f2f9ce26dd51370d69b23c42f7e294e353f4850303a451d348bb97e61",
+      "pdfFileName": "2020年実施_福岡県_中2数学_場合の数と確率（カードとコマの移動）.pdf",
+      "fileSize": 4501726
+    },
+    {
+      "id": "g2-2019-fukuoka-algebra-41c59bb",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "福岡県",
+      "field": "数と式",
+      "unit": "式の値と等式の変形（数当てゲームの仕組みの説明）",
+      "shortUnit": "式の値と等式の変形",
+      "tags": [
+        "数当てゲームの仕組みの説明"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2019-fukuoka-algebra-41c59bb/page-01.jpg?v=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
+        "/previews/g2-2019-fukuoka-algebra-41c59bb/page-02.jpg?v=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
+        "/previews/g2-2019-fukuoka-algebra-41c59bb/page-03.jpg?v=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
+        "/previews/g2-2019-fukuoka-algebra-41c59bb/page-04.jpg?v=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
+        "/previews/g2-2019-fukuoka-algebra-41c59bb/page-05.jpg?v=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9"
+      ],
+      "contentVersion": "a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-fukuoka-algebra-41c59bb.pdf?rev=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
+      "pdfFileName": "2019年実施_福岡県_中2数学_式の値と等式の変形（数当てゲームの仕組みの説明）.pdf",
+      "fileSize": 5629637
+    },
+    {
+      "id": "g2-2019-hokkaido-pattern-f9114b9",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "北海道",
+      "field": "規則性",
+      "unit": "文字式による説明（ます目の和・単項式・方程式の応用）",
+      "shortUnit": "文字式による説明",
+      "tags": [
+        "ます目の和",
+        "単項式",
+        "方程式の応用"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-hokkaido-pattern-f9114b9/page-01.jpg?v=9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4",
+        "/previews/g2-2019-hokkaido-pattern-f9114b9/page-02.jpg?v=9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4",
+        "/previews/g2-2019-hokkaido-pattern-f9114b9/page-03.jpg?v=9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4",
+        "/previews/g2-2019-hokkaido-pattern-f9114b9/page-04.jpg?v=9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4"
+      ],
+      "contentVersion": "9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-hokkaido-pattern-f9114b9.pdf?rev=9d3869ea27ab33e49b14146f3577037d8a76f10b993fe31bae4b69874a0b9da4",
+      "pdfFileName": "2019年実施_北海道_中2数学_文字式による説明（ます目の和・単項式・方程式の応用）.pdf",
+      "fileSize": 6400155
+    },
+    {
+      "id": "g2-2019-nagano-function-d0f869f",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "長野県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（プールの排水とポンプ）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "プールの排水とポンプ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2019-nagano-function-d0f869f/page-01.jpg?v=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
+        "/previews/g2-2019-nagano-function-d0f869f/page-02.jpg?v=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
+        "/previews/g2-2019-nagano-function-d0f869f/page-03.jpg?v=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
+        "/previews/g2-2019-nagano-function-d0f869f/page-04.jpg?v=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
+        "/previews/g2-2019-nagano-function-d0f869f/page-05.jpg?v=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51"
+      ],
+      "contentVersion": "bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-nagano-function-d0f869f.pdf?rev=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
+      "pdfFileName": "2019年実施_長野県_中2数学_一次関数のグラフの利用（プールの排水とポンプ）.pdf",
+      "fileSize": 14393412
+    },
+    {
+      "id": "g2-2019-fukuoka-function-2a2f8db",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "福岡県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（通学の道のりと時間）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "通学の道のりと時間"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2019-fukuoka-function-2a2f8db/page-01.jpg?v=7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a",
+        "/previews/g2-2019-fukuoka-function-2a2f8db/page-02.jpg?v=7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a",
+        "/previews/g2-2019-fukuoka-function-2a2f8db/page-03.jpg?v=7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a",
+        "/previews/g2-2019-fukuoka-function-2a2f8db/page-04.jpg?v=7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a",
+        "/previews/g2-2019-fukuoka-function-2a2f8db/page-05.jpg?v=7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a"
+      ],
+      "contentVersion": "7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-fukuoka-function-2a2f8db.pdf?rev=7f3cf8306826e637981e4f84c6697fabcd1f2f573458f689fd5477495cbde80a",
+      "pdfFileName": "2019年実施_福岡県_中2数学_一次関数のグラフの利用（通学の道のりと時間）.pdf",
+      "fileSize": 6892640
+    },
+    {
+      "id": "g2-2019-hokkaido-proof-2f53791",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "北海道",
+      "field": "図形の証明",
+      "unit": "台形と合同の証明（角度・垂線・三角形の合同）",
+      "shortUnit": "台形と合同の証明",
+      "tags": [
+        "角度",
+        "垂線",
+        "三角形の合同"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-hokkaido-proof-2f53791/page-01.jpg?v=e836bb5dfacb269e0b557f87e0e3ea765be7899de9c062b49bdc7aa71af1b22f",
+        "/previews/g2-2019-hokkaido-proof-2f53791/page-02.jpg?v=e836bb5dfacb269e0b557f87e0e3ea765be7899de9c062b49bdc7aa71af1b22f",
+        "/previews/g2-2019-hokkaido-proof-2f53791/page-03.jpg?v=e836bb5dfacb269e0b557f87e0e3ea765be7899de9c062b49bdc7aa71af1b22f",
+        "/previews/g2-2019-hokkaido-proof-2f53791/page-04.jpg?v=e836bb5dfacb269e0b557f87e0e3ea765be7899de9c062b49bdc7aa71af1b22f"
+      ],
+      "contentVersion": "e836bb5dfacb269e0b557f87e0e3ea765be7899de9c062b49bdc7aa71af1b22f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-hokkaido-proof-2f53791.pdf?rev=e836bb5dfacb269e0b557f87e0e3ea765be7899de9c062b49bdc7aa71af1b22f",
+      "pdfFileName": "2019年実施_北海道_中2数学_台形と合同の証明（角度・垂線・三角形の合同）.pdf",
+      "fileSize": 3288475
+    },
+    {
+      "id": "g2-2019-fukuoka-data-6bdc017",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "福岡県",
+      "field": "データの活用",
+      "unit": "確率（玉の取り出し・2種類のくじ引きの比較）",
+      "shortUnit": "確率",
+      "tags": [
+        "玉の取り出し",
+        "2種類のくじ引きの比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-fukuoka-data-6bdc017/page-01.jpg?v=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
+        "/previews/g2-2019-fukuoka-data-6bdc017/page-02.jpg?v=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
+        "/previews/g2-2019-fukuoka-data-6bdc017/page-03.jpg?v=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
+        "/previews/g2-2019-fukuoka-data-6bdc017/page-04.jpg?v=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d"
+      ],
+      "contentVersion": "bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-fukuoka-data-6bdc017.pdf?rev=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
+      "pdfFileName": "2019年実施_福岡県_中2数学_確率（玉の取り出し・2種類のくじ引きの比較）.pdf",
+      "fileSize": 4257570
+    },
+    {
+      "id": "g2-2018-nagano-function-c44c5a7",
+      "grade": 2,
+      "year": 2018,
+      "prefecture": "長野県",
+      "field": "関数",
+      "unit": "一次関数とダイヤグラム（2台のエレベーターの動き）",
+      "shortUnit": "一次関数とダイヤグラム",
+      "tags": [
+        "2台のエレベーターの動き"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2018-nagano-function-c44c5a7/page-01.jpg?v=2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b",
+        "/previews/g2-2018-nagano-function-c44c5a7/page-02.jpg?v=2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b",
+        "/previews/g2-2018-nagano-function-c44c5a7/page-03.jpg?v=2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b",
+        "/previews/g2-2018-nagano-function-c44c5a7/page-04.jpg?v=2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b",
+        "/previews/g2-2018-nagano-function-c44c5a7/page-05.jpg?v=2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b"
+      ],
+      "contentVersion": "2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-nagano-function-c44c5a7.pdf?rev=2a8237722896db6fbc024121d47458f372d3d8a49ad11222372582b514c7da1b",
+      "pdfFileName": "2018年実施_長野県_中2数学_一次関数とダイヤグラム（2台のエレベーターの動き）.pdf",
+      "fileSize": 14064989
+    },
+    {
+      "id": "g2-2018-fukuoka-function-eac66cd",
+      "grade": 2,
+      "year": 2018,
+      "prefecture": "福岡県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（水そうの水面の高さ）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "水そうの水面の高さ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2018-fukuoka-function-eac66cd/page-01.jpg?v=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
+        "/previews/g2-2018-fukuoka-function-eac66cd/page-02.jpg?v=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
+        "/previews/g2-2018-fukuoka-function-eac66cd/page-03.jpg?v=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
+        "/previews/g2-2018-fukuoka-function-eac66cd/page-04.jpg?v=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
+        "/previews/g2-2018-fukuoka-function-eac66cd/page-05.jpg?v=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521"
+      ],
+      "contentVersion": "e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-fukuoka-function-eac66cd.pdf?rev=e2e4d8c69ef339e07728b74d4420cb6c19c366c7491e3efa67f289a087a6f521",
+      "pdfFileName": "2018年実施_福岡県_中2数学_一次関数のグラフの利用（水そうの水面の高さ）.pdf",
+      "fileSize": 8049607
+    },
+    {
+      "id": "g1-2018-fukuoka-data-65f69ec",
+      "grade": 1,
+      "year": 2018,
+      "prefecture": "福岡県",
+      "field": "データの活用",
+      "unit": "相対度数と中央値（2校の読書冊数の比較）",
+      "shortUnit": "相対度数と中央値",
+      "tags": [
+        "2校の読書冊数の比較"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2018-fukuoka-data-65f69ec/page-01.jpg?v=e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0",
+        "/previews/g1-2018-fukuoka-data-65f69ec/page-02.jpg?v=e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0",
+        "/previews/g1-2018-fukuoka-data-65f69ec/page-03.jpg?v=e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0",
+        "/previews/g1-2018-fukuoka-data-65f69ec/page-04.jpg?v=e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0",
+        "/previews/g1-2018-fukuoka-data-65f69ec/page-05.jpg?v=e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0"
+      ],
+      "contentVersion": "e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-fukuoka-data-65f69ec.pdf?rev=e91423818f720cf80af13d8537ec46bdd6f55bdc33ea29e15081eeccbae12de0",
+      "pdfFileName": "2018年実施_福岡県_中1数学_相対度数と中央値（2校の読書冊数の比較）.pdf",
+      "fileSize": 5629748
+    },
+    {
+      "id": "g1-2018-hokkaido-data-2a3deec",
+      "grade": 1,
+      "year": 2018,
+      "prefecture": "北海道",
+      "field": "データの活用",
+      "unit": "度数分布表と代表値（相対度数・平均値・中央値・階級）",
+      "shortUnit": "度数分布表と代表値",
+      "tags": [
+        "相対度数",
+        "平均値",
+        "中央値",
+        "階級"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2018-hokkaido-data-2a3deec/page-01.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
+        "/previews/g1-2018-hokkaido-data-2a3deec/page-02.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
+        "/previews/g1-2018-hokkaido-data-2a3deec/page-03.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
+        "/previews/g1-2018-hokkaido-data-2a3deec/page-04.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
+        "/previews/g1-2018-hokkaido-data-2a3deec/page-05.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6"
+      ],
+      "contentVersion": "b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-hokkaido-data-2a3deec.pdf?rev=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
+      "pdfFileName": "2018年実施_北海道_中1数学_度数分布表と代表値（相対度数・平均値・中央値・階級）.pdf",
+      "fileSize": 12310919
+    },
+    {
+      "id": "g2-2017-fukuoka-equation-use-4358e97",
+      "grade": 2,
+      "year": 2017,
+      "prefecture": "福岡県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の応用（袋詰めの個数と売上金額）",
+      "shortUnit": "連立方程式の応用",
+      "tags": [
+        "袋詰めの個数と売上金額"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2017-fukuoka-equation-use-4358e97/page-01.jpg?v=8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4",
+        "/previews/g2-2017-fukuoka-equation-use-4358e97/page-02.jpg?v=8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4",
+        "/previews/g2-2017-fukuoka-equation-use-4358e97/page-03.jpg?v=8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4",
+        "/previews/g2-2017-fukuoka-equation-use-4358e97/page-04.jpg?v=8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4"
+      ],
+      "contentVersion": "8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-fukuoka-equation-use-4358e97.pdf?rev=8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4",
+      "pdfFileName": "2017年実施_福岡県_中2数学_連立方程式の応用（袋詰めの個数と売上金額）.pdf",
+      "fileSize": 3810340
+    },
+    {
+      "id": "g2-2017-fukuoka-function-67706d3",
+      "grade": 2,
+      "year": 2017,
+      "prefecture": "福岡県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（速さ・道のり・すれちがい）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "速さ",
+        "道のり",
+        "すれちがい"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2017-fukuoka-function-67706d3/page-01.jpg?v=9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3",
+        "/previews/g2-2017-fukuoka-function-67706d3/page-02.jpg?v=9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3",
+        "/previews/g2-2017-fukuoka-function-67706d3/page-03.jpg?v=9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3",
+        "/previews/g2-2017-fukuoka-function-67706d3/page-04.jpg?v=9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3"
+      ],
+      "contentVersion": "9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-fukuoka-function-67706d3.pdf?rev=9fff756b402e6291fb1d8765970ed191f5cda2aa328bb9181e5b4e44dd0786e3",
+      "pdfFileName": "2017年実施_福岡県_中2数学_一次関数のグラフの利用（速さ・道のり・すれちがい）.pdf",
+      "fileSize": 5502595
+    }
+  ]
 }

@@ -388,7 +388,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="filter-panel">
           <label className="search-field">
             <span>単元・キーワード</span>
-            <div><span aria-hidden="true">⌕</span><input value={filters.q} onChange={(event) => setFilter("q", event.target.value)} placeholder="例：凸レンズ、地震、再結晶" /></div>
+            <div><span aria-hidden="true">⌕</span><input value={filters.q} onChange={(event) => setFilter("q", event.target.value)} placeholder="例：一次関数、相対度数、合同の証明" /></div>
           </label>
           <FilterSelect label="単元" value={filters.field} onChange={(value) => setFilter("field", value)} options={FIELDS.map((field) => ({ value: field, label: `${field}（${fieldCounts.get(field)}）` }))} />
           <FilterSelect label="実施年" value={filters.year} onChange={(value) => setFilter("year", value)} options={years.map((year) => ({ value: String(year), label: `${year}年` }))} />
