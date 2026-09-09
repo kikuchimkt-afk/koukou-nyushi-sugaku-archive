@@ -13,18 +13,18 @@ const releaseNames = new Set();
 const expectedCounts = new Map([
   ["1:数と式", 4],
   ["1:方程式の利用", 3],
-  ["1:関数", 6],
+  ["1:関数", 7],
   ["1:図形", 11],
-  ["1:データの活用", 8],
+  ["1:データの活用", 12],
   ["2:数と式", 4],
-  ["2:方程式の利用", 10],
-  ["2:規則性", 8],
-  ["2:関数", 19],
+  ["2:方程式の利用", 17],
+  ["2:規則性", 14],
+  ["2:関数", 28],
   ["2:図形", 3],
   ["2:図形の証明", 10],
-  ["2:データの活用", 20],
+  ["2:データの活用", 23],
 ]);
-const EXPECTED_TOTALS = { releaseTag: "pdfs-v1", items: 106, pages: 443 };
+const EXPECTED_TOTALS = { releaseTag: "pdfs-v1", items: 136, pages: 570 };
 const VALID_FIELDS = new Set([
   "数と式",
   "方程式",

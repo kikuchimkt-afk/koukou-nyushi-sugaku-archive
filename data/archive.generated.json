@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T17:24:22.396Z",
+  "generatedAt": "2026-09-09T15:58:58.850Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 106,
-  "totalPages": 443,
+  "totalItems": 136,
+  "totalPages": 570,
   "items": [
     {
       "id": "g2-2025-iwate-algebra-3de8aef",
@@ -49,6 +49,59 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-equation-use-098b14b.pdf?rev=864042bd5c2a08c3bd39213693c25eecf8acfd4bca7f70b0d4aff5894568193b",
       "pdfFileName": "2025年実施_岩手県_中2数学_連立方程式の利用（切手の枚数の取り違え）.pdf",
       "fileSize": 3769397
+    },
+    {
+      "id": "g2-2025-tokushima-equation-use-f8f3282",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "徳島県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の応用（運動時間・身体活動量・道のりと速さ）",
+      "shortUnit": "連立方程式の応用",
+      "tags": [
+        "運動時間",
+        "身体活動量",
+        "道のりと速さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2025-tokushima-equation-use-f8f3282/page-01.jpg?v=3b658e161b88730e9f16f8dd7a62c755c0dbb7a9de802589f8f4f9b940d40f85",
+        "/previews/g2-2025-tokushima-equation-use-f8f3282/page-02.jpg?v=3b658e161b88730e9f16f8dd7a62c755c0dbb7a9de802589f8f4f9b940d40f85",
+        "/previews/g2-2025-tokushima-equation-use-f8f3282/page-03.jpg?v=3b658e161b88730e9f16f8dd7a62c755c0dbb7a9de802589f8f4f9b940d40f85",
+        "/previews/g2-2025-tokushima-equation-use-f8f3282/page-04.jpg?v=3b658e161b88730e9f16f8dd7a62c755c0dbb7a9de802589f8f4f9b940d40f85"
+      ],
+      "contentVersion": "3b658e161b88730e9f16f8dd7a62c755c0dbb7a9de802589f8f4f9b940d40f85",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-tokushima-equation-use-f8f3282.pdf?rev=3b658e161b88730e9f16f8dd7a62c755c0dbb7a9de802589f8f4f9b940d40f85",
+      "pdfFileName": "2025年実施_徳島県_中2数学_連立方程式の応用（運動時間・身体活動量・道のりと速さ）.pdf",
+      "fileSize": 8281111
+    },
+    {
+      "id": "g2-2025-tokushima-pattern-d408e64",
+      "grade": 2,
+      "year": 2025,
+      "prefecture": "徳島県",
+      "field": "規則性",
+      "unit": "時計の規則性（LED表示・場合の数・時計の針・一次方程式・作図）",
+      "shortUnit": "時計の規則性",
+      "tags": [
+        "LED表示",
+        "場合の数",
+        "時計の針",
+        "一次方程式",
+        "作図"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2025-tokushima-pattern-d408e64/page-01.jpg?v=ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d",
+        "/previews/g2-2025-tokushima-pattern-d408e64/page-02.jpg?v=ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d",
+        "/previews/g2-2025-tokushima-pattern-d408e64/page-03.jpg?v=ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d",
+        "/previews/g2-2025-tokushima-pattern-d408e64/page-04.jpg?v=ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d",
+        "/previews/g2-2025-tokushima-pattern-d408e64/page-05.jpg?v=ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d"
+      ],
+      "contentVersion": "ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-tokushima-pattern-d408e64.pdf?rev=ef2ebdd3b2125295ad74071aeeda996d28b9b4de985174b340beb9656a399b4d",
+      "pdfFileName": "2025年実施_徳島県_中2数学_時計の規則性（LED表示・場合の数・時計の針・一次方程式・作図）.pdf",
+      "fileSize": 13213626
     },
     {
       "id": "g2-2025-iwate-function-a71eb01",
@@ -236,6 +289,32 @@
       "fileSize": 3579638
     },
     {
+      "id": "g2-2024-tokushima-pattern-bfaa0d1",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "徳島県",
+      "field": "規則性",
+      "unit": "マッチ棒の規則性（段数・一般式・逆向きに組み合わせたタワー）",
+      "shortUnit": "マッチ棒の規則性",
+      "tags": [
+        "段数",
+        "一般式",
+        "逆向きに組み合わせたタワー"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2024-tokushima-pattern-bfaa0d1/page-01.jpg?v=6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7",
+        "/previews/g2-2024-tokushima-pattern-bfaa0d1/page-02.jpg?v=6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7",
+        "/previews/g2-2024-tokushima-pattern-bfaa0d1/page-03.jpg?v=6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7",
+        "/previews/g2-2024-tokushima-pattern-bfaa0d1/page-04.jpg?v=6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7",
+        "/previews/g2-2024-tokushima-pattern-bfaa0d1/page-05.jpg?v=6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7"
+      ],
+      "contentVersion": "6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-tokushima-pattern-bfaa0d1.pdf?rev=6bc55276a9a2907ea819cc86d4762466143566048b87bab6106f7c5894d6ecf7",
+      "pdfFileName": "2024年実施_徳島県_中2数学_マッチ棒の規則性（段数・一般式・逆向きに組み合わせたタワー）.pdf",
+      "fileSize": 11501846
+    },
+    {
       "id": "g2-2024-okinawa-function-a3fd329",
       "grade": 2,
       "year": 2024,
@@ -303,6 +382,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2024-iwate-function-255e26d.pdf?rev=bc516106e8a95e37ef9eedd6cf359bdccd0c6b3b510c9b184f304fb16f4fa356",
       "pdfFileName": "2024年実施_岩手県_中1数学_反比例の式と値（グラフ上の点）.pdf",
       "fileSize": 2508219
+    },
+    {
+      "id": "g2-2024-tokushima-function-141d2dc",
+      "grade": 2,
+      "year": 2024,
+      "prefecture": "徳島県",
+      "field": "関数",
+      "unit": "一次関数と図形の応用（座標・正方形・回転体・最短経路）",
+      "shortUnit": "一次関数と図形の応用",
+      "tags": [
+        "座標",
+        "正方形",
+        "回転体",
+        "最短経路"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2024-tokushima-function-141d2dc/page-01.jpg?v=75147a842ed6c47edc80197e83e016fc7b89e2d4572d88f17dfd4d264673d8e8",
+        "/previews/g2-2024-tokushima-function-141d2dc/page-02.jpg?v=75147a842ed6c47edc80197e83e016fc7b89e2d4572d88f17dfd4d264673d8e8",
+        "/previews/g2-2024-tokushima-function-141d2dc/page-03.jpg?v=75147a842ed6c47edc80197e83e016fc7b89e2d4572d88f17dfd4d264673d8e8",
+        "/previews/g2-2024-tokushima-function-141d2dc/page-04.jpg?v=75147a842ed6c47edc80197e83e016fc7b89e2d4572d88f17dfd4d264673d8e8"
+      ],
+      "contentVersion": "75147a842ed6c47edc80197e83e016fc7b89e2d4572d88f17dfd4d264673d8e8",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-tokushima-function-141d2dc.pdf?rev=75147a842ed6c47edc80197e83e016fc7b89e2d4572d88f17dfd4d264673d8e8",
+      "pdfFileName": "2024年実施_徳島県_中2数学_一次関数と図形の応用（座標・正方形・回転体・最短経路）.pdf",
+      "fileSize": 6632986
     },
     {
       "id": "g1-2024-okinawa-geometry-129cdeb",
@@ -491,6 +596,80 @@
       "fileSize": 3461469
     },
     {
+      "id": "g2-2023-aomori-equation-use-a478b52",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "青森県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（りんごとなし・整数解・一次関数）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "りんごとなし",
+        "整数解",
+        "一次関数"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2023-aomori-equation-use-a478b52/page-01.jpg?v=6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476",
+        "/previews/g2-2023-aomori-equation-use-a478b52/page-02.jpg?v=6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476",
+        "/previews/g2-2023-aomori-equation-use-a478b52/page-03.jpg?v=6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476",
+        "/previews/g2-2023-aomori-equation-use-a478b52/page-04.jpg?v=6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476",
+        "/previews/g2-2023-aomori-equation-use-a478b52/page-05.jpg?v=6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476"
+      ],
+      "contentVersion": "6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-aomori-equation-use-a478b52.pdf?rev=6a95400c499e4b46c8a60a4b74b48e7b1551cef39c76371e132c3e7f0e548476",
+      "pdfFileName": "2023年実施_青森県_中2数学_連立方程式の利用（りんごとなし・整数解・一次関数）.pdf",
+      "fileSize": 9514552
+    },
+    {
+      "id": "g2-2023-tokushima-equation-use-4c6d4f5",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "徳島県",
+      "field": "方程式の利用",
+      "unit": "方程式と文字式の応用（文化祭の時間配分・発表グループ数）",
+      "shortUnit": "方程式と文字式の応用",
+      "tags": [
+        "文化祭の時間配分",
+        "発表グループ数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-tokushima-equation-use-4c6d4f5/page-01.jpg?v=a8f8a6413af0357fc6b424a186c1bb0b6b77dadf18d731a70483a5799cb69f5d",
+        "/previews/g2-2023-tokushima-equation-use-4c6d4f5/page-02.jpg?v=a8f8a6413af0357fc6b424a186c1bb0b6b77dadf18d731a70483a5799cb69f5d",
+        "/previews/g2-2023-tokushima-equation-use-4c6d4f5/page-03.jpg?v=a8f8a6413af0357fc6b424a186c1bb0b6b77dadf18d731a70483a5799cb69f5d",
+        "/previews/g2-2023-tokushima-equation-use-4c6d4f5/page-04.jpg?v=a8f8a6413af0357fc6b424a186c1bb0b6b77dadf18d731a70483a5799cb69f5d"
+      ],
+      "contentVersion": "a8f8a6413af0357fc6b424a186c1bb0b6b77dadf18d731a70483a5799cb69f5d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-tokushima-equation-use-4c6d4f5.pdf?rev=a8f8a6413af0357fc6b424a186c1bb0b6b77dadf18d731a70483a5799cb69f5d",
+      "pdfFileName": "2023年実施_徳島県_中2数学_方程式と文字式の応用（文化祭の時間配分・発表グループ数）.pdf",
+      "fileSize": 9875676
+    },
+    {
+      "id": "g2-2023-gifu-pattern-c5571ce",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岐阜県",
+      "field": "規則性",
+      "unit": "数の性質と文字式（各位の数の和・3けたの自然数）",
+      "shortUnit": "数の性質と文字式",
+      "tags": [
+        "各位の数の和",
+        "3けたの自然数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-gifu-pattern-c5571ce/page-01.jpg?v=803f0aa9d6dde9dd31e27b543475407a254763a1cc0f29ea9d93a4c1cd92c9c2",
+        "/previews/g2-2023-gifu-pattern-c5571ce/page-02.jpg?v=803f0aa9d6dde9dd31e27b543475407a254763a1cc0f29ea9d93a4c1cd92c9c2",
+        "/previews/g2-2023-gifu-pattern-c5571ce/page-03.jpg?v=803f0aa9d6dde9dd31e27b543475407a254763a1cc0f29ea9d93a4c1cd92c9c2",
+        "/previews/g2-2023-gifu-pattern-c5571ce/page-04.jpg?v=803f0aa9d6dde9dd31e27b543475407a254763a1cc0f29ea9d93a4c1cd92c9c2"
+      ],
+      "contentVersion": "803f0aa9d6dde9dd31e27b543475407a254763a1cc0f29ea9d93a4c1cd92c9c2",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-gifu-pattern-c5571ce.pdf?rev=803f0aa9d6dde9dd31e27b543475407a254763a1cc0f29ea9d93a4c1cd92c9c2",
+      "pdfFileName": "2023年実施_岐阜県_中2数学_数の性質と文字式（各位の数の和・3けたの自然数）.pdf",
+      "fileSize": 8221151
+    },
+    {
       "id": "g2-2023-okinawa-function-186efc7",
       "grade": 2,
       "year": 2023,
@@ -558,6 +737,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-iwate-function-1f9f469.pdf?rev=c50b1cabceb2a599e81069a3496a2c738552a8378e719248bafefe459c8da0d5",
       "pdfFileName": "2023年実施_岩手県_中1数学_比例と反比例（グラフの識別）.pdf",
       "fileSize": 2978040
+    },
+    {
+      "id": "g2-2023-gifu-function-b7ca7f9",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岐阜県",
+      "field": "関数",
+      "unit": "一次関数の利用（モノレール・すれ違い・追い越し）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "モノレール",
+        "すれ違い",
+        "追い越し"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-gifu-function-b7ca7f9/page-01.jpg?v=a5a6a13985fe7a10a7596a7fdb635d1b60a3bbfcb7faf0426e6b20da80834a0c",
+        "/previews/g2-2023-gifu-function-b7ca7f9/page-02.jpg?v=a5a6a13985fe7a10a7596a7fdb635d1b60a3bbfcb7faf0426e6b20da80834a0c",
+        "/previews/g2-2023-gifu-function-b7ca7f9/page-03.jpg?v=a5a6a13985fe7a10a7596a7fdb635d1b60a3bbfcb7faf0426e6b20da80834a0c",
+        "/previews/g2-2023-gifu-function-b7ca7f9/page-04.jpg?v=a5a6a13985fe7a10a7596a7fdb635d1b60a3bbfcb7faf0426e6b20da80834a0c"
+      ],
+      "contentVersion": "a5a6a13985fe7a10a7596a7fdb635d1b60a3bbfcb7faf0426e6b20da80834a0c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-gifu-function-b7ca7f9.pdf?rev=a5a6a13985fe7a10a7596a7fdb635d1b60a3bbfcb7faf0426e6b20da80834a0c",
+      "pdfFileName": "2023年実施_岐阜県_中2数学_一次関数の利用（モノレール・すれ違い・追い越し）.pdf",
+      "fileSize": 8816024
     },
     {
       "id": "g1-2023-okinawa-geometry-eb3ab81",
@@ -698,6 +902,58 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-iwate-data-efb86f1.pdf?rev=bb02f268f92951c6619ab72948658f8bc1234b205fc9ecc83f159d164b26d0c8",
       "pdfFileName": "2023年実施_岩手県_中2数学_箱ひげ図と四分位数（第3四分位数）.pdf",
       "fileSize": 3548182
+    },
+    {
+      "id": "g2-2023-gifu-data-791f589",
+      "grade": 2,
+      "year": 2023,
+      "prefecture": "岐阜県",
+      "field": "データの活用",
+      "unit": "箱ひげ図と四分位数（四分位範囲・2群の比較）",
+      "shortUnit": "箱ひげ図と四分位数",
+      "tags": [
+        "四分位範囲",
+        "2群の比較"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2023-gifu-data-791f589/page-01.jpg?v=eb96181cee5659e640e219141559e4de12ec193a1d4d021a6f858c895e029b2e",
+        "/previews/g2-2023-gifu-data-791f589/page-02.jpg?v=eb96181cee5659e640e219141559e4de12ec193a1d4d021a6f858c895e029b2e",
+        "/previews/g2-2023-gifu-data-791f589/page-03.jpg?v=eb96181cee5659e640e219141559e4de12ec193a1d4d021a6f858c895e029b2e",
+        "/previews/g2-2023-gifu-data-791f589/page-04.jpg?v=eb96181cee5659e640e219141559e4de12ec193a1d4d021a6f858c895e029b2e"
+      ],
+      "contentVersion": "eb96181cee5659e640e219141559e4de12ec193a1d4d021a6f858c895e029b2e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-gifu-data-791f589.pdf?rev=eb96181cee5659e640e219141559e4de12ec193a1d4d021a6f858c895e029b2e",
+      "pdfFileName": "2023年実施_岐阜県_中2数学_箱ひげ図と四分位数（四分位範囲・2群の比較）.pdf",
+      "fileSize": 6774347
+    },
+    {
+      "id": "g1-2023-tokushima-data-9f39de9",
+      "grade": 1,
+      "year": 2023,
+      "prefecture": "徳島県",
+      "field": "データの活用",
+      "unit": "資料の散らばりと代表値（ヒストグラム・最頻値・相対度数・累積相対度数・中央値）",
+      "shortUnit": "資料の散らばりと代表値",
+      "tags": [
+        "ヒストグラム",
+        "最頻値",
+        "相対度数",
+        "累積相対度数",
+        "中央値"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g1-2023-tokushima-data-9f39de9/page-01.jpg?v=90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34",
+        "/previews/g1-2023-tokushima-data-9f39de9/page-02.jpg?v=90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34",
+        "/previews/g1-2023-tokushima-data-9f39de9/page-03.jpg?v=90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34",
+        "/previews/g1-2023-tokushima-data-9f39de9/page-04.jpg?v=90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34",
+        "/previews/g1-2023-tokushima-data-9f39de9/page-05.jpg?v=90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34"
+      ],
+      "contentVersion": "90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-tokushima-data-9f39de9.pdf?rev=90a1df2c0e79d9f16314f81a069eb70bc30737b8b8b50c174231de770a699a34",
+      "pdfFileName": "2023年実施_徳島県_中1数学_資料の散らばりと代表値（ヒストグラム・最頻値・相対度数・累積相対度数・中央値）.pdf",
+      "fileSize": 12063726
     },
     {
       "id": "g1-2023-hokkaido-data-bea1743",
@@ -861,6 +1117,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-function-2ee300e.pdf?rev=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
       "pdfFileName": "2022年実施_岩手県_中1数学_比例のグラフ（傾きが負の直線）.pdf",
       "fileSize": 3535869
+    },
+    {
+      "id": "g2-2022-tokushima-function-faa5cc4",
+      "grade": 2,
+      "year": 2022,
+      "prefecture": "徳島県",
+      "field": "関数",
+      "unit": "一次関数のグラフの利用（Tシャツ注文料金・3社の比較）",
+      "shortUnit": "一次関数のグラフの利用",
+      "tags": [
+        "Tシャツ注文料金",
+        "3社の比較"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2022-tokushima-function-faa5cc4/page-01.jpg?v=c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6",
+        "/previews/g2-2022-tokushima-function-faa5cc4/page-02.jpg?v=c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6",
+        "/previews/g2-2022-tokushima-function-faa5cc4/page-03.jpg?v=c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6",
+        "/previews/g2-2022-tokushima-function-faa5cc4/page-04.jpg?v=c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6",
+        "/previews/g2-2022-tokushima-function-faa5cc4/page-05.jpg?v=c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6"
+      ],
+      "contentVersion": "c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-tokushima-function-faa5cc4.pdf?rev=c83f70e4e8feba0a3f6938291475af2fdc2b0523b06310ece89ba8a967c256f6",
+      "pdfFileName": "2022年実施_徳島県_中2数学_一次関数のグラフの利用（Tシャツ注文料金・3社の比較）.pdf",
+      "fileSize": 11130744
     },
     {
       "id": "g1-2022-okinawa-geometry-3d75645",
@@ -1052,6 +1333,31 @@
       "fileSize": 7284172
     },
     {
+      "id": "g1-2022-gifu-data-3176af0",
+      "grade": 1,
+      "year": 2022,
+      "prefecture": "岐阜県",
+      "field": "データの活用",
+      "unit": "度数分布と代表値（平均値・中央値・資料の追加）",
+      "shortUnit": "度数分布と代表値",
+      "tags": [
+        "平均値",
+        "中央値",
+        "資料の追加"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2022-gifu-data-3176af0/page-01.jpg?v=6af434a8c339032c3b1298a53ac1e8ae074a9afd7105ad7b1d6ddf29f9f25a2e",
+        "/previews/g1-2022-gifu-data-3176af0/page-02.jpg?v=6af434a8c339032c3b1298a53ac1e8ae074a9afd7105ad7b1d6ddf29f9f25a2e",
+        "/previews/g1-2022-gifu-data-3176af0/page-03.jpg?v=6af434a8c339032c3b1298a53ac1e8ae074a9afd7105ad7b1d6ddf29f9f25a2e",
+        "/previews/g1-2022-gifu-data-3176af0/page-04.jpg?v=6af434a8c339032c3b1298a53ac1e8ae074a9afd7105ad7b1d6ddf29f9f25a2e"
+      ],
+      "contentVersion": "6af434a8c339032c3b1298a53ac1e8ae074a9afd7105ad7b1d6ddf29f9f25a2e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-gifu-data-3176af0.pdf?rev=6af434a8c339032c3b1298a53ac1e8ae074a9afd7105ad7b1d6ddf29f9f25a2e",
+      "pdfFileName": "2022年実施_岐阜県_中1数学_度数分布と代表値（平均値・中央値・資料の追加）.pdf",
+      "fileSize": 4847826
+    },
+    {
       "id": "g2-2022-hokkaido-data-fc0c344",
       "grade": 2,
       "year": 2022,
@@ -1195,6 +1501,31 @@
       "fileSize": 2549432
     },
     {
+      "id": "g2-2021-tokushima-equation-use-94d30f9",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "徳島県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の応用（玉ねぎとじゃがいもの袋数・個数・売上）",
+      "shortUnit": "連立方程式の応用",
+      "tags": [
+        "玉ねぎとじゃがいもの袋数",
+        "個数",
+        "売上"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-tokushima-equation-use-94d30f9/page-01.jpg?v=3f216586e53ecf636d3da75c4c6db9245c25ebab41afdab9081c57b960bf4119",
+        "/previews/g2-2021-tokushima-equation-use-94d30f9/page-02.jpg?v=3f216586e53ecf636d3da75c4c6db9245c25ebab41afdab9081c57b960bf4119",
+        "/previews/g2-2021-tokushima-equation-use-94d30f9/page-03.jpg?v=3f216586e53ecf636d3da75c4c6db9245c25ebab41afdab9081c57b960bf4119",
+        "/previews/g2-2021-tokushima-equation-use-94d30f9/page-04.jpg?v=3f216586e53ecf636d3da75c4c6db9245c25ebab41afdab9081c57b960bf4119"
+      ],
+      "contentVersion": "3f216586e53ecf636d3da75c4c6db9245c25ebab41afdab9081c57b960bf4119",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-tokushima-equation-use-94d30f9.pdf?rev=3f216586e53ecf636d3da75c4c6db9245c25ebab41afdab9081c57b960bf4119",
+      "pdfFileName": "2021年実施_徳島県_中2数学_連立方程式の応用（玉ねぎとじゃがいもの袋数・個数・売上）.pdf",
+      "fileSize": 7717998
+    },
+    {
       "id": "g2-2021-okinawa-pattern-a562b83",
       "grade": 2,
       "year": 2021,
@@ -1294,6 +1625,52 @@
       "fileSize": 1922594
     },
     {
+      "id": "g2-2021-gifu-function-2db7bea",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岐阜県",
+      "field": "関数",
+      "unit": "一次関数の利用（セロハンの折り返しと面積）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "セロハンの折り返しと面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gifu-function-2db7bea/page-01.jpg?v=59646e6f994250aabacffd9b38f7a307fc3be6c2209de07dd2a78434ba1ae5ba",
+        "/previews/g2-2021-gifu-function-2db7bea/page-02.jpg?v=59646e6f994250aabacffd9b38f7a307fc3be6c2209de07dd2a78434ba1ae5ba",
+        "/previews/g2-2021-gifu-function-2db7bea/page-03.jpg?v=59646e6f994250aabacffd9b38f7a307fc3be6c2209de07dd2a78434ba1ae5ba",
+        "/previews/g2-2021-gifu-function-2db7bea/page-04.jpg?v=59646e6f994250aabacffd9b38f7a307fc3be6c2209de07dd2a78434ba1ae5ba"
+      ],
+      "contentVersion": "59646e6f994250aabacffd9b38f7a307fc3be6c2209de07dd2a78434ba1ae5ba",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gifu-function-2db7bea.pdf?rev=59646e6f994250aabacffd9b38f7a307fc3be6c2209de07dd2a78434ba1ae5ba",
+      "pdfFileName": "2021年実施_岐阜県_中2数学_一次関数の利用（セロハンの折り返しと面積）.pdf",
+      "fileSize": 8060351
+    },
+    {
+      "id": "g1-2021-gifu-function-6a69c18",
+      "grade": 1,
+      "year": 2021,
+      "prefecture": "岐阜県",
+      "field": "関数",
+      "unit": "反比例の利用（電子レンジの出力と調理時間）",
+      "shortUnit": "反比例の利用",
+      "tags": [
+        "電子レンジの出力と調理時間"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2021-gifu-function-6a69c18/page-01.jpg?v=35e6f762d5516afb1c1c9826473a0f129f21d65e45d7e0a0b0b6f97779a9c778",
+        "/previews/g1-2021-gifu-function-6a69c18/page-02.jpg?v=35e6f762d5516afb1c1c9826473a0f129f21d65e45d7e0a0b0b6f97779a9c778",
+        "/previews/g1-2021-gifu-function-6a69c18/page-03.jpg?v=35e6f762d5516afb1c1c9826473a0f129f21d65e45d7e0a0b0b6f97779a9c778",
+        "/previews/g1-2021-gifu-function-6a69c18/page-04.jpg?v=35e6f762d5516afb1c1c9826473a0f129f21d65e45d7e0a0b0b6f97779a9c778"
+      ],
+      "contentVersion": "35e6f762d5516afb1c1c9826473a0f129f21d65e45d7e0a0b0b6f97779a9c778",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2021-gifu-function-6a69c18.pdf?rev=35e6f762d5516afb1c1c9826473a0f129f21d65e45d7e0a0b0b6f97779a9c778",
+      "pdfFileName": "2021年実施_岐阜県_中1数学_反比例の利用（電子レンジの出力と調理時間）.pdf",
+      "fileSize": 2882472
+    },
+    {
       "id": "g2-2021-gunma-function-ef298f9",
       "grade": 2,
       "year": 2021,
@@ -1315,6 +1692,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gunma-function-ef298f9.pdf?rev=f8b992912028243af5289fc35aec56f7a20267494c8101bf8427155e5061ec48",
       "pdfFileName": "2021年実施_群馬県_中2数学_一次関数の利用（円周上の動点と速さ）.pdf",
       "fileSize": 5909360
+    },
+    {
+      "id": "g2-2021-aomori-function-af2e7ce",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "青森県",
+      "field": "関数",
+      "unit": "一次関数とグラフの利用（徒歩・バス・2人の距離）",
+      "shortUnit": "一次関数とグラフの利用",
+      "tags": [
+        "徒歩",
+        "バス",
+        "2人の距離"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-aomori-function-af2e7ce/page-01.jpg?v=2dc11d36ae51fc3f71c15296bd0e3a709467bca210be666d8112a65526d96d35",
+        "/previews/g2-2021-aomori-function-af2e7ce/page-02.jpg?v=2dc11d36ae51fc3f71c15296bd0e3a709467bca210be666d8112a65526d96d35",
+        "/previews/g2-2021-aomori-function-af2e7ce/page-03.jpg?v=2dc11d36ae51fc3f71c15296bd0e3a709467bca210be666d8112a65526d96d35",
+        "/previews/g2-2021-aomori-function-af2e7ce/page-04.jpg?v=2dc11d36ae51fc3f71c15296bd0e3a709467bca210be666d8112a65526d96d35"
+      ],
+      "contentVersion": "2dc11d36ae51fc3f71c15296bd0e3a709467bca210be666d8112a65526d96d35",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-aomori-function-af2e7ce.pdf?rev=2dc11d36ae51fc3f71c15296bd0e3a709467bca210be666d8112a65526d96d35",
+      "pdfFileName": "2021年実施_青森県_中2数学_一次関数とグラフの利用（徒歩・バス・2人の距離）.pdf",
+      "fileSize": 20958047
     },
     {
       "id": "g2-2021-fukuoka-function-14fefc7",
@@ -1528,6 +1930,30 @@
       "fileSize": 3529001
     },
     {
+      "id": "g2-2021-gifu-data-73218f7",
+      "grade": 2,
+      "year": 2021,
+      "prefecture": "岐阜県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（2個のさいころ・直線）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "2個のさいころ",
+        "直線"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2021-gifu-data-73218f7/page-01.jpg?v=4862c8e8100ecf2f473665a8b2dad4d1cac1b71ff98aefb82cce51c4a96c979a",
+        "/previews/g2-2021-gifu-data-73218f7/page-02.jpg?v=4862c8e8100ecf2f473665a8b2dad4d1cac1b71ff98aefb82cce51c4a96c979a",
+        "/previews/g2-2021-gifu-data-73218f7/page-03.jpg?v=4862c8e8100ecf2f473665a8b2dad4d1cac1b71ff98aefb82cce51c4a96c979a",
+        "/previews/g2-2021-gifu-data-73218f7/page-04.jpg?v=4862c8e8100ecf2f473665a8b2dad4d1cac1b71ff98aefb82cce51c4a96c979a"
+      ],
+      "contentVersion": "4862c8e8100ecf2f473665a8b2dad4d1cac1b71ff98aefb82cce51c4a96c979a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-gifu-data-73218f7.pdf?rev=4862c8e8100ecf2f473665a8b2dad4d1cac1b71ff98aefb82cce51c4a96c979a",
+      "pdfFileName": "2021年実施_岐阜県_中2数学_場合の数と確率（2個のさいころ・直線）.pdf",
+      "fileSize": 4195991
+    },
+    {
       "id": "g1-2021-fukuoka-data-07c42de",
       "grade": 1,
       "year": 2021,
@@ -1695,6 +2121,54 @@
       "fileSize": 6047936
     },
     {
+      "id": "g2-2020-gifu-function-6c6dec4",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "岐阜県",
+      "field": "関数",
+      "unit": "一次関数の利用（給水と水面の高さ）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "給水と水面の高さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2020-gifu-function-6c6dec4/page-01.jpg?v=ca436713ca40aa4872be36f1a68f8566a1f80741d9964860dbdac38f374f826a",
+        "/previews/g2-2020-gifu-function-6c6dec4/page-02.jpg?v=ca436713ca40aa4872be36f1a68f8566a1f80741d9964860dbdac38f374f826a",
+        "/previews/g2-2020-gifu-function-6c6dec4/page-03.jpg?v=ca436713ca40aa4872be36f1a68f8566a1f80741d9964860dbdac38f374f826a",
+        "/previews/g2-2020-gifu-function-6c6dec4/page-04.jpg?v=ca436713ca40aa4872be36f1a68f8566a1f80741d9964860dbdac38f374f826a"
+      ],
+      "contentVersion": "ca436713ca40aa4872be36f1a68f8566a1f80741d9964860dbdac38f374f826a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-gifu-function-6c6dec4.pdf?rev=ca436713ca40aa4872be36f1a68f8566a1f80741d9964860dbdac38f374f826a",
+      "pdfFileName": "2020年実施_岐阜県_中2数学_一次関数の利用（給水と水面の高さ）.pdf",
+      "fileSize": 10056046
+    },
+    {
+      "id": "g2-2020-aomori-function-61c2802",
+      "grade": 2,
+      "year": 2020,
+      "prefecture": "青森県",
+      "field": "関数",
+      "unit": "一次関数とグラフの利用（水そうへの注水・水面の高さ）",
+      "shortUnit": "一次関数とグラフの利用",
+      "tags": [
+        "水そうへの注水",
+        "水面の高さ"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2020-aomori-function-61c2802/page-01.jpg?v=9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489",
+        "/previews/g2-2020-aomori-function-61c2802/page-02.jpg?v=9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489",
+        "/previews/g2-2020-aomori-function-61c2802/page-03.jpg?v=9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489",
+        "/previews/g2-2020-aomori-function-61c2802/page-04.jpg?v=9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489",
+        "/previews/g2-2020-aomori-function-61c2802/page-05.jpg?v=9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489"
+      ],
+      "contentVersion": "9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-aomori-function-61c2802.pdf?rev=9e734bf37fd076d63789cdc508d97abd912baceb1c4d07c13001c8c64456f489",
+      "pdfFileName": "2020年実施_青森県_中2数学_一次関数とグラフの利用（水そうへの注水・水面の高さ）.pdf",
+      "fileSize": 13486320
+    },
+    {
       "id": "g2-2020-nagano-function-3c27a83",
       "grade": 2,
       "year": 2020,
@@ -1812,6 +2286,32 @@
       "fileSize": 4576562
     },
     {
+      "id": "g1-2020-gifu-data-6587307",
+      "grade": 1,
+      "year": 2020,
+      "prefecture": "岐阜県",
+      "field": "データの活用",
+      "unit": "度数分布表と代表値（最頻値・中央値・相対度数・範囲）",
+      "shortUnit": "度数分布表と代表値",
+      "tags": [
+        "最頻値",
+        "中央値",
+        "相対度数",
+        "範囲"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2020-gifu-data-6587307/page-01.jpg?v=a1a05d0a7556b20f04ae2eeae1e47fd6da3dd08b515cf6617aa8203b4aedda90",
+        "/previews/g1-2020-gifu-data-6587307/page-02.jpg?v=a1a05d0a7556b20f04ae2eeae1e47fd6da3dd08b515cf6617aa8203b4aedda90",
+        "/previews/g1-2020-gifu-data-6587307/page-03.jpg?v=a1a05d0a7556b20f04ae2eeae1e47fd6da3dd08b515cf6617aa8203b4aedda90",
+        "/previews/g1-2020-gifu-data-6587307/page-04.jpg?v=a1a05d0a7556b20f04ae2eeae1e47fd6da3dd08b515cf6617aa8203b4aedda90"
+      ],
+      "contentVersion": "a1a05d0a7556b20f04ae2eeae1e47fd6da3dd08b515cf6617aa8203b4aedda90",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2020-gifu-data-6587307.pdf?rev=a1a05d0a7556b20f04ae2eeae1e47fd6da3dd08b515cf6617aa8203b4aedda90",
+      "pdfFileName": "2020年実施_岐阜県_中1数学_度数分布表と代表値（最頻値・中央値・相対度数・範囲）.pdf",
+      "fileSize": 5189825
+    },
+    {
       "id": "g2-2020-fukuoka-data-ed159c6",
       "grade": 2,
       "year": 2020,
@@ -1857,6 +2357,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-fukuoka-algebra-41c59bb.pdf?rev=a4d34a740973bdfba7cd9f5f62985c141155f2d97a22686d3e0670e5cd4fc0b9",
       "pdfFileName": "2019年実施_福岡県_中2数学_式の値と等式の変形（数当てゲームの仕組みの説明）.pdf",
       "fileSize": 5629637
+    },
+    {
+      "id": "g2-2019-gifu-equation-use-35a77b7",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "岐阜県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の利用（機械の生産量と割合）",
+      "shortUnit": "連立方程式の利用",
+      "tags": [
+        "機械の生産量と割合"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-gifu-equation-use-35a77b7/page-01.jpg?v=35b4d228998ce15e73f240e5f293211b6b4b219ba28b020b1e292d0c138eb957",
+        "/previews/g2-2019-gifu-equation-use-35a77b7/page-02.jpg?v=35b4d228998ce15e73f240e5f293211b6b4b219ba28b020b1e292d0c138eb957",
+        "/previews/g2-2019-gifu-equation-use-35a77b7/page-03.jpg?v=35b4d228998ce15e73f240e5f293211b6b4b219ba28b020b1e292d0c138eb957",
+        "/previews/g2-2019-gifu-equation-use-35a77b7/page-04.jpg?v=35b4d228998ce15e73f240e5f293211b6b4b219ba28b020b1e292d0c138eb957"
+      ],
+      "contentVersion": "35b4d228998ce15e73f240e5f293211b6b4b219ba28b020b1e292d0c138eb957",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gifu-equation-use-35a77b7.pdf?rev=35b4d228998ce15e73f240e5f293211b6b4b219ba28b020b1e292d0c138eb957",
+      "pdfFileName": "2019年実施_岐阜県_中2数学_連立方程式の利用（機械の生産量と割合）.pdf",
+      "fileSize": 6586252
     },
     {
       "id": "g1-2019-gunma-equation-use-9901989",
@@ -1929,6 +2452,56 @@
       "fileSize": 5395419
     },
     {
+      "id": "g2-2019-gifu-pattern-250d116",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "岐阜県",
+      "field": "規則性",
+      "unit": "規則性と文字式（正方形カード・周の長さ・総数）",
+      "shortUnit": "規則性と文字式",
+      "tags": [
+        "正方形カード",
+        "周の長さ",
+        "総数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-gifu-pattern-250d116/page-01.jpg?v=3949451df084f59b2e8008c2f735c984f01009a2f0bd9370d6477837f95dec98",
+        "/previews/g2-2019-gifu-pattern-250d116/page-02.jpg?v=3949451df084f59b2e8008c2f735c984f01009a2f0bd9370d6477837f95dec98",
+        "/previews/g2-2019-gifu-pattern-250d116/page-03.jpg?v=3949451df084f59b2e8008c2f735c984f01009a2f0bd9370d6477837f95dec98",
+        "/previews/g2-2019-gifu-pattern-250d116/page-04.jpg?v=3949451df084f59b2e8008c2f735c984f01009a2f0bd9370d6477837f95dec98"
+      ],
+      "contentVersion": "3949451df084f59b2e8008c2f735c984f01009a2f0bd9370d6477837f95dec98",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gifu-pattern-250d116.pdf?rev=3949451df084f59b2e8008c2f735c984f01009a2f0bd9370d6477837f95dec98",
+      "pdfFileName": "2019年実施_岐阜県_中2数学_規則性と文字式（正方形カード・周の長さ・総数）.pdf",
+      "fileSize": 6478621
+    },
+    {
+      "id": "g2-2019-aomori-pattern-19fb269",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "青森県",
+      "field": "規則性",
+      "unit": "規則性（卒業文集のページ配置・文字式）",
+      "shortUnit": "規則性",
+      "tags": [
+        "卒業文集のページ配置",
+        "文字式"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g2-2019-aomori-pattern-19fb269/page-01.jpg?v=7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd",
+        "/previews/g2-2019-aomori-pattern-19fb269/page-02.jpg?v=7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd",
+        "/previews/g2-2019-aomori-pattern-19fb269/page-03.jpg?v=7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd",
+        "/previews/g2-2019-aomori-pattern-19fb269/page-04.jpg?v=7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd",
+        "/previews/g2-2019-aomori-pattern-19fb269/page-05.jpg?v=7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd"
+      ],
+      "contentVersion": "7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-aomori-pattern-19fb269.pdf?rev=7ca1807eca4bdfe3b72bd33c60d608f3826ff2528f78ae9023b28173be0a60cd",
+      "pdfFileName": "2019年実施_青森県_中2数学_規則性（卒業文集のページ配置・文字式）.pdf",
+      "fileSize": 9400054
+    },
+    {
       "id": "g2-2019-hokkaido-pattern-f9114b9",
       "grade": 2,
       "year": 2019,
@@ -1999,6 +2572,30 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-nagano-function-d0f869f.pdf?rev=bf24578e3b2dff1bfd2c177620432c438bf525cfc458f7df83871da11c37ba51",
       "pdfFileName": "2019年実施_長野県_中2数学_一次関数のグラフの利用（プールの排水とポンプ）.pdf",
       "fileSize": 14393412
+    },
+    {
+      "id": "g2-2019-tokushima-function-7bb8152",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "徳島県",
+      "field": "関数",
+      "unit": "一次関数と連立方程式の応用（高度と気温・チェアリフト）",
+      "shortUnit": "一次関数と連立方程式の応用",
+      "tags": [
+        "高度と気温",
+        "チェアリフト"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-tokushima-function-7bb8152/page-01.jpg?v=5c3f118c2d0964a2a40305b3a474d9e1786dffa57d9065cbed064a89a298656b",
+        "/previews/g2-2019-tokushima-function-7bb8152/page-02.jpg?v=5c3f118c2d0964a2a40305b3a474d9e1786dffa57d9065cbed064a89a298656b",
+        "/previews/g2-2019-tokushima-function-7bb8152/page-03.jpg?v=5c3f118c2d0964a2a40305b3a474d9e1786dffa57d9065cbed064a89a298656b",
+        "/previews/g2-2019-tokushima-function-7bb8152/page-04.jpg?v=5c3f118c2d0964a2a40305b3a474d9e1786dffa57d9065cbed064a89a298656b"
+      ],
+      "contentVersion": "5c3f118c2d0964a2a40305b3a474d9e1786dffa57d9065cbed064a89a298656b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-tokushima-function-7bb8152.pdf?rev=5c3f118c2d0964a2a40305b3a474d9e1786dffa57d9065cbed064a89a298656b",
+      "pdfFileName": "2019年実施_徳島県_中2数学_一次関数と連立方程式の応用（高度と気温・チェアリフト）.pdf",
+      "fileSize": 7123136
     },
     {
       "id": "g2-2019-fukuoka-function-2a2f8db",
@@ -2143,6 +2740,30 @@
       "fileSize": 6122197
     },
     {
+      "id": "g2-2019-gifu-data-59fb8c0",
+      "grade": 2,
+      "year": 2019,
+      "prefecture": "岐阜県",
+      "field": "データの活用",
+      "unit": "場合の数と確率（玉の復元抽出・色と数字）",
+      "shortUnit": "場合の数と確率",
+      "tags": [
+        "玉の復元抽出",
+        "色と数字"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2019-gifu-data-59fb8c0/page-01.jpg?v=ee225c9f1a0d7b9d26472467f76cb8788bf6b50398229ff98adba8bfa9703ff4",
+        "/previews/g2-2019-gifu-data-59fb8c0/page-02.jpg?v=ee225c9f1a0d7b9d26472467f76cb8788bf6b50398229ff98adba8bfa9703ff4",
+        "/previews/g2-2019-gifu-data-59fb8c0/page-03.jpg?v=ee225c9f1a0d7b9d26472467f76cb8788bf6b50398229ff98adba8bfa9703ff4",
+        "/previews/g2-2019-gifu-data-59fb8c0/page-04.jpg?v=ee225c9f1a0d7b9d26472467f76cb8788bf6b50398229ff98adba8bfa9703ff4"
+      ],
+      "contentVersion": "ee225c9f1a0d7b9d26472467f76cb8788bf6b50398229ff98adba8bfa9703ff4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gifu-data-59fb8c0.pdf?rev=ee225c9f1a0d7b9d26472467f76cb8788bf6b50398229ff98adba8bfa9703ff4",
+      "pdfFileName": "2019年実施_岐阜県_中2数学_場合の数と確率（玉の復元抽出・色と数字）.pdf",
+      "fileSize": 3552291
+    },
+    {
       "id": "g2-2019-fukuoka-data-6bdc017",
       "grade": 2,
       "year": 2019,
@@ -2188,6 +2809,54 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-gunma-equation-use-e685d15.pdf?rev=541f4f7f6e19884c24cb66829c76e5542a9513351af22def0a4d45b2ccda6878",
       "pdfFileName": "2018年実施_群馬県_中1数学_一次方程式の利用（単品販売とセット販売）.pdf",
       "fileSize": 2042527
+    },
+    {
+      "id": "g2-2018-tokushima-equation-use-c8e3297",
+      "grade": 2,
+      "year": 2018,
+      "prefecture": "徳島県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の応用（遊園地の移動時間・待ち時間・観覧車）",
+      "shortUnit": "連立方程式の応用",
+      "tags": [
+        "遊園地の移動時間",
+        "待ち時間",
+        "観覧車"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2018-tokushima-equation-use-c8e3297/page-01.jpg?v=ef80b5dae1accaa152d510eeb825068836486bc8c52372e1cadaf1e0c85aa6f7",
+        "/previews/g2-2018-tokushima-equation-use-c8e3297/page-02.jpg?v=ef80b5dae1accaa152d510eeb825068836486bc8c52372e1cadaf1e0c85aa6f7",
+        "/previews/g2-2018-tokushima-equation-use-c8e3297/page-03.jpg?v=ef80b5dae1accaa152d510eeb825068836486bc8c52372e1cadaf1e0c85aa6f7",
+        "/previews/g2-2018-tokushima-equation-use-c8e3297/page-04.jpg?v=ef80b5dae1accaa152d510eeb825068836486bc8c52372e1cadaf1e0c85aa6f7"
+      ],
+      "contentVersion": "ef80b5dae1accaa152d510eeb825068836486bc8c52372e1cadaf1e0c85aa6f7",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-tokushima-equation-use-c8e3297.pdf?rev=ef80b5dae1accaa152d510eeb825068836486bc8c52372e1cadaf1e0c85aa6f7",
+      "pdfFileName": "2018年実施_徳島県_中2数学_連立方程式の応用（遊園地の移動時間・待ち時間・観覧車）.pdf",
+      "fileSize": 6957453
+    },
+    {
+      "id": "g2-2018-gifu-function-e216971",
+      "grade": 2,
+      "year": 2018,
+      "prefecture": "岐阜県",
+      "field": "関数",
+      "unit": "一次関数の利用（往復の道のりと追いつき）",
+      "shortUnit": "一次関数の利用",
+      "tags": [
+        "往復の道のりと追いつき"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2018-gifu-function-e216971/page-01.jpg?v=4a087162530b2200a1695ea163497c527c74b052a7f84aad59f964c4dbca6d4e",
+        "/previews/g2-2018-gifu-function-e216971/page-02.jpg?v=4a087162530b2200a1695ea163497c527c74b052a7f84aad59f964c4dbca6d4e",
+        "/previews/g2-2018-gifu-function-e216971/page-03.jpg?v=4a087162530b2200a1695ea163497c527c74b052a7f84aad59f964c4dbca6d4e",
+        "/previews/g2-2018-gifu-function-e216971/page-04.jpg?v=4a087162530b2200a1695ea163497c527c74b052a7f84aad59f964c4dbca6d4e"
+      ],
+      "contentVersion": "4a087162530b2200a1695ea163497c527c74b052a7f84aad59f964c4dbca6d4e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-gifu-function-e216971.pdf?rev=4a087162530b2200a1695ea163497c527c74b052a7f84aad59f964c4dbca6d4e",
+      "pdfFileName": "2018年実施_岐阜県_中2数学_一次関数の利用（往復の道のりと追いつき）.pdf",
+      "fileSize": 7803361
     },
     {
       "id": "g1-2018-gunma-function-2d6d0dd",
@@ -2278,6 +2947,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-gunma-proof-9731512.pdf?rev=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
       "pdfFileName": "2018年実施_群馬県_中2数学_平行線と多角形の内角を用いた図形の証明.pdf",
       "fileSize": 3324602
+    },
+    {
+      "id": "g1-2018-gifu-data-69cd96f",
+      "grade": 1,
+      "year": 2018,
+      "prefecture": "岐阜県",
+      "field": "データの活用",
+      "unit": "度数分布と代表値（ヒストグラム・中央値・相対度数）",
+      "shortUnit": "度数分布と代表値",
+      "tags": [
+        "ヒストグラム",
+        "中央値",
+        "相対度数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g1-2018-gifu-data-69cd96f/page-01.jpg?v=0098eea9d6ce5514b860edb896f368b4cc44132b3a9320ce5d6764a756b7252e",
+        "/previews/g1-2018-gifu-data-69cd96f/page-02.jpg?v=0098eea9d6ce5514b860edb896f368b4cc44132b3a9320ce5d6764a756b7252e",
+        "/previews/g1-2018-gifu-data-69cd96f/page-03.jpg?v=0098eea9d6ce5514b860edb896f368b4cc44132b3a9320ce5d6764a756b7252e",
+        "/previews/g1-2018-gifu-data-69cd96f/page-04.jpg?v=0098eea9d6ce5514b860edb896f368b4cc44132b3a9320ce5d6764a756b7252e"
+      ],
+      "contentVersion": "0098eea9d6ce5514b860edb896f368b4cc44132b3a9320ce5d6764a756b7252e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-gifu-data-69cd96f.pdf?rev=0098eea9d6ce5514b860edb896f368b4cc44132b3a9320ce5d6764a756b7252e",
+      "pdfFileName": "2018年実施_岐阜県_中1数学_度数分布と代表値（ヒストグラム・中央値・相対度数）.pdf",
+      "fileSize": 3647484
     },
     {
       "id": "g2-2018-gunma-data-d6a1aed",
@@ -2486,6 +3180,56 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-gunma-proof-6536242.pdf?rev=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
       "pdfFileName": "2017年実施_群馬県_中2数学_折り返しと平行線を用いた図形の証明.pdf",
       "fileSize": 1983098
+    },
+    {
+      "id": "g2-2016-tokushima-equation-use-3de38d0",
+      "grade": 2,
+      "year": 2016,
+      "prefecture": "徳島県",
+      "field": "方程式の利用",
+      "unit": "連立方程式の応用（駐車区画・小型車と大型車・長さの測定）",
+      "shortUnit": "連立方程式の応用",
+      "tags": [
+        "駐車区画",
+        "小型車と大型車",
+        "長さの測定"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2016-tokushima-equation-use-3de38d0/page-01.jpg?v=7ab31d6a49d82e4e27cf07d1b8861c623543f6aa612ff3197a31bcaa863515a9",
+        "/previews/g2-2016-tokushima-equation-use-3de38d0/page-02.jpg?v=7ab31d6a49d82e4e27cf07d1b8861c623543f6aa612ff3197a31bcaa863515a9",
+        "/previews/g2-2016-tokushima-equation-use-3de38d0/page-03.jpg?v=7ab31d6a49d82e4e27cf07d1b8861c623543f6aa612ff3197a31bcaa863515a9",
+        "/previews/g2-2016-tokushima-equation-use-3de38d0/page-04.jpg?v=7ab31d6a49d82e4e27cf07d1b8861c623543f6aa612ff3197a31bcaa863515a9"
+      ],
+      "contentVersion": "7ab31d6a49d82e4e27cf07d1b8861c623543f6aa612ff3197a31bcaa863515a9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2016-tokushima-equation-use-3de38d0.pdf?rev=7ab31d6a49d82e4e27cf07d1b8861c623543f6aa612ff3197a31bcaa863515a9",
+      "pdfFileName": "2016年実施_徳島県_中2数学_連立方程式の応用（駐車区画・小型車と大型車・長さの測定）.pdf",
+      "fileSize": 6508309
+    },
+    {
+      "id": "g2-2016-tokushima-pattern-9a40acf",
+      "grade": 2,
+      "year": 2016,
+      "prefecture": "徳島県",
+      "field": "規則性",
+      "unit": "かけ算九九表の規則性（横に並ぶ3数・文字式による説明・倍数）",
+      "shortUnit": "かけ算九九表の規則性",
+      "tags": [
+        "横に並ぶ3数",
+        "文字式による説明",
+        "倍数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g2-2016-tokushima-pattern-9a40acf/page-01.jpg?v=d7d820ff96fba8a3e4a5fb9db6aa28fae266fd83599c33a22b10d10d2cb2df6c",
+        "/previews/g2-2016-tokushima-pattern-9a40acf/page-02.jpg?v=d7d820ff96fba8a3e4a5fb9db6aa28fae266fd83599c33a22b10d10d2cb2df6c",
+        "/previews/g2-2016-tokushima-pattern-9a40acf/page-03.jpg?v=d7d820ff96fba8a3e4a5fb9db6aa28fae266fd83599c33a22b10d10d2cb2df6c",
+        "/previews/g2-2016-tokushima-pattern-9a40acf/page-04.jpg?v=d7d820ff96fba8a3e4a5fb9db6aa28fae266fd83599c33a22b10d10d2cb2df6c"
+      ],
+      "contentVersion": "d7d820ff96fba8a3e4a5fb9db6aa28fae266fd83599c33a22b10d10d2cb2df6c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2016-tokushima-pattern-9a40acf.pdf?rev=d7d820ff96fba8a3e4a5fb9db6aa28fae266fd83599c33a22b10d10d2cb2df6c",
+      "pdfFileName": "2016年実施_徳島県_中2数学_かけ算九九表の規則性（横に並ぶ3数・文字式による説明・倍数）.pdf",
+      "fileSize": 8379033
     }
   ]
 }

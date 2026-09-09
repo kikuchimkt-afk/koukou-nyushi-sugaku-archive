@@ -21,28 +21,31 @@ FIELDS = {
     "図形の証明",
     "データの活用",
 }
-EXPECTED_CONFIG_COUNT = 106
+EXPECTED_CONFIG_COUNT = 136
 EXPECTED_BY_PREFECTURE = {
     "北海道": 8,
+    "青森県": 4,
     "福岡県": 11,
     "長野県": 3,
     "群馬県": 20,
+    "岐阜県": 14,
     "沖縄県": 27,
     "岩手県": 37,
+    "徳島県": 12,
 }
 EXPECTED_BY_GRADE_FIELD = {
     (1, "数と式"): 4,
     (1, "方程式の利用"): 3,
-    (1, "関数"): 6,
+    (1, "関数"): 7,
     (1, "図形"): 11,
-    (1, "データの活用"): 8,
+    (1, "データの活用"): 12,
     (2, "数と式"): 4,
-    (2, "方程式の利用"): 10,
-    (2, "規則性"): 8,
-    (2, "関数"): 19,
+    (2, "方程式の利用"): 17,
+    (2, "規則性"): 14,
+    (2, "関数"): 28,
     (2, "図形"): 3,
     (2, "図形の証明"): 10,
-    (2, "データの活用"): 20,
+    (2, "データの活用"): 23,
 }
 EXPECTED_SELECTION = {
     (
@@ -135,6 +138,24 @@ EXPECTED_SELECTION = {
     ),
 }
 EXPECTED_ADDITIONAL_SLUGS = {
+    "aomori_q5_2019_math",
+    "aomori_q5_2020_math",
+    "aomori_q5_2021_math",
+    "aomori_q5_2023_math",
+    "gifu_q2_2018",
+    "gifu_q2_2020",
+    "gifu_q2_2021",
+    "gifu_q3_2019",
+    "gifu_q3_2021",
+    "gifu_q3_2022",
+    "gifu_q3_2023",
+    "gifu_q4_2018",
+    "gifu_q4_2019",
+    "gifu_q4_2020",
+    "gifu_q4_2021",
+    "gifu_q4_2023",
+    "gifu_q6_2019",
+    "gifu_q6_2023",
     "gunma_2017_back_q4",
     "gunma_2017_front_q4",
     "gunma_2017_front_q5",
@@ -219,6 +240,18 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "okinawa_q7_2024_math",
     "okinawa_q8_2020_math",
     "okinawa_q9_2022_math",
+    "tokushima_2016_q2_math",
+    "tokushima_2016_q5_math",
+    "tokushima_2018_q5_math",
+    "tokushima_2019_q3_math",
+    "tokushima_2021_q2_math",
+    "tokushima_2022_q3_math",
+    "tokushima_2023_q3_math",
+    "tokushima_2023_q4_math",
+    "tokushima_2024_q3_math",
+    "tokushima_2024_q4_math",
+    "tokushima_2025_q2_math",
+    "tokushima_2025_q3_math",
 }
 ADDITIONAL_SELECTION_KEYS = (
     "slug",
@@ -235,7 +268,7 @@ ADDITIONAL_SELECTION_KEYS = (
     "explanation_source_pdf",
 )
 EXPECTED_ADDITIONAL_SELECTION_SHA256 = (
-    "84f7425f08ebaca624ecf67cd6e21cd70b1f7986a86fcef2e15551b09483eb1c"
+    "6ab8cebf7169e890ffb4d3009e8f4f7f4aff9bb8a555b31de51757f0472fdd4a"
 )
 REQUIRED_KEYS = {
     "slug",
