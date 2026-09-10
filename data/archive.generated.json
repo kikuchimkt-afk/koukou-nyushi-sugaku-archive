@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T05:29:17.434Z",
+  "generatedAt": "2026-09-10T09:57:37.643Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 160,
-  "totalPages": 669,
+  "totalItems": 172,
+  "totalPages": 722,
   "items": [
     {
       "id": "g2-2025-iwate-algebra-3de8aef",
@@ -748,6 +748,32 @@
       "fileSize": 1816226
     },
     {
+      "id": "g3-2023-hokkaido-algebra-84aecb9",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "北海道",
+      "field": "数と式",
+      "unit": "展開と因数分解の利用（九九表・文字式による説明・規則性）",
+      "shortUnit": "展開と因数分解の利用",
+      "tags": [
+        "九九表",
+        "文字式による説明",
+        "規則性"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2023-hokkaido-algebra-84aecb9/page-01.jpg?v=21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4",
+        "/previews/g3-2023-hokkaido-algebra-84aecb9/page-02.jpg?v=21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4",
+        "/previews/g3-2023-hokkaido-algebra-84aecb9/page-03.jpg?v=21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4",
+        "/previews/g3-2023-hokkaido-algebra-84aecb9/page-04.jpg?v=21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4",
+        "/previews/g3-2023-hokkaido-algebra-84aecb9/page-05.jpg?v=21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4"
+      ],
+      "contentVersion": "21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-hokkaido-algebra-84aecb9.pdf?rev=21ca051c1ca18ef70bb5a94b358aff883a0234a2b53dbfc2b6882543d73245e4",
+      "pdfFileName": "2023年実施_北海道_中3数学_展開と因数分解の利用（九九表・文字式による説明・規則性）.pdf",
+      "fileSize": 10625047
+    },
+    {
       "id": "g2-2023-iwate-equation-use-0dc3b5d",
       "grade": 2,
       "year": 2023,
@@ -988,6 +1014,31 @@
       "fileSize": 8816024
     },
     {
+      "id": "g3-2023-hokkaido-function-396222a",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "北海道",
+      "field": "関数",
+      "unit": "二次関数の利用（変化の割合・放物線と直線・面積の二等分）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "変化の割合",
+        "放物線と直線",
+        "面積の二等分"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-hokkaido-function-396222a/page-01.jpg?v=f3d58838bbd4348ce616a50c6429b5a30a653013049194cb6824bcdf7ad04466",
+        "/previews/g3-2023-hokkaido-function-396222a/page-02.jpg?v=f3d58838bbd4348ce616a50c6429b5a30a653013049194cb6824bcdf7ad04466",
+        "/previews/g3-2023-hokkaido-function-396222a/page-03.jpg?v=f3d58838bbd4348ce616a50c6429b5a30a653013049194cb6824bcdf7ad04466",
+        "/previews/g3-2023-hokkaido-function-396222a/page-04.jpg?v=f3d58838bbd4348ce616a50c6429b5a30a653013049194cb6824bcdf7ad04466"
+      ],
+      "contentVersion": "f3d58838bbd4348ce616a50c6429b5a30a653013049194cb6824bcdf7ad04466",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-hokkaido-function-396222a.pdf?rev=f3d58838bbd4348ce616a50c6429b5a30a653013049194cb6824bcdf7ad04466",
+      "pdfFileName": "2023年実施_北海道_中3数学_二次関数の利用（変化の割合・放物線と直線・面積の二等分）.pdf",
+      "fileSize": 7100237
+    },
+    {
       "id": "g1-2023-okinawa-geometry-eb3ab81",
       "grade": 1,
       "year": 2023,
@@ -1033,6 +1084,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-iwate-geometry-d84f716.pdf?rev=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
       "pdfFileName": "2023年実施_岩手県_中1数学_基本作図（直角三角形の高さ・垂線）.pdf",
       "fileSize": 3126522
+    },
+    {
+      "id": "g3-2023-hokkaido-proof-94a9cae",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "北海道",
+      "field": "図形の証明",
+      "unit": "円と相似の証明（円周角・相似比・合同）",
+      "shortUnit": "円と相似の証明",
+      "tags": [
+        "円周角",
+        "相似比",
+        "合同"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2023-hokkaido-proof-94a9cae/page-01.jpg?v=2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786",
+        "/previews/g3-2023-hokkaido-proof-94a9cae/page-02.jpg?v=2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786",
+        "/previews/g3-2023-hokkaido-proof-94a9cae/page-03.jpg?v=2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786",
+        "/previews/g3-2023-hokkaido-proof-94a9cae/page-04.jpg?v=2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786",
+        "/previews/g3-2023-hokkaido-proof-94a9cae/page-05.jpg?v=2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786"
+      ],
+      "contentVersion": "2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-hokkaido-proof-94a9cae.pdf?rev=2b54a26993ace37d9bad3ebe5246b373dbeb251eb4e186b9654fef99c3830786",
+      "pdfFileName": "2023年実施_北海道_中3数学_円と相似の証明（円周角・相似比・合同）.pdf",
+      "fileSize": 9327784
     },
     {
       "id": "g2-2023-okinawa-data-afd60f8",
@@ -1254,6 +1331,31 @@
       "fileSize": 1909570
     },
     {
+      "id": "g3-2022-hokkaido-algebra-77c7975",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "数と式",
+      "unit": "平方根と図形の利用（三平方の定理・相似・確率）",
+      "shortUnit": "平方根と図形の利用",
+      "tags": [
+        "三平方の定理",
+        "相似",
+        "確率"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-hokkaido-algebra-77c7975/page-01.jpg?v=0a93e64236af1dbb0f2d22434163c76def834dc247694e6cd471b0fde1a462c3",
+        "/previews/g3-2022-hokkaido-algebra-77c7975/page-02.jpg?v=0a93e64236af1dbb0f2d22434163c76def834dc247694e6cd471b0fde1a462c3",
+        "/previews/g3-2022-hokkaido-algebra-77c7975/page-03.jpg?v=0a93e64236af1dbb0f2d22434163c76def834dc247694e6cd471b0fde1a462c3",
+        "/previews/g3-2022-hokkaido-algebra-77c7975/page-04.jpg?v=0a93e64236af1dbb0f2d22434163c76def834dc247694e6cd471b0fde1a462c3"
+      ],
+      "contentVersion": "0a93e64236af1dbb0f2d22434163c76def834dc247694e6cd471b0fde1a462c3",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-hokkaido-algebra-77c7975.pdf?rev=0a93e64236af1dbb0f2d22434163c76def834dc247694e6cd471b0fde1a462c3",
+      "pdfFileName": "2022年実施_北海道_中3数学_平方根と図形の利用（三平方の定理・相似・確率）.pdf",
+      "fileSize": 5701834
+    },
+    {
       "id": "g2-2022-iwate-equation-use-8c54f60",
       "grade": 2,
       "year": 2022,
@@ -1442,6 +1544,32 @@
       "fileSize": 11130744
     },
     {
+      "id": "g3-2022-hokkaido-function-4ab99f0",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "関数",
+      "unit": "二次関数の利用（放物線の性質・積が一定・説明）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "放物線の性質",
+        "積が一定",
+        "説明"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-hokkaido-function-4ab99f0/page-01.jpg?v=55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577",
+        "/previews/g3-2022-hokkaido-function-4ab99f0/page-02.jpg?v=55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577",
+        "/previews/g3-2022-hokkaido-function-4ab99f0/page-03.jpg?v=55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577",
+        "/previews/g3-2022-hokkaido-function-4ab99f0/page-04.jpg?v=55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577",
+        "/previews/g3-2022-hokkaido-function-4ab99f0/page-05.jpg?v=55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577"
+      ],
+      "contentVersion": "55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-hokkaido-function-4ab99f0.pdf?rev=55a65b821d80fd17bb127de8eb555395ab9b4b1b8bdd8d4877dbab978a322577",
+      "pdfFileName": "2022年実施_北海道_中3数学_二次関数の利用（放物線の性質・積が一定・説明）.pdf",
+      "fileSize": 6337502
+    },
+    {
       "id": "g1-2022-okinawa-geometry-3d75645",
       "grade": 1,
       "year": 2022,
@@ -1580,6 +1708,30 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-fukushima-proof-4eb0648.pdf?rev=f4b1d73dfada10e066a834f17fd879393b77daf12088603c70e7d5feca3116a6",
       "pdfFileName": "2022年実施_福島県_中2数学_三角形の合同証明（角の二等分線・平行線・平行四辺形）.pdf",
       "fileSize": 5711808
+    },
+    {
+      "id": "g3-2022-hokkaido-proof-d1022f1",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "北海道",
+      "field": "図形の証明",
+      "unit": "円と相似の証明（円周角の定理の逆・同一円周）",
+      "shortUnit": "円と相似の証明",
+      "tags": [
+        "円周角の定理の逆",
+        "同一円周"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-hokkaido-proof-d1022f1/page-01.jpg?v=566c8a5d61aba8499b1495d331476dd9d14e36418411bb4ed8dcea5c7090dc5e",
+        "/previews/g3-2022-hokkaido-proof-d1022f1/page-02.jpg?v=566c8a5d61aba8499b1495d331476dd9d14e36418411bb4ed8dcea5c7090dc5e",
+        "/previews/g3-2022-hokkaido-proof-d1022f1/page-03.jpg?v=566c8a5d61aba8499b1495d331476dd9d14e36418411bb4ed8dcea5c7090dc5e",
+        "/previews/g3-2022-hokkaido-proof-d1022f1/page-04.jpg?v=566c8a5d61aba8499b1495d331476dd9d14e36418411bb4ed8dcea5c7090dc5e"
+      ],
+      "contentVersion": "566c8a5d61aba8499b1495d331476dd9d14e36418411bb4ed8dcea5c7090dc5e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-hokkaido-proof-d1022f1.pdf?rev=566c8a5d61aba8499b1495d331476dd9d14e36418411bb4ed8dcea5c7090dc5e",
+      "pdfFileName": "2022年実施_北海道_中3数学_円と相似の証明（円周角の定理の逆・同一円周）.pdf",
+      "fileSize": 5121932
     },
     {
       "id": "g2-2022-okinawa-data-2505003",
@@ -2168,6 +2320,31 @@
       "fileSize": 8522960
     },
     {
+      "id": "g3-2021-hokkaido-function-68e0a8b",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "北海道",
+      "field": "関数",
+      "unit": "二次関数の利用（対称なグラフ・変域・距離の最小）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "対称なグラフ",
+        "変域",
+        "距離の最小"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-hokkaido-function-68e0a8b/page-01.jpg?v=30c2142d8dc56d82c77b365134e4e96e1d33c1a5ab3ceb48972de8c558e13bea",
+        "/previews/g3-2021-hokkaido-function-68e0a8b/page-02.jpg?v=30c2142d8dc56d82c77b365134e4e96e1d33c1a5ab3ceb48972de8c558e13bea",
+        "/previews/g3-2021-hokkaido-function-68e0a8b/page-03.jpg?v=30c2142d8dc56d82c77b365134e4e96e1d33c1a5ab3ceb48972de8c558e13bea",
+        "/previews/g3-2021-hokkaido-function-68e0a8b/page-04.jpg?v=30c2142d8dc56d82c77b365134e4e96e1d33c1a5ab3ceb48972de8c558e13bea"
+      ],
+      "contentVersion": "30c2142d8dc56d82c77b365134e4e96e1d33c1a5ab3ceb48972de8c558e13bea",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-hokkaido-function-68e0a8b.pdf?rev=30c2142d8dc56d82c77b365134e4e96e1d33c1a5ab3ceb48972de8c558e13bea",
+      "pdfFileName": "2021年実施_北海道_中3数学_二次関数の利用（対称なグラフ・変域・距離の最小）.pdf",
+      "fileSize": 6532949
+    },
+    {
       "id": "g2-2021-okinawa-geometry-1ab8240",
       "grade": 2,
       "year": 2021,
@@ -2741,6 +2918,31 @@
       "fileSize": 7484134
     },
     {
+      "id": "g3-2020-hokkaido-function-8b73a4c",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "北海道",
+      "field": "関数",
+      "unit": "二次関数の利用（放物線の対称性・直線の式・変化の割合）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "放物線の対称性",
+        "直線の式",
+        "変化の割合"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-hokkaido-function-8b73a4c/page-01.jpg?v=dcf60ce261f11539b809fd2b71fa7e925c73f2525444f92b106f987c029971ea",
+        "/previews/g3-2020-hokkaido-function-8b73a4c/page-02.jpg?v=dcf60ce261f11539b809fd2b71fa7e925c73f2525444f92b106f987c029971ea",
+        "/previews/g3-2020-hokkaido-function-8b73a4c/page-03.jpg?v=dcf60ce261f11539b809fd2b71fa7e925c73f2525444f92b106f987c029971ea",
+        "/previews/g3-2020-hokkaido-function-8b73a4c/page-04.jpg?v=dcf60ce261f11539b809fd2b71fa7e925c73f2525444f92b106f987c029971ea"
+      ],
+      "contentVersion": "dcf60ce261f11539b809fd2b71fa7e925c73f2525444f92b106f987c029971ea",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-hokkaido-function-8b73a4c.pdf?rev=dcf60ce261f11539b809fd2b71fa7e925c73f2525444f92b106f987c029971ea",
+      "pdfFileName": "2020年実施_北海道_中3数学_二次関数の利用（放物線の対称性・直線の式・変化の割合）.pdf",
+      "fileSize": 5488804
+    },
+    {
       "id": "g1-2020-okinawa-geometry-b7f5a7b",
       "grade": 1,
       "year": 2020,
@@ -2785,6 +2987,30 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-proof-fe426e0.pdf?rev=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
       "pdfFileName": "2020年実施_沖縄県_中2数学_平行四辺形と合同の証明（面積比）.pdf",
       "fileSize": 7253734
+    },
+    {
+      "id": "g3-2020-hokkaido-proof-c8833d4",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "北海道",
+      "field": "図形の証明",
+      "unit": "円と相似の証明（円周角の定理の逆・相似条件）",
+      "shortUnit": "円と相似の証明",
+      "tags": [
+        "円周角の定理の逆",
+        "相似条件"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-hokkaido-proof-c8833d4/page-01.jpg?v=f347df2e231bc7feabb8d9eba987e5e2c8ee0d68accf00cf2ef0df71aba2c35d",
+        "/previews/g3-2020-hokkaido-proof-c8833d4/page-02.jpg?v=f347df2e231bc7feabb8d9eba987e5e2c8ee0d68accf00cf2ef0df71aba2c35d",
+        "/previews/g3-2020-hokkaido-proof-c8833d4/page-03.jpg?v=f347df2e231bc7feabb8d9eba987e5e2c8ee0d68accf00cf2ef0df71aba2c35d",
+        "/previews/g3-2020-hokkaido-proof-c8833d4/page-04.jpg?v=f347df2e231bc7feabb8d9eba987e5e2c8ee0d68accf00cf2ef0df71aba2c35d"
+      ],
+      "contentVersion": "f347df2e231bc7feabb8d9eba987e5e2c8ee0d68accf00cf2ef0df71aba2c35d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-hokkaido-proof-c8833d4.pdf?rev=f347df2e231bc7feabb8d9eba987e5e2c8ee0d68accf00cf2ef0df71aba2c35d",
+      "pdfFileName": "2020年実施_北海道_中3数学_円と相似の証明（円周角の定理の逆・相似条件）.pdf",
+      "fileSize": 4337015
     },
     {
       "id": "g2-2020-okinawa-data-f675a87",
@@ -3196,6 +3422,31 @@
       "fileSize": 6892640
     },
     {
+      "id": "g3-2019-hokkaido-function-5a7a503",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "北海道",
+      "field": "関数",
+      "unit": "二次関数の利用（対称な点・直線の傾き・直角二等辺三角形）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "対称な点",
+        "直線の傾き",
+        "直角二等辺三角形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-hokkaido-function-5a7a503/page-01.jpg?v=244c6da6b92f7261325137b45255b404dc85735b0a828c8aa98b58b8c2c6524c",
+        "/previews/g3-2019-hokkaido-function-5a7a503/page-02.jpg?v=244c6da6b92f7261325137b45255b404dc85735b0a828c8aa98b58b8c2c6524c",
+        "/previews/g3-2019-hokkaido-function-5a7a503/page-03.jpg?v=244c6da6b92f7261325137b45255b404dc85735b0a828c8aa98b58b8c2c6524c",
+        "/previews/g3-2019-hokkaido-function-5a7a503/page-04.jpg?v=244c6da6b92f7261325137b45255b404dc85735b0a828c8aa98b58b8c2c6524c"
+      ],
+      "contentVersion": "244c6da6b92f7261325137b45255b404dc85735b0a828c8aa98b58b8c2c6524c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-hokkaido-function-5a7a503.pdf?rev=244c6da6b92f7261325137b45255b404dc85735b0a828c8aa98b58b8c2c6524c",
+      "pdfFileName": "2019年実施_北海道_中3数学_二次関数の利用（対称な点・直線の傾き・直角二等辺三角形）.pdf",
+      "fileSize": 4566140
+    },
+    {
       "id": "g1-2019-okinawa-geometry-9816cb5",
       "grade": 1,
       "year": 2019,
@@ -3529,6 +3780,32 @@
       "fileSize": 8049607
     },
     {
+      "id": "g3-2018-hokkaido-function-b8e082f",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "北海道",
+      "field": "関数",
+      "unit": "二次関数の利用（変域・直線の傾き・三角形の面積）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "変域",
+        "直線の傾き",
+        "三角形の面積"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2018-hokkaido-function-b8e082f/page-01.jpg?v=377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173",
+        "/previews/g3-2018-hokkaido-function-b8e082f/page-02.jpg?v=377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173",
+        "/previews/g3-2018-hokkaido-function-b8e082f/page-03.jpg?v=377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173",
+        "/previews/g3-2018-hokkaido-function-b8e082f/page-04.jpg?v=377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173",
+        "/previews/g3-2018-hokkaido-function-b8e082f/page-05.jpg?v=377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173"
+      ],
+      "contentVersion": "377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-hokkaido-function-b8e082f.pdf?rev=377eaaa20cc3734ad519209ea6f1a592466942a560e2499e69b8b7f0b87f5173",
+      "pdfFileName": "2018年実施_北海道_中3数学_二次関数の利用（変域・直線の傾き・三角形の面積）.pdf",
+      "fileSize": 11582547
+    },
+    {
       "id": "g2-2018-gunma-proof-9731512",
       "grade": 2,
       "year": 2018,
@@ -3548,6 +3825,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-gunma-proof-9731512.pdf?rev=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
       "pdfFileName": "2018年実施_群馬県_中2数学_平行線と多角形の内角を用いた図形の証明.pdf",
       "fileSize": 3324602
+    },
+    {
+      "id": "g3-2018-hokkaido-proof-8755bab",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "北海道",
+      "field": "図形の証明",
+      "unit": "円と相似の証明（円周角・中点連結定理・平行線）",
+      "shortUnit": "円と相似の証明",
+      "tags": [
+        "円周角",
+        "中点連結定理",
+        "平行線"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2018-hokkaido-proof-8755bab/page-01.jpg?v=10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69",
+        "/previews/g3-2018-hokkaido-proof-8755bab/page-02.jpg?v=10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69",
+        "/previews/g3-2018-hokkaido-proof-8755bab/page-03.jpg?v=10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69",
+        "/previews/g3-2018-hokkaido-proof-8755bab/page-04.jpg?v=10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69",
+        "/previews/g3-2018-hokkaido-proof-8755bab/page-05.jpg?v=10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69"
+      ],
+      "contentVersion": "10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-hokkaido-proof-8755bab.pdf?rev=10b54d5ad7bfe9eefa79a68309a5e4885da01841fd093510ec02a408c243ec69",
+      "pdfFileName": "2018年実施_北海道_中3数学_円と相似の証明（円周角・中点連結定理・平行線）.pdf",
+      "fileSize": 11152936
     },
     {
       "id": "g1-2018-gifu-data-69cd96f",
@@ -3643,31 +3946,30 @@
       "fileSize": 5629748
     },
     {
-      "id": "g1-2018-hokkaido-data-2a3deec",
-      "grade": 1,
+      "id": "g3-2018-hokkaido-data-d16be17",
+      "grade": 3,
       "year": 2018,
       "prefecture": "北海道",
       "field": "データの活用",
-      "unit": "度数分布表と代表値（相対度数・平均値・中央値・階級）",
-      "shortUnit": "度数分布表と代表値",
+      "unit": "標本調査（無作為抽出・相対度数・中央値による母集団の比較）",
+      "shortUnit": "標本調査",
       "tags": [
+        "無作為抽出",
         "相対度数",
-        "平均値",
-        "中央値",
-        "階級"
+        "中央値による母集団の比較"
       ],
       "pageCount": 5,
       "previewPages": [
-        "/previews/g1-2018-hokkaido-data-2a3deec/page-01.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
-        "/previews/g1-2018-hokkaido-data-2a3deec/page-02.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
-        "/previews/g1-2018-hokkaido-data-2a3deec/page-03.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
-        "/previews/g1-2018-hokkaido-data-2a3deec/page-04.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
-        "/previews/g1-2018-hokkaido-data-2a3deec/page-05.jpg?v=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6"
+        "/previews/g3-2018-hokkaido-data-d16be17/page-01.jpg?v=d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7",
+        "/previews/g3-2018-hokkaido-data-d16be17/page-02.jpg?v=d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7",
+        "/previews/g3-2018-hokkaido-data-d16be17/page-03.jpg?v=d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7",
+        "/previews/g3-2018-hokkaido-data-d16be17/page-04.jpg?v=d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7",
+        "/previews/g3-2018-hokkaido-data-d16be17/page-05.jpg?v=d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7"
       ],
-      "contentVersion": "b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
-      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2018-hokkaido-data-2a3deec.pdf?rev=b298821c022b9731ab2fd6dc64c8450387b9dcef2b33428d2313dfd328acfbd6",
-      "pdfFileName": "2018年実施_北海道_中1数学_度数分布表と代表値（相対度数・平均値・中央値・階級）.pdf",
-      "fileSize": 12310919
+      "contentVersion": "d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-hokkaido-data-d16be17.pdf?rev=d738c18f37af00bc70a17c82cd60278501761a43eee698a0256a28dd414f8be7",
+      "pdfFileName": "2018年実施_北海道_中3数学_標本調査（無作為抽出・相対度数・中央値による母集団の比較）.pdf",
+      "fileSize": 12981365
     },
     {
       "id": "g2-2017-gunma-equation-use-d598e35",

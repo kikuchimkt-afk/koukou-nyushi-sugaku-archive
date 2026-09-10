@@ -32,12 +32,12 @@ const FIELD_META: Record<MathField, { image: string; eyebrow: string; descriptio
   数と式: {
     image: "/images/field-algebra.svg",
     eyebrow: "NUMBERS · EXPRESSIONS",
-    description: "正負の数、文字式、式の計算と値",
+    description: "正負の数、文字式、展開・因数分解、平方根",
   },
   方程式: {
     image: "/images/field-equation.svg",
     eyebrow: "EQUATIONS",
-    description: "一次方程式、連立方程式、比例式を解く問題",
+    description: "一次方程式、連立方程式、二次方程式を解く問題",
   },
   方程式の利用: {
     image: "/images/field-equation-use.svg",
@@ -51,23 +51,23 @@ const FIELD_META: Record<MathField, { image: string; eyebrow: string; descriptio
   },
   関数: {
     image: "/images/field-function.svg",
-    eyebrow: "LINEAR · GRAPH",
-    description: "比例・反比例、一次関数、グラフの読み取り",
+    eyebrow: "FUNCTIONS · GRAPHS",
+    description: "比例・反比例、一次関数、二乗に比例する関数",
   },
   図形: {
     image: "/images/field-geometry.svg",
     eyebrow: "PLANE · SOLID",
-    description: "作図、角度、平面図形、空間図形と計量",
+    description: "平面・空間図形、相似、円、三平方の定理",
   },
   図形の証明: {
     image: "/images/field-proof.svg",
-    eyebrow: "CONGRUENCE · PROOF",
-    description: "合同の証明、平行線と角、三角形と四角形",
+    eyebrow: "CONGRUENCE · SIMILARITY",
+    description: "合同・相似の証明、平行線と角、円の性質",
   },
   データの活用: {
     image: "/images/field-data.svg",
     eyebrow: "DATA · PROBABILITY",
-    description: "度数分布、代表値、箱ひげ図、確率",
+    description: "度数分布、代表値、箱ひげ図、確率、標本調査",
   },
 };
 
@@ -297,7 +297,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="hero-overlay" />
         <div className="hero-content shell">
           <p className="eyebrow">MATH ENTRANCE EXAM ARCHIVE</p>
-          <div className="hero-grade"><span>中1・中2</span> 規則性・関数・図形・図形の証明・データの活用</div>
+          <div className="hero-grade"><span>中1・中2・中3</span> 数と式・方程式・関数・図形・データの活用</div>
           <h1 className="app-title">Mathmatica<span>マスマティカ</span></h1>
           <p className="hero-copy">
             高校入試の数学大問を、単元別に整理しました。PDFを開く前に全ページを画像で確認でき、問題選定を短時間で進められます。
@@ -348,7 +348,7 @@ export function ArchiveBrowser({ data }: Props) {
             <p className="eyebrow">FIELDS</p>
             <h2 id="fields-title">単元から選ぶ</h2>
           </div>
-          <p>解説冒頭の単元見出しと全設問を確認し、学年範囲で構成される独立大問を収録しています。</p>
+          <p>問題文と解説過程まで確認し、含まれる最上位学年と中心単元で独立大問を分類しています。</p>
         </div>
         <div className="field-grid">
           {FIELDS.map((field) => {
@@ -388,7 +388,7 @@ export function ArchiveBrowser({ data }: Props) {
         <div className="filter-panel">
           <label className="search-field">
             <span>単元・キーワード</span>
-            <div><span aria-hidden="true">⌕</span><input value={filters.q} onChange={(event) => setFilter("q", event.target.value)} placeholder="例：一次関数、相対度数、合同の証明" /></div>
+            <div><span aria-hidden="true">⌕</span><input value={filters.q} onChange={(event) => setFilter("q", event.target.value)} placeholder="例：二次関数、相似、平方根、標本調査" /></div>
           </label>
           <FilterSelect label="単元" value={filters.field} onChange={(value) => setFilter("field", value)} options={FIELDS.map((field) => ({ value: field, label: `${field}（${fieldCounts.get(field)}）` }))} />
           <FilterSelect label="実施年" value={filters.year} onChange={(value) => setFilter("year", value)} options={years.map((year) => ({ value: String(year), label: `${year}年` }))} />

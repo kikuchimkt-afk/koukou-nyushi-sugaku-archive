@@ -21,9 +21,9 @@ FIELDS = {
     "図形の証明",
     "データの活用",
 }
-EXPECTED_CONFIG_COUNT = 160
+EXPECTED_CONFIG_COUNT = 172
 EXPECTED_BY_PREFECTURE = {
-    "北海道": 8,
+    "北海道": 20,
     "青森県": 4,
     "福岡県": 11,
     "福島県": 10,
@@ -41,7 +41,7 @@ EXPECTED_BY_GRADE_FIELD = {
     (1, "方程式の利用"): 3,
     (1, "関数"): 7,
     (1, "図形"): 11,
-    (1, "データの活用"): 16,
+    (1, "データの活用"): 15,
     (2, "数と式"): 4,
     (2, "方程式の利用"): 29,
     (2, "規則性"): 14,
@@ -49,11 +49,15 @@ EXPECTED_BY_GRADE_FIELD = {
     (2, "図形"): 3,
     (2, "図形の証明"): 14,
     (2, "データの活用"): 25,
+    (3, "数と式"): 2,
+    (3, "関数"): 6,
+    (3, "図形の証明"): 4,
+    (3, "データの活用"): 1,
 }
 EXPECTED_SELECTION = {
     (
-        "hokkaido_q3_2018_math", "koukou-nyushi-hokkaido", 2018, "北海道", 3, 1,
-        "データの活用", "2018年実施_北海道_中1数学_度数分布表と代表値（相対度数・平均値・中央値・階級）.pdf",
+        "hokkaido_q3_2018_math", "koukou-nyushi-hokkaido", 2018, "北海道", 3, 3,
+        "データの活用", "2018年実施_北海道_中3数学_標本調査（無作為抽出・相対度数・中央値による母集団の比較）.pdf",
     ),
     (
         "hokkaido_q3_2019_math", "koukou-nyushi-hokkaido", 2019, "北海道", 3, 2,
@@ -189,6 +193,18 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "gunma_2021_front_q3",
     "gunma_2022_back_q4",
     "gunma_2022_back_q5",
+    "hokkaido_q2_2023_math",
+    "hokkaido_q3_2022_math",
+    "hokkaido_q3_2023_math",
+    "hokkaido_q4_2018_math",
+    "hokkaido_q4_2019_math",
+    "hokkaido_q4_2020_math",
+    "hokkaido_q4_2021_math",
+    "hokkaido_q4_2022_math",
+    "hokkaido_q4_2023_math",
+    "hokkaido_q5_2018_math",
+    "hokkaido_q5_2020_math",
+    "hokkaido_q5_2022_math",
     "iwate_q10_2021",
     "iwate_q10_2023",
     "iwate_q10_2024",
@@ -295,7 +311,7 @@ ADDITIONAL_SELECTION_KEYS = (
     "explanation_source_pdf",
 )
 EXPECTED_ADDITIONAL_SELECTION_SHA256 = (
-    "a66a5e15ff3aebd5cb1efa5a0a52f984c8e49578632da84e3d2703ee723ccaaf"
+    "a8ee393eff9875d191ab5b4c9721d5cb889b730168e5502834c5d6242851828b"
 )
 REQUIRED_KEYS = {
     "slug",

@@ -5,13 +5,21 @@ import { PDFDocument } from "pdf-lib";
 const baseUrl = process.env.MERGE_TEST_BASE_URL || "http://127.0.0.1:3180";
 const chunkSize = 3 * 1024 * 1024;
 const data = JSON.parse(readFileSync(new URL("../data/archive.generated.json", import.meta.url), "utf8"));
-// 学年と領域がなるべく散らばるように、各組み合わせの先頭から最大6題を選ぶ。
+// 各学年を必ず1題以上含めたうえで、学年と領域が散らばるよう最大6題を選ぶ。
 const byGroup = new Map();
 for (const item of data.items) {
   const key = `${item.grade}:${item.field}`;
   if (!byGroup.has(key)) byGroup.set(key, item);
 }
-const samples = [...byGroup.values()].slice(0, 6);
+const groupSamples = [...byGroup.values()];
+const grades = [...new Set(data.items.map((item) => item.grade))].sort((a, b) => a - b);
+const samples = grades
+  .map((grade) => groupSamples.find((item) => item.grade === grade))
+  .filter(Boolean);
+for (const item of groupSamples) {
+  if (samples.length >= 6) break;
+  if (!samples.some((sample) => sample.id === item.id)) samples.push(item);
+}
 if (!samples.length) throw new Error("結合テストに必要な資料がありません。");
 const items = [...new Map(samples.map((item) => [item.id, item])).values()];
 const merged = await PDFDocument.create();
