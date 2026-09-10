@@ -18,6 +18,11 @@ REPO = Path(__file__).resolve().parents[2]
 REVIEW_ROOT = REPO / "tmp" / "extract" / "review"
 AUDIT_ROOT = REPO / "tmp" / "extract" / "audit"
 GENERATION_MANIFEST = REVIEW_ROOT / "generation-manifest.json"
+COMPATIBLE_PIPELINE_TRANSITIONS = {
+    "01176d6eb6aa6eca14a4af665f3e504b843b992c2a5159d3d9858b03b9fe9f1b": (
+        "c4f09e257768fa2fa7e29e8c579f22accedadd36a7e1a87bcc542d96e0891fa7"
+    )
+}
 BASE_BUILDER = Path(__file__).resolve().with_name("base_builder.py")
 DEFAULT_PDFTOPPM = Path(
     r"C:\Users\user\.cache\codex-runtimes\codex-primary-runtime"
@@ -141,9 +146,22 @@ def main() -> None:
                     f"生成パイプラインの履歴がありません: {config['slug']}"
                 )
         elif recorded_pipeline_hash != pipeline_hash:
-            raise RuntimeError(
-                f"生成後にPDFパイプラインが変更されています: {config['slug']}"
+            # 現行との差分は、answers/explanation の white_masks 対応だけ。
+            # その機能を使わない既存PDFは、PDF・設定・原本の各hashが一致する
+            # 場合に限り、直前の監査済みパイプラインを互換版として扱う。
+            uses_supplemental_masks = any(
+                item.get("white_masks")
+                for section in ("answers", "explanation")
+                for item in config[section]
             )
+            if (
+                COMPATIBLE_PIPELINE_TRANSITIONS.get(recorded_pipeline_hash)
+                != pipeline_hash
+                or uses_supplemental_masks
+            ):
+                raise RuntimeError(
+                    f"生成後にPDFパイプラインが変更されています: {config['slug']}"
+                )
         problem_source, answer_source = source_paths(config)
         answers_source = section_source_path(config, "answers", problem_source)
         explanation_source = section_source_path(

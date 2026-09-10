@@ -21,31 +21,34 @@ FIELDS = {
     "図形の証明",
     "データの活用",
 }
-EXPECTED_CONFIG_COUNT = 136
+EXPECTED_CONFIG_COUNT = 160
 EXPECTED_BY_PREFECTURE = {
     "北海道": 8,
     "青森県": 4,
     "福岡県": 11,
+    "福島県": 10,
     "長野県": 3,
     "群馬県": 20,
     "岐阜県": 14,
     "沖縄県": 27,
     "岩手県": 37,
+    "静岡県": 12,
     "徳島県": 12,
+    "山形県": 2,
 }
 EXPECTED_BY_GRADE_FIELD = {
     (1, "数と式"): 4,
     (1, "方程式の利用"): 3,
     (1, "関数"): 7,
     (1, "図形"): 11,
-    (1, "データの活用"): 12,
+    (1, "データの活用"): 16,
     (2, "数と式"): 4,
-    (2, "方程式の利用"): 17,
+    (2, "方程式の利用"): 29,
     (2, "規則性"): 14,
-    (2, "関数"): 28,
+    (2, "関数"): 30,
     (2, "図形"): 3,
-    (2, "図形の証明"): 10,
-    (2, "データの活用"): 23,
+    (2, "図形の証明"): 14,
+    (2, "データの活用"): 25,
 }
 EXPECTED_SELECTION = {
     (
@@ -142,6 +145,16 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "aomori_q5_2020_math",
     "aomori_q5_2021_math",
     "aomori_q5_2023_math",
+    "fukushima_q4_2020",
+    "fukushima_q4_2021",
+    "fukushima_q4_2022",
+    "fukushima_q4_2023",
+    "fukushima_q4_2024",
+    "fukushima_q4_2025",
+    "fukushima_q5_2021",
+    "fukushima_q5_2022",
+    "fukushima_q5_2024",
+    "fukushima_q5_2025",
     "gifu_q2_2018",
     "gifu_q2_2020",
     "gifu_q2_2021",
@@ -240,6 +253,18 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "okinawa_q7_2024_math",
     "okinawa_q8_2020_math",
     "okinawa_q9_2022_math",
+    "shizuoka_q3_2019",
+    "shizuoka_q3_2020",
+    "shizuoka_q3_2021",
+    "shizuoka_q3_2022",
+    "shizuoka_q3_2023",
+    "shizuoka_q3_2024",
+    "shizuoka_q4_2019",
+    "shizuoka_q4_2020",
+    "shizuoka_q4_2021",
+    "shizuoka_q4_2022",
+    "shizuoka_q4_2023",
+    "shizuoka_q5_2024",
     "tokushima_2016_q2_math",
     "tokushima_2016_q5_math",
     "tokushima_2018_q5_math",
@@ -252,6 +277,8 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "tokushima_2024_q4_math",
     "tokushima_2025_q2_math",
     "tokushima_2025_q3_math",
+    "yamagata_q3_2021_math",
+    "yamagata_q3_2025_math",
 }
 ADDITIONAL_SELECTION_KEYS = (
     "slug",
@@ -268,7 +295,7 @@ ADDITIONAL_SELECTION_KEYS = (
     "explanation_source_pdf",
 )
 EXPECTED_ADDITIONAL_SELECTION_SHA256 = (
-    "6ab8cebf7169e890ffb4d3009e8f4f7f4aff9bb8a555b31de51757f0472fdd4a"
+    "a66a5e15ff3aebd5cb1efa5a0a52f984c8e49578632da84e3d2703ee723ccaaf"
 )
 REQUIRED_KEYS = {
     "slug",
@@ -298,6 +325,22 @@ def validate_box(label: str, item: dict, ref: tuple[int, int]) -> None:
         raise ValueError(f"{label}: box coordinates must be integers")
     if not (0 <= x1 < x2 <= ref[0] and 0 <= y1 < y2 <= ref[1]):
         raise ValueError(f"{label}: box {coords} exceeds reference {ref}")
+
+
+def validate_white_masks(label: str, item: dict) -> None:
+    masks = item.get("white_masks")
+    if masks is None:
+        return
+    if not isinstance(masks, list) or not masks:
+        raise ValueError(f"{label}: white_masks must be a non-empty list")
+    for index, mask in enumerate(masks, 1):
+        if not isinstance(mask, list) or len(mask) != 4:
+            raise ValueError(f"{label}: white_masks/{index} must have four coordinates")
+        if not all(isinstance(value, (int, float)) for value in mask):
+            raise ValueError(f"{label}: white_masks/{index} must be numeric")
+        left, top, right, bottom = mask
+        if not (0 <= left < right <= 1 and 0 <= top < bottom <= 1):
+            raise ValueError(f"{label}: white_masks/{index} is outside 0..1")
 
 
 def validate_ref_size(
@@ -429,6 +472,12 @@ def main() -> None:
                     page,
                 )
                 validate_box(f"{slug}/{section}/{index}", item, ref)
+                if section in ("answers", "explanation"):
+                    validate_white_masks(f"{slug}/{section}/{index}", item)
+                elif "white_masks" in item:
+                    raise ValueError(
+                        f"{slug}/{section}/{index}: white_masks is not supported"
+                    )
 
         if not config["answer_sheet"]:
             raise ValueError(f"{slug}: empty answer_sheet")
@@ -443,6 +492,7 @@ def main() -> None:
             rotation = item.get("rotation", 0)
             upright_ref = (source_ref[1], source_ref[0]) if rotation in ("cw", "ccw") else source_ref
             validate_box(f"{slug}/answer_sheet/{index}", item, upright_ref)
+            validate_white_masks(f"{slug}/answer_sheet/{index}", item)
 
     by_prefecture = Counter(config["prefecture"] for config in CONFIGS)
     by_grade_field = Counter((config["grade"], config["field"]) for config in CONFIGS)

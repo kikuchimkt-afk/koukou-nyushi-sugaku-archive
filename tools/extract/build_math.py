@@ -18,6 +18,8 @@ import json
 import sys
 from pathlib import Path
 
+from PIL import Image
+
 REPO = Path(__file__).resolve().parents[2]
 BASE_BUILDER = Path(__file__).resolve().with_name("base_builder.py")
 MANIFEST_SCHEMA_VERSION = 1
@@ -152,29 +154,73 @@ def main() -> None:
     # 別原本から差し替える。既存22題の基底ハッシュと監査履歴は維持される。
     original_render_config = batch.render_config
 
+    def apply_white_masks(rendered_item: dict, masks: list[list[float]]) -> None:
+        """対象本文を残したまま、正規化座標で隣接大問の断片だけを白くする。"""
+        if not masks:
+            return
+        rendered_path = Path(rendered_item["path"])
+        with Image.open(rendered_path) as source:
+            masked = source.convert("L")
+            width, height = masked.size
+            for mask in masks:
+                if (
+                    len(mask) != 4
+                    or not all(isinstance(value, (int, float)) for value in mask)
+                ):
+                    raise ValueError(f"white_masks の形式が不正です: {mask}")
+                left, top, right, bottom = mask
+                if not (0 <= left < right <= 1 and 0 <= top < bottom <= 1):
+                    raise ValueError(f"white_masks の範囲が不正です: {mask}")
+                box = (
+                    max(0, round(left * width)),
+                    max(0, round(top * height)),
+                    min(width, round(right * width)),
+                    min(height, round(bottom * height)),
+                )
+                masked.paste(255, box)
+            masked.save(
+                rendered_path,
+                format="JPEG",
+                quality=97,
+                subsampling=0,
+                optimize=True,
+            )
+
     def render_config(config: dict) -> dict:
         explanation_override = config.get("explanation_source_pdf")
         if not explanation_override:
-            return original_render_config(config)
-        config_without_explanation = dict(config)
-        config_without_explanation["explanation"] = []
-        rendered = original_render_config(config_without_explanation)
-        problem_pdf, _ = source_paths(config)
-        explanation_pdf = section_source_path(config, "explanation", problem_pdf)
-        config_dir = batch.CROPS / config["slug"]
-        science_dpi = config.get("science_dpi", batch.SCIENCE_DPI)
-        default_ref = config.get("explanation_ref", config["science_ref"])
-        for index, item in enumerate(config["explanation"], 1):
-            rendered["explanation"].append(
-                batch.render_crop(
-                    explanation_pdf,
-                    item["page"],
-                    item["box"],
-                    tuple(item.get("ref_size", default_ref)),
-                    science_dpi,
-                    config_dir / f"explanation-{index}.jpg",
+            rendered = original_render_config(config)
+        else:
+            config_without_explanation = dict(config)
+            config_without_explanation["explanation"] = []
+            rendered = original_render_config(config_without_explanation)
+            problem_pdf, _ = source_paths(config)
+            explanation_pdf = section_source_path(config, "explanation", problem_pdf)
+            config_dir = batch.CROPS / config["slug"]
+            science_dpi = config.get("science_dpi", batch.SCIENCE_DPI)
+            default_ref = config.get("explanation_ref", config["science_ref"])
+            for index, item in enumerate(config["explanation"], 1):
+                rendered["explanation"].append(
+                    batch.render_crop(
+                        explanation_pdf,
+                        item["page"],
+                        item["box"],
+                        tuple(item.get("ref_size", default_ref)),
+                        science_dpi,
+                        config_dir / f"explanation-{index}.jpg",
+                    )
                 )
-            )
+
+        # 解答・解説原本では、対象本文の横へ前後大問の図が回り込む場合が
+        # ある。矩形cropを狭めて本文を欠かす代わりに、設定された範囲だけ
+        # 白くして対象大問の情報を完全に残す。
+        for section in ("answers", "explanation"):
+            if len(rendered[section]) != len(config[section]):
+                raise RuntimeError(
+                    f"{section} の描画件数が設定と一致しません: {config['slug']}"
+                )
+            for source_item, rendered_item in zip(config[section], rendered[section]):
+                apply_white_masks(rendered_item, source_item.get("white_masks", []))
         return rendered
 
     batch.render_config = render_config
