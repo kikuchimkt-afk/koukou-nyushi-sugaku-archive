@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-15T06:12:30.383Z",
+  "generatedAt": "2026-09-15T08:39:58.490Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 193,
-  "totalPages": 822,
+  "totalItems": 252,
+  "totalPages": 1059,
   "items": [
     {
       "id": "g2-2025-iwate-algebra-3de8aef",
@@ -151,6 +151,31 @@
       "fileSize": 5983091
     },
     {
+      "id": "g3-2025-iwate-function-cf8290d",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "二次関数の利用（変域・整数点・長方形の周）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "変域",
+        "整数点",
+        "長方形の周"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-iwate-function-cf8290d/page-01.jpg?v=de7f2c59d3708d5f56c42625e4049471507cfb39379ba11d9757ca785b553a35",
+        "/previews/g3-2025-iwate-function-cf8290d/page-02.jpg?v=de7f2c59d3708d5f56c42625e4049471507cfb39379ba11d9757ca785b553a35",
+        "/previews/g3-2025-iwate-function-cf8290d/page-03.jpg?v=de7f2c59d3708d5f56c42625e4049471507cfb39379ba11d9757ca785b553a35",
+        "/previews/g3-2025-iwate-function-cf8290d/page-04.jpg?v=de7f2c59d3708d5f56c42625e4049471507cfb39379ba11d9757ca785b553a35"
+      ],
+      "contentVersion": "de7f2c59d3708d5f56c42625e4049471507cfb39379ba11d9757ca785b553a35",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2025-iwate-function-cf8290d.pdf?rev=de7f2c59d3708d5f56c42625e4049471507cfb39379ba11d9757ca785b553a35",
+      "pdfFileName": "2025年実施_岩手県_中3数学_二次関数の利用（変域・整数点・長方形の周）.pdf",
+      "fileSize": 5396175
+    },
+    {
       "id": "g1-2025-iwate-function-a6291a2",
       "grade": 1,
       "year": 2025,
@@ -221,6 +246,56 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2025-iwate-geometry-4438207.pdf?rev=4fc1857cb4eefda86062ca864b75324dd75cdbdb2bd1a980472a7cb83c800787",
       "pdfFileName": "2025年実施_岩手県_中1数学_基本作図（直線について対称な点）.pdf",
       "fileSize": 3154724
+    },
+    {
+      "id": "g3-2025-iwate-geometry-594be95",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "空間図形と三平方の定理（直方体・体積比・線分の長さ）",
+      "shortUnit": "空間図形と三平方の定理",
+      "tags": [
+        "直方体",
+        "体積比",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-iwate-geometry-594be95/page-01.jpg?v=bcca9942659470b3c36239363adf0407d27ab70b5af63412ea8ca03b7bf47547",
+        "/previews/g3-2025-iwate-geometry-594be95/page-02.jpg?v=bcca9942659470b3c36239363adf0407d27ab70b5af63412ea8ca03b7bf47547",
+        "/previews/g3-2025-iwate-geometry-594be95/page-03.jpg?v=bcca9942659470b3c36239363adf0407d27ab70b5af63412ea8ca03b7bf47547",
+        "/previews/g3-2025-iwate-geometry-594be95/page-04.jpg?v=bcca9942659470b3c36239363adf0407d27ab70b5af63412ea8ca03b7bf47547"
+      ],
+      "contentVersion": "bcca9942659470b3c36239363adf0407d27ab70b5af63412ea8ca03b7bf47547",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2025-iwate-geometry-594be95.pdf?rev=bcca9942659470b3c36239363adf0407d27ab70b5af63412ea8ca03b7bf47547",
+      "pdfFileName": "2025年実施_岩手県_中3数学_空間図形と三平方の定理（直方体・体積比・線分の長さ）.pdf",
+      "fileSize": 4236084
+    },
+    {
+      "id": "g3-2025-iwate-geometry-2dc6544",
+      "grade": 3,
+      "year": 2025,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "相似と円周角（線分の長さ・角度・四角形の性質）",
+      "shortUnit": "相似と円周角",
+      "tags": [
+        "線分の長さ",
+        "角度",
+        "四角形の性質"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2025-iwate-geometry-2dc6544/page-01.jpg?v=e617218a7158d58d9f8aed3b7db120baf7e57dcdaea3b97c0489bb9806419556",
+        "/previews/g3-2025-iwate-geometry-2dc6544/page-02.jpg?v=e617218a7158d58d9f8aed3b7db120baf7e57dcdaea3b97c0489bb9806419556",
+        "/previews/g3-2025-iwate-geometry-2dc6544/page-03.jpg?v=e617218a7158d58d9f8aed3b7db120baf7e57dcdaea3b97c0489bb9806419556",
+        "/previews/g3-2025-iwate-geometry-2dc6544/page-04.jpg?v=e617218a7158d58d9f8aed3b7db120baf7e57dcdaea3b97c0489bb9806419556"
+      ],
+      "contentVersion": "e617218a7158d58d9f8aed3b7db120baf7e57dcdaea3b97c0489bb9806419556",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2025-iwate-geometry-2dc6544.pdf?rev=e617218a7158d58d9f8aed3b7db120baf7e57dcdaea3b97c0489bb9806419556",
+      "pdfFileName": "2025年実施_岩手県_中3数学_相似と円周角（線分の長さ・角度・四角形の性質）.pdf",
+      "fileSize": 4824834
     },
     {
       "id": "g2-2025-iwate-proof-705aa04",
@@ -316,6 +391,55 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2025-iwate-data-62fbe4f.pdf?rev=e4ab75857800d1580bce6fc5aaea19a1a216c13662ea8ac5bb7fdbddc2e117c9",
       "pdfFileName": "2025年実施_岩手県_中2数学_箱ひげ図（四分位範囲と分布の読み取り）.pdf",
       "fileSize": 6614320
+    },
+    {
+      "id": "g3-2024-okinawa-algebra-760e081",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "式の展開と文字式の証明（数表・積の差）",
+      "shortUnit": "式の展開と文字式の証明",
+      "tags": [
+        "数表",
+        "積の差"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-okinawa-algebra-760e081/page-01.jpg?v=242ca380da8f21a278d2aa929fb9570efc328dfd8ab4bb39abfcbd5852939827",
+        "/previews/g3-2024-okinawa-algebra-760e081/page-02.jpg?v=242ca380da8f21a278d2aa929fb9570efc328dfd8ab4bb39abfcbd5852939827",
+        "/previews/g3-2024-okinawa-algebra-760e081/page-03.jpg?v=242ca380da8f21a278d2aa929fb9570efc328dfd8ab4bb39abfcbd5852939827",
+        "/previews/g3-2024-okinawa-algebra-760e081/page-04.jpg?v=242ca380da8f21a278d2aa929fb9570efc328dfd8ab4bb39abfcbd5852939827"
+      ],
+      "contentVersion": "242ca380da8f21a278d2aa929fb9570efc328dfd8ab4bb39abfcbd5852939827",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-okinawa-algebra-760e081.pdf?rev=242ca380da8f21a278d2aa929fb9570efc328dfd8ab4bb39abfcbd5852939827",
+      "pdfFileName": "2024年実施_沖縄県_中3数学_式の展開と文字式の証明（数表・積の差）.pdf",
+      "fileSize": 7522334
+    },
+    {
+      "id": "g3-2024-okinawa-algebra-aa3cdf9",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "二次方程式と規則性（ビーズ・袋・小箱）",
+      "shortUnit": "二次方程式と規則性",
+      "tags": [
+        "ビーズ",
+        "袋",
+        "小箱"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-okinawa-algebra-aa3cdf9/page-01.jpg?v=255d3455a7c21c673d80474cd9bdfd2cc597ce1ace15f3dae4104d09c1fc5e07",
+        "/previews/g3-2024-okinawa-algebra-aa3cdf9/page-02.jpg?v=255d3455a7c21c673d80474cd9bdfd2cc597ce1ace15f3dae4104d09c1fc5e07",
+        "/previews/g3-2024-okinawa-algebra-aa3cdf9/page-03.jpg?v=255d3455a7c21c673d80474cd9bdfd2cc597ce1ace15f3dae4104d09c1fc5e07",
+        "/previews/g3-2024-okinawa-algebra-aa3cdf9/page-04.jpg?v=255d3455a7c21c673d80474cd9bdfd2cc597ce1ace15f3dae4104d09c1fc5e07"
+      ],
+      "contentVersion": "255d3455a7c21c673d80474cd9bdfd2cc597ce1ace15f3dae4104d09c1fc5e07",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-okinawa-algebra-aa3cdf9.pdf?rev=255d3455a7c21c673d80474cd9bdfd2cc597ce1ace15f3dae4104d09c1fc5e07",
+      "pdfFileName": "2024年実施_沖縄県_中3数学_二次方程式と規則性（ビーズ・袋・小箱）.pdf",
+      "fileSize": 7391081
     },
     {
       "id": "g1-2024-iwate-algebra-0318333",
@@ -462,6 +586,30 @@
       "fileSize": 5683352
     },
     {
+      "id": "g3-2024-okinawa-function-1a586b8",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "二次関数と直線（変化の割合・最短距離）",
+      "shortUnit": "二次関数と直線",
+      "tags": [
+        "変化の割合",
+        "最短距離"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-okinawa-function-1a586b8/page-01.jpg?v=59b73ac32b4a30852ffa652548a12868f348f3f4508ea77da861d584676b0c40",
+        "/previews/g3-2024-okinawa-function-1a586b8/page-02.jpg?v=59b73ac32b4a30852ffa652548a12868f348f3f4508ea77da861d584676b0c40",
+        "/previews/g3-2024-okinawa-function-1a586b8/page-03.jpg?v=59b73ac32b4a30852ffa652548a12868f348f3f4508ea77da861d584676b0c40",
+        "/previews/g3-2024-okinawa-function-1a586b8/page-04.jpg?v=59b73ac32b4a30852ffa652548a12868f348f3f4508ea77da861d584676b0c40"
+      ],
+      "contentVersion": "59b73ac32b4a30852ffa652548a12868f348f3f4508ea77da861d584676b0c40",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-okinawa-function-1a586b8.pdf?rev=59b73ac32b4a30852ffa652548a12868f348f3f4508ea77da861d584676b0c40",
+      "pdfFileName": "2024年実施_沖縄県_中3数学_二次関数と直線（変化の割合・最短距離）.pdf",
+      "fileSize": 4848964
+    },
+    {
       "id": "g2-2024-iwate-function-9714f61",
       "grade": 2,
       "year": 2024,
@@ -483,6 +631,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-iwate-function-9714f61.pdf?rev=eee4a9b2748b18f3dacbf7aa9d2e9fedd7d2d6bcf3271ae0521bf0d44bd3c5b0",
       "pdfFileName": "2024年実施_岩手県_中2数学_一次関数の利用（加湿器の水量と運転時間）.pdf",
       "fileSize": 7539333
+    },
+    {
+      "id": "g3-2024-iwate-function-9505110",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "二次関数と図形（放物線上の点・二等辺三角形・面積）",
+      "shortUnit": "二次関数と図形",
+      "tags": [
+        "放物線上の点",
+        "二等辺三角形",
+        "面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-iwate-function-9505110/page-01.jpg?v=1acc6e85cd77025f49d7be21bc29e0aae36ea1549a0121e1a10bde403aa27a86",
+        "/previews/g3-2024-iwate-function-9505110/page-02.jpg?v=1acc6e85cd77025f49d7be21bc29e0aae36ea1549a0121e1a10bde403aa27a86",
+        "/previews/g3-2024-iwate-function-9505110/page-03.jpg?v=1acc6e85cd77025f49d7be21bc29e0aae36ea1549a0121e1a10bde403aa27a86",
+        "/previews/g3-2024-iwate-function-9505110/page-04.jpg?v=1acc6e85cd77025f49d7be21bc29e0aae36ea1549a0121e1a10bde403aa27a86"
+      ],
+      "contentVersion": "1acc6e85cd77025f49d7be21bc29e0aae36ea1549a0121e1a10bde403aa27a86",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-iwate-function-9505110.pdf?rev=1acc6e85cd77025f49d7be21bc29e0aae36ea1549a0121e1a10bde403aa27a86",
+      "pdfFileName": "2024年実施_岩手県_中3数学_二次関数と図形（放物線上の点・二等辺三角形・面積）.pdf",
+      "fileSize": 5932921
     },
     {
       "id": "g1-2024-iwate-function-255e26d",
@@ -534,6 +707,31 @@
       "fileSize": 6632986
     },
     {
+      "id": "g3-2024-okinawa-geometry-65eba6a",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "円錐と三平方の定理（相似・円周・側面積）",
+      "shortUnit": "円錐と三平方の定理",
+      "tags": [
+        "相似",
+        "円周",
+        "側面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-okinawa-geometry-65eba6a/page-01.jpg?v=c78e1dba86ddaf6c24919fa90c38c398b64f1092a310c17e1be0d68a587d22aa",
+        "/previews/g3-2024-okinawa-geometry-65eba6a/page-02.jpg?v=c78e1dba86ddaf6c24919fa90c38c398b64f1092a310c17e1be0d68a587d22aa",
+        "/previews/g3-2024-okinawa-geometry-65eba6a/page-03.jpg?v=c78e1dba86ddaf6c24919fa90c38c398b64f1092a310c17e1be0d68a587d22aa",
+        "/previews/g3-2024-okinawa-geometry-65eba6a/page-04.jpg?v=c78e1dba86ddaf6c24919fa90c38c398b64f1092a310c17e1be0d68a587d22aa"
+      ],
+      "contentVersion": "c78e1dba86ddaf6c24919fa90c38c398b64f1092a310c17e1be0d68a587d22aa",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-okinawa-geometry-65eba6a.pdf?rev=c78e1dba86ddaf6c24919fa90c38c398b64f1092a310c17e1be0d68a587d22aa",
+      "pdfFileName": "2024年実施_沖縄県_中3数学_円錐と三平方の定理（相似・円周・側面積）.pdf",
+      "fileSize": 6007912
+    },
+    {
       "id": "g1-2024-okinawa-geometry-129cdeb",
       "grade": 1,
       "year": 2024,
@@ -578,6 +776,103 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2024-iwate-geometry-e390b1b.pdf?rev=fd6c677a054b9ae7208b2b40f6e1dca50575e2d1e896d85c360914252cc7b7e4",
       "pdfFileName": "2024年実施_岩手県_中1数学_基本作図（2辺に接する円の中心）.pdf",
       "fileSize": 4437274
+    },
+    {
+      "id": "g3-2024-iwate-geometry-9b58f4b",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "空間図形と三平方の定理（四面体・線分の長さ・体積）",
+      "shortUnit": "空間図形と三平方の定理",
+      "tags": [
+        "四面体",
+        "線分の長さ",
+        "体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-iwate-geometry-9b58f4b/page-01.jpg?v=6026a7904850e40e4731b20765c59791e715986495d3b19f8bf796e35d80e4d0",
+        "/previews/g3-2024-iwate-geometry-9b58f4b/page-02.jpg?v=6026a7904850e40e4731b20765c59791e715986495d3b19f8bf796e35d80e4d0",
+        "/previews/g3-2024-iwate-geometry-9b58f4b/page-03.jpg?v=6026a7904850e40e4731b20765c59791e715986495d3b19f8bf796e35d80e4d0",
+        "/previews/g3-2024-iwate-geometry-9b58f4b/page-04.jpg?v=6026a7904850e40e4731b20765c59791e715986495d3b19f8bf796e35d80e4d0"
+      ],
+      "contentVersion": "6026a7904850e40e4731b20765c59791e715986495d3b19f8bf796e35d80e4d0",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-iwate-geometry-9b58f4b.pdf?rev=6026a7904850e40e4731b20765c59791e715986495d3b19f8bf796e35d80e4d0",
+      "pdfFileName": "2024年実施_岩手県_中3数学_空間図形と三平方の定理（四面体・線分の長さ・体積）.pdf",
+      "fileSize": 4848705
+    },
+    {
+      "id": "g3-2024-iwate-geometry-4de1f1b",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "相似な図形（平行線の線分比・相似比・面積比）",
+      "shortUnit": "相似な図形",
+      "tags": [
+        "平行線の線分比",
+        "相似比",
+        "面積比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-iwate-geometry-4de1f1b/page-01.jpg?v=f04c99ef709ff9aab67eaf75d6ce10cc84eae26926565829a8e0436cdb905278",
+        "/previews/g3-2024-iwate-geometry-4de1f1b/page-02.jpg?v=f04c99ef709ff9aab67eaf75d6ce10cc84eae26926565829a8e0436cdb905278",
+        "/previews/g3-2024-iwate-geometry-4de1f1b/page-03.jpg?v=f04c99ef709ff9aab67eaf75d6ce10cc84eae26926565829a8e0436cdb905278",
+        "/previews/g3-2024-iwate-geometry-4de1f1b/page-04.jpg?v=f04c99ef709ff9aab67eaf75d6ce10cc84eae26926565829a8e0436cdb905278"
+      ],
+      "contentVersion": "f04c99ef709ff9aab67eaf75d6ce10cc84eae26926565829a8e0436cdb905278",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-iwate-geometry-4de1f1b.pdf?rev=f04c99ef709ff9aab67eaf75d6ce10cc84eae26926565829a8e0436cdb905278",
+      "pdfFileName": "2024年実施_岩手県_中3数学_相似な図形（平行線の線分比・相似比・面積比）.pdf",
+      "fileSize": 4593313
+    },
+    {
+      "id": "g3-2024-okinawa-proof-9b4aed5",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "沖縄県",
+      "field": "図形の証明",
+      "unit": "合同の証明と円周角の定理の逆（二等辺三角形・角度）",
+      "shortUnit": "合同の証明と円周角の定理の逆",
+      "tags": [
+        "二等辺三角形",
+        "角度"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-okinawa-proof-9b4aed5/page-01.jpg?v=dd272babc523260b7b5cd1f70ac840bada1713fe30d9b2d0e2c9cdb81a502ff3",
+        "/previews/g3-2024-okinawa-proof-9b4aed5/page-02.jpg?v=dd272babc523260b7b5cd1f70ac840bada1713fe30d9b2d0e2c9cdb81a502ff3",
+        "/previews/g3-2024-okinawa-proof-9b4aed5/page-03.jpg?v=dd272babc523260b7b5cd1f70ac840bada1713fe30d9b2d0e2c9cdb81a502ff3",
+        "/previews/g3-2024-okinawa-proof-9b4aed5/page-04.jpg?v=dd272babc523260b7b5cd1f70ac840bada1713fe30d9b2d0e2c9cdb81a502ff3"
+      ],
+      "contentVersion": "dd272babc523260b7b5cd1f70ac840bada1713fe30d9b2d0e2c9cdb81a502ff3",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-okinawa-proof-9b4aed5.pdf?rev=dd272babc523260b7b5cd1f70ac840bada1713fe30d9b2d0e2c9cdb81a502ff3",
+      "pdfFileName": "2024年実施_沖縄県_中3数学_合同の証明と円周角の定理の逆（二等辺三角形・角度）.pdf",
+      "fileSize": 5486482
+    },
+    {
+      "id": "g3-2024-iwate-proof-c5efef8",
+      "grade": 3,
+      "year": 2024,
+      "prefecture": "岩手県",
+      "field": "図形の証明",
+      "unit": "三角形の相似証明（円周角）",
+      "shortUnit": "三角形の相似証明",
+      "tags": [
+        "円周角"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2024-iwate-proof-c5efef8/page-01.jpg?v=7b2c5d7c186065d925c7c73848d4d48c82f0f6f3413626eb5967cf88108c35de",
+        "/previews/g3-2024-iwate-proof-c5efef8/page-02.jpg?v=7b2c5d7c186065d925c7c73848d4d48c82f0f6f3413626eb5967cf88108c35de",
+        "/previews/g3-2024-iwate-proof-c5efef8/page-03.jpg?v=7b2c5d7c186065d925c7c73848d4d48c82f0f6f3413626eb5967cf88108c35de",
+        "/previews/g3-2024-iwate-proof-c5efef8/page-04.jpg?v=7b2c5d7c186065d925c7c73848d4d48c82f0f6f3413626eb5967cf88108c35de"
+      ],
+      "contentVersion": "7b2c5d7c186065d925c7c73848d4d48c82f0f6f3413626eb5967cf88108c35de",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2024-iwate-proof-c5efef8.pdf?rev=7b2c5d7c186065d925c7c73848d4d48c82f0f6f3413626eb5967cf88108c35de",
+      "pdfFileName": "2024年実施_岩手県_中3数学_三角形の相似証明（円周角）.pdf",
+      "fileSize": 3542579
     },
     {
       "id": "g2-2024-fukushima-proof-5be96aa",
@@ -723,6 +1018,54 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2024-shizuoka-data-85c8f4e.pdf?rev=85ab9438f70beaa768ebc821cdb3c6b227edb815fd6e3ca1e0ffffcb12f6f171",
       "pdfFileName": "2024年実施_静岡県_中2数学_相対度数分布表と箱ひげ図（累積相対度数・範囲・四分位数）.pdf",
       "fileSize": 6468862
+    },
+    {
+      "id": "g3-2023-okinawa-algebra-cdedea8",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "式の展開と文字式の証明（連続する奇数・平方の差）",
+      "shortUnit": "式の展開と文字式の証明",
+      "tags": [
+        "連続する奇数",
+        "平方の差"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-okinawa-algebra-cdedea8/page-01.jpg?v=4f6e801ef7c7370819551689a6d2f366caadbbf9c5b7da91ee12af662c834c98",
+        "/previews/g3-2023-okinawa-algebra-cdedea8/page-02.jpg?v=4f6e801ef7c7370819551689a6d2f366caadbbf9c5b7da91ee12af662c834c98",
+        "/previews/g3-2023-okinawa-algebra-cdedea8/page-03.jpg?v=4f6e801ef7c7370819551689a6d2f366caadbbf9c5b7da91ee12af662c834c98",
+        "/previews/g3-2023-okinawa-algebra-cdedea8/page-04.jpg?v=4f6e801ef7c7370819551689a6d2f366caadbbf9c5b7da91ee12af662c834c98"
+      ],
+      "contentVersion": "4f6e801ef7c7370819551689a6d2f366caadbbf9c5b7da91ee12af662c834c98",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-okinawa-algebra-cdedea8.pdf?rev=4f6e801ef7c7370819551689a6d2f366caadbbf9c5b7da91ee12af662c834c98",
+      "pdfFileName": "2023年実施_沖縄県_中3数学_式の展開と文字式の証明（連続する奇数・平方の差）.pdf",
+      "fileSize": 6086609
+    },
+    {
+      "id": "g3-2023-okinawa-algebra-038d66c",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "二次方程式と規則性（正多角形・碁石の個数）",
+      "shortUnit": "二次方程式と規則性",
+      "tags": [
+        "正多角形",
+        "碁石の個数"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-okinawa-algebra-038d66c/page-01.jpg?v=97dc5a30a857ba26dcdf20d97b303ba657d59cf9882d2d650c1a16ddcff16dd3",
+        "/previews/g3-2023-okinawa-algebra-038d66c/page-02.jpg?v=97dc5a30a857ba26dcdf20d97b303ba657d59cf9882d2d650c1a16ddcff16dd3",
+        "/previews/g3-2023-okinawa-algebra-038d66c/page-03.jpg?v=97dc5a30a857ba26dcdf20d97b303ba657d59cf9882d2d650c1a16ddcff16dd3",
+        "/previews/g3-2023-okinawa-algebra-038d66c/page-04.jpg?v=97dc5a30a857ba26dcdf20d97b303ba657d59cf9882d2d650c1a16ddcff16dd3"
+      ],
+      "contentVersion": "97dc5a30a857ba26dcdf20d97b303ba657d59cf9882d2d650c1a16ddcff16dd3",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-okinawa-algebra-038d66c.pdf?rev=97dc5a30a857ba26dcdf20d97b303ba657d59cf9882d2d650c1a16ddcff16dd3",
+      "pdfFileName": "2023年実施_沖縄県_中3数学_二次方程式と規則性（正多角形・碁石の個数）.pdf",
+      "fileSize": 5199166
     },
     {
       "id": "g1-2023-iwate-algebra-5128b58",
@@ -943,6 +1286,30 @@
       "fileSize": 5275438
     },
     {
+      "id": "g3-2023-okinawa-function-82a315b",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "二次関数と直線・面積（変化の割合・等積条件）",
+      "shortUnit": "二次関数と直線・面積",
+      "tags": [
+        "変化の割合",
+        "等積条件"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-okinawa-function-82a315b/page-01.jpg?v=8fde512185807fb64447f73059601de5c7e39a784e3c42302317120acf3822dd",
+        "/previews/g3-2023-okinawa-function-82a315b/page-02.jpg?v=8fde512185807fb64447f73059601de5c7e39a784e3c42302317120acf3822dd",
+        "/previews/g3-2023-okinawa-function-82a315b/page-03.jpg?v=8fde512185807fb64447f73059601de5c7e39a784e3c42302317120acf3822dd",
+        "/previews/g3-2023-okinawa-function-82a315b/page-04.jpg?v=8fde512185807fb64447f73059601de5c7e39a784e3c42302317120acf3822dd"
+      ],
+      "contentVersion": "8fde512185807fb64447f73059601de5c7e39a784e3c42302317120acf3822dd",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-okinawa-function-82a315b.pdf?rev=8fde512185807fb64447f73059601de5c7e39a784e3c42302317120acf3822dd",
+      "pdfFileName": "2023年実施_沖縄県_中3数学_二次関数と直線・面積（変化の割合・等積条件）.pdf",
+      "fileSize": 5382756
+    },
+    {
       "id": "g2-2023-iwate-function-bc2b5e1",
       "grade": 2,
       "year": 2023,
@@ -964,6 +1331,30 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2023-iwate-function-bc2b5e1.pdf?rev=ae6177e479a0d9d8c10df7226c0de2693e1ac5774c72456b491da0130b50714a",
       "pdfFileName": "2023年実施_岩手県_中2数学_一次関数の利用（X線検査機と荷物の面積）.pdf",
       "fileSize": 6243692
+    },
+    {
+      "id": "g3-2023-iwate-function-8f698b9",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "二次関数と図形（変化の割合・三角形の面積）",
+      "shortUnit": "二次関数と図形",
+      "tags": [
+        "変化の割合",
+        "三角形の面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-iwate-function-8f698b9/page-01.jpg?v=602ab15ee229bea7edc953b9be7db95eb24b3075ec021441f7d6d33177da3e7a",
+        "/previews/g3-2023-iwate-function-8f698b9/page-02.jpg?v=602ab15ee229bea7edc953b9be7db95eb24b3075ec021441f7d6d33177da3e7a",
+        "/previews/g3-2023-iwate-function-8f698b9/page-03.jpg?v=602ab15ee229bea7edc953b9be7db95eb24b3075ec021441f7d6d33177da3e7a",
+        "/previews/g3-2023-iwate-function-8f698b9/page-04.jpg?v=602ab15ee229bea7edc953b9be7db95eb24b3075ec021441f7d6d33177da3e7a"
+      ],
+      "contentVersion": "602ab15ee229bea7edc953b9be7db95eb24b3075ec021441f7d6d33177da3e7a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-iwate-function-8f698b9.pdf?rev=602ab15ee229bea7edc953b9be7db95eb24b3075ec021441f7d6d33177da3e7a",
+      "pdfFileName": "2023年実施_岩手県_中3数学_二次関数と図形（変化の割合・三角形の面積）.pdf",
+      "fileSize": 3558728
     },
     {
       "id": "g1-2023-iwate-function-1f9f469",
@@ -1062,6 +1453,31 @@
       "fileSize": 3081599
     },
     {
+      "id": "g3-2023-okinawa-geometry-695e6ee",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "四角錐と三平方の定理（円周角・体積・最短距離）",
+      "shortUnit": "四角錐と三平方の定理",
+      "tags": [
+        "円周角",
+        "体積",
+        "最短距離"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-okinawa-geometry-695e6ee/page-01.jpg?v=da44849436a9afe3f41830714fc0e1476676bea7cf27740783dd15bb203c04d2",
+        "/previews/g3-2023-okinawa-geometry-695e6ee/page-02.jpg?v=da44849436a9afe3f41830714fc0e1476676bea7cf27740783dd15bb203c04d2",
+        "/previews/g3-2023-okinawa-geometry-695e6ee/page-03.jpg?v=da44849436a9afe3f41830714fc0e1476676bea7cf27740783dd15bb203c04d2",
+        "/previews/g3-2023-okinawa-geometry-695e6ee/page-04.jpg?v=da44849436a9afe3f41830714fc0e1476676bea7cf27740783dd15bb203c04d2"
+      ],
+      "contentVersion": "da44849436a9afe3f41830714fc0e1476676bea7cf27740783dd15bb203c04d2",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-okinawa-geometry-695e6ee.pdf?rev=da44849436a9afe3f41830714fc0e1476676bea7cf27740783dd15bb203c04d2",
+      "pdfFileName": "2023年実施_沖縄県_中3数学_四角錐と三平方の定理（円周角・体積・最短距離）.pdf",
+      "fileSize": 7290145
+    },
+    {
       "id": "g1-2023-iwate-geometry-d84f716",
       "grade": 1,
       "year": 2023,
@@ -1084,6 +1500,78 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2023-iwate-geometry-d84f716.pdf?rev=277a99671ddb9b23bd520615f68c7f49f41a1bea89c99dfd5a9e799e497610d5",
       "pdfFileName": "2023年実施_岩手県_中1数学_基本作図（直角三角形の高さ・垂線）.pdf",
       "fileSize": 3126522
+    },
+    {
+      "id": "g3-2023-iwate-geometry-b73d723",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "空間図形と三平方の定理（直方体・線分の長さ・四面体の体積）",
+      "shortUnit": "空間図形と三平方の定理",
+      "tags": [
+        "直方体",
+        "線分の長さ",
+        "四面体の体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-iwate-geometry-b73d723/page-01.jpg?v=204dc573501629590461c85142a499ae0b5599b6a3ddbe000bd397f416ef8f7c",
+        "/previews/g3-2023-iwate-geometry-b73d723/page-02.jpg?v=204dc573501629590461c85142a499ae0b5599b6a3ddbe000bd397f416ef8f7c",
+        "/previews/g3-2023-iwate-geometry-b73d723/page-03.jpg?v=204dc573501629590461c85142a499ae0b5599b6a3ddbe000bd397f416ef8f7c",
+        "/previews/g3-2023-iwate-geometry-b73d723/page-04.jpg?v=204dc573501629590461c85142a499ae0b5599b6a3ddbe000bd397f416ef8f7c"
+      ],
+      "contentVersion": "204dc573501629590461c85142a499ae0b5599b6a3ddbe000bd397f416ef8f7c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-iwate-geometry-b73d723.pdf?rev=204dc573501629590461c85142a499ae0b5599b6a3ddbe000bd397f416ef8f7c",
+      "pdfFileName": "2023年実施_岩手県_中3数学_空間図形と三平方の定理（直方体・線分の長さ・四面体の体積）.pdf",
+      "fileSize": 4108593
+    },
+    {
+      "id": "g3-2023-okinawa-proof-1d04d96",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "沖縄県",
+      "field": "図形の証明",
+      "unit": "合同と相似の証明（平行線・線分比）",
+      "shortUnit": "合同と相似の証明",
+      "tags": [
+        "平行線",
+        "線分比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-okinawa-proof-1d04d96/page-01.jpg?v=94ab253699f523b4fbc6169e980f548106ad850bfacb744b2f58158dda1c9e6c",
+        "/previews/g3-2023-okinawa-proof-1d04d96/page-02.jpg?v=94ab253699f523b4fbc6169e980f548106ad850bfacb744b2f58158dda1c9e6c",
+        "/previews/g3-2023-okinawa-proof-1d04d96/page-03.jpg?v=94ab253699f523b4fbc6169e980f548106ad850bfacb744b2f58158dda1c9e6c",
+        "/previews/g3-2023-okinawa-proof-1d04d96/page-04.jpg?v=94ab253699f523b4fbc6169e980f548106ad850bfacb744b2f58158dda1c9e6c"
+      ],
+      "contentVersion": "94ab253699f523b4fbc6169e980f548106ad850bfacb744b2f58158dda1c9e6c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-okinawa-proof-1d04d96.pdf?rev=94ab253699f523b4fbc6169e980f548106ad850bfacb744b2f58158dda1c9e6c",
+      "pdfFileName": "2023年実施_沖縄県_中3数学_合同と相似の証明（平行線・線分比）.pdf",
+      "fileSize": 5738358
+    },
+    {
+      "id": "g3-2023-iwate-proof-d7c8b91",
+      "grade": 3,
+      "year": 2023,
+      "prefecture": "岩手県",
+      "field": "図形の証明",
+      "unit": "三角形の相似証明（円の接線）",
+      "shortUnit": "三角形の相似証明",
+      "tags": [
+        "円の接線"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2023-iwate-proof-d7c8b91/page-01.jpg?v=1a44049693fcb82e0919cce45f0daa665b0eafcf9ed5bd3f17c98c12d707f3ee",
+        "/previews/g3-2023-iwate-proof-d7c8b91/page-02.jpg?v=1a44049693fcb82e0919cce45f0daa665b0eafcf9ed5bd3f17c98c12d707f3ee",
+        "/previews/g3-2023-iwate-proof-d7c8b91/page-03.jpg?v=1a44049693fcb82e0919cce45f0daa665b0eafcf9ed5bd3f17c98c12d707f3ee",
+        "/previews/g3-2023-iwate-proof-d7c8b91/page-04.jpg?v=1a44049693fcb82e0919cce45f0daa665b0eafcf9ed5bd3f17c98c12d707f3ee"
+      ],
+      "contentVersion": "1a44049693fcb82e0919cce45f0daa665b0eafcf9ed5bd3f17c98c12d707f3ee",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2023-iwate-proof-d7c8b91.pdf?rev=1a44049693fcb82e0919cce45f0daa665b0eafcf9ed5bd3f17c98c12d707f3ee",
+      "pdfFileName": "2023年実施_岩手県_中3数学_三角形の相似証明（円の接線）.pdf",
+      "fileSize": 2710040
     },
     {
       "id": "g3-2023-hokkaido-proof-94a9cae",
@@ -1308,6 +1796,54 @@
       "fileSize": 11877616
     },
     {
+      "id": "g3-2022-okinawa-algebra-2cc1043",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "因数分解と自然数（平方の差・整数の組）",
+      "shortUnit": "因数分解と自然数",
+      "tags": [
+        "平方の差",
+        "整数の組"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-algebra-2cc1043/page-01.jpg?v=8da85e10db23354a6c92999a5f1fa814af5ebd46bebd5e26fb0b5106b00192fd",
+        "/previews/g3-2022-okinawa-algebra-2cc1043/page-02.jpg?v=8da85e10db23354a6c92999a5f1fa814af5ebd46bebd5e26fb0b5106b00192fd",
+        "/previews/g3-2022-okinawa-algebra-2cc1043/page-03.jpg?v=8da85e10db23354a6c92999a5f1fa814af5ebd46bebd5e26fb0b5106b00192fd",
+        "/previews/g3-2022-okinawa-algebra-2cc1043/page-04.jpg?v=8da85e10db23354a6c92999a5f1fa814af5ebd46bebd5e26fb0b5106b00192fd"
+      ],
+      "contentVersion": "8da85e10db23354a6c92999a5f1fa814af5ebd46bebd5e26fb0b5106b00192fd",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-okinawa-algebra-2cc1043.pdf?rev=8da85e10db23354a6c92999a5f1fa814af5ebd46bebd5e26fb0b5106b00192fd",
+      "pdfFileName": "2022年実施_沖縄県_中3数学_因数分解と自然数（平方の差・整数の組）.pdf",
+      "fileSize": 6389461
+    },
+    {
+      "id": "g3-2022-okinawa-algebra-dedd62e",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "数と式",
+      "unit": "式の展開と二次方程式（計算カード・操作の順序）",
+      "shortUnit": "式の展開と二次方程式",
+      "tags": [
+        "計算カード",
+        "操作の順序"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-algebra-dedd62e/page-01.jpg?v=6e71df7d717e851b1cd7695c15d4dad12fba055f547255ea0f2d1eff9987ee21",
+        "/previews/g3-2022-okinawa-algebra-dedd62e/page-02.jpg?v=6e71df7d717e851b1cd7695c15d4dad12fba055f547255ea0f2d1eff9987ee21",
+        "/previews/g3-2022-okinawa-algebra-dedd62e/page-03.jpg?v=6e71df7d717e851b1cd7695c15d4dad12fba055f547255ea0f2d1eff9987ee21",
+        "/previews/g3-2022-okinawa-algebra-dedd62e/page-04.jpg?v=6e71df7d717e851b1cd7695c15d4dad12fba055f547255ea0f2d1eff9987ee21"
+      ],
+      "contentVersion": "6e71df7d717e851b1cd7695c15d4dad12fba055f547255ea0f2d1eff9987ee21",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-okinawa-algebra-dedd62e.pdf?rev=6e71df7d717e851b1cd7695c15d4dad12fba055f547255ea0f2d1eff9987ee21",
+      "pdfFileName": "2022年実施_沖縄県_中3数学_式の展開と二次方程式（計算カード・操作の順序）.pdf",
+      "fileSize": 5818210
+    },
+    {
       "id": "g1-2022-iwate-algebra-fbb3e53",
       "grade": 1,
       "year": 2022,
@@ -1329,6 +1865,30 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-algebra-fbb3e53.pdf?rev=31f8db927dec3616e7383e5da367d34d23f62c5a9e1e7d107650588b32bdd090",
       "pdfFileName": "2022年実施_岩手県_中1数学_文字式（代金とおつりの関係）.pdf",
       "fileSize": 1909570
+    },
+    {
+      "id": "g3-2022-gunma-algebra-1874b81",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "数と式",
+      "unit": "平方根・無理数と二次方程式（数の集合・性質）",
+      "shortUnit": "平方根・無理数と二次方程式",
+      "tags": [
+        "数の集合",
+        "性質"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gunma-algebra-1874b81/page-01.jpg?v=64b990ea15180d492f69585ed0b155570fb24e6985cf8e694b1e0e897097e42f",
+        "/previews/g3-2022-gunma-algebra-1874b81/page-02.jpg?v=64b990ea15180d492f69585ed0b155570fb24e6985cf8e694b1e0e897097e42f",
+        "/previews/g3-2022-gunma-algebra-1874b81/page-03.jpg?v=64b990ea15180d492f69585ed0b155570fb24e6985cf8e694b1e0e897097e42f",
+        "/previews/g3-2022-gunma-algebra-1874b81/page-04.jpg?v=64b990ea15180d492f69585ed0b155570fb24e6985cf8e694b1e0e897097e42f"
+      ],
+      "contentVersion": "64b990ea15180d492f69585ed0b155570fb24e6985cf8e694b1e0e897097e42f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-gunma-algebra-1874b81.pdf?rev=64b990ea15180d492f69585ed0b155570fb24e6985cf8e694b1e0e897097e42f",
+      "pdfFileName": "2022年実施_群馬県_中3数学_平方根・無理数と二次方程式（数の集合・性質）.pdf",
+      "fileSize": 4435602
     },
     {
       "id": "g3-2022-hokkaido-algebra-77c7975",
@@ -1472,6 +2032,31 @@
       "fileSize": 6310102
     },
     {
+      "id": "g3-2022-okinawa-function-70deba5",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "二次関数と直線・面積（変域・変化の割合・座標）",
+      "shortUnit": "二次関数と直線・面積",
+      "tags": [
+        "変域",
+        "変化の割合",
+        "座標"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-function-70deba5/page-01.jpg?v=9776afaee9545c31cdaeab0a9afdbef6111ba25725809ce3d6b80bba904361cc",
+        "/previews/g3-2022-okinawa-function-70deba5/page-02.jpg?v=9776afaee9545c31cdaeab0a9afdbef6111ba25725809ce3d6b80bba904361cc",
+        "/previews/g3-2022-okinawa-function-70deba5/page-03.jpg?v=9776afaee9545c31cdaeab0a9afdbef6111ba25725809ce3d6b80bba904361cc",
+        "/previews/g3-2022-okinawa-function-70deba5/page-04.jpg?v=9776afaee9545c31cdaeab0a9afdbef6111ba25725809ce3d6b80bba904361cc"
+      ],
+      "contentVersion": "9776afaee9545c31cdaeab0a9afdbef6111ba25725809ce3d6b80bba904361cc",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-okinawa-function-70deba5.pdf?rev=9776afaee9545c31cdaeab0a9afdbef6111ba25725809ce3d6b80bba904361cc",
+      "pdfFileName": "2022年実施_沖縄県_中3数学_二次関数と直線・面積（変域・変化の割合・座標）.pdf",
+      "fileSize": 4318705
+    },
+    {
       "id": "g2-2022-iwate-function-8f4b9be",
       "grade": 2,
       "year": 2022,
@@ -1496,6 +2081,30 @@
       "fileSize": 9525582
     },
     {
+      "id": "g3-2022-iwate-function-4a49d86",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "二次関数の利用（自転車の制動距離・停止距離）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "自転車の制動距離",
+        "停止距離"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-iwate-function-4a49d86/page-01.jpg?v=2cf75370e613a21531e2bc5107fb522911956fb848d4639171d8996e201cf4c2",
+        "/previews/g3-2022-iwate-function-4a49d86/page-02.jpg?v=2cf75370e613a21531e2bc5107fb522911956fb848d4639171d8996e201cf4c2",
+        "/previews/g3-2022-iwate-function-4a49d86/page-03.jpg?v=2cf75370e613a21531e2bc5107fb522911956fb848d4639171d8996e201cf4c2",
+        "/previews/g3-2022-iwate-function-4a49d86/page-04.jpg?v=2cf75370e613a21531e2bc5107fb522911956fb848d4639171d8996e201cf4c2"
+      ],
+      "contentVersion": "2cf75370e613a21531e2bc5107fb522911956fb848d4639171d8996e201cf4c2",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-iwate-function-4a49d86.pdf?rev=2cf75370e613a21531e2bc5107fb522911956fb848d4639171d8996e201cf4c2",
+      "pdfFileName": "2022年実施_岩手県_中3数学_二次関数の利用（自転車の制動距離・停止距離）.pdf",
+      "fileSize": 5493804
+    },
+    {
       "id": "g1-2022-iwate-function-2ee300e",
       "grade": 1,
       "year": 2022,
@@ -1517,6 +2126,54 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2022-iwate-function-2ee300e.pdf?rev=46a3da5865c190372ab069bb43f9263f3cd84a070b451dd2232b4f8abd1656f2",
       "pdfFileName": "2022年実施_岩手県_中1数学_比例のグラフ（傾きが負の直線）.pdf",
       "fileSize": 3535869
+    },
+    {
+      "id": "g3-2022-gunma-function-1345f87",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "関数",
+      "unit": "三平方の定理と一次関数（動点・面積）",
+      "shortUnit": "三平方の定理と一次関数",
+      "tags": [
+        "動点",
+        "面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gunma-function-1345f87/page-01.jpg?v=a723b4e3247a0a096b87abc95df00f5e4fc2258d3b094c2d641c9439d4df3000",
+        "/previews/g3-2022-gunma-function-1345f87/page-02.jpg?v=a723b4e3247a0a096b87abc95df00f5e4fc2258d3b094c2d641c9439d4df3000",
+        "/previews/g3-2022-gunma-function-1345f87/page-03.jpg?v=a723b4e3247a0a096b87abc95df00f5e4fc2258d3b094c2d641c9439d4df3000",
+        "/previews/g3-2022-gunma-function-1345f87/page-04.jpg?v=a723b4e3247a0a096b87abc95df00f5e4fc2258d3b094c2d641c9439d4df3000"
+      ],
+      "contentVersion": "a723b4e3247a0a096b87abc95df00f5e4fc2258d3b094c2d641c9439d4df3000",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-gunma-function-1345f87.pdf?rev=a723b4e3247a0a096b87abc95df00f5e4fc2258d3b094c2d641c9439d4df3000",
+      "pdfFileName": "2022年実施_群馬県_中3数学_三平方の定理と一次関数（動点・面積）.pdf",
+      "fileSize": 7524767
+    },
+    {
+      "id": "g3-2022-gunma-function-2c7a077",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "関数",
+      "unit": "二次関数と回転体（変化の割合・体積）",
+      "shortUnit": "二次関数と回転体",
+      "tags": [
+        "変化の割合",
+        "体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gunma-function-2c7a077/page-01.jpg?v=d4a49ffa80e7594b52dca5f6b84a6a414305b6aa7866b8f79c9c102449c0c1f1",
+        "/previews/g3-2022-gunma-function-2c7a077/page-02.jpg?v=d4a49ffa80e7594b52dca5f6b84a6a414305b6aa7866b8f79c9c102449c0c1f1",
+        "/previews/g3-2022-gunma-function-2c7a077/page-03.jpg?v=d4a49ffa80e7594b52dca5f6b84a6a414305b6aa7866b8f79c9c102449c0c1f1",
+        "/previews/g3-2022-gunma-function-2c7a077/page-04.jpg?v=d4a49ffa80e7594b52dca5f6b84a6a414305b6aa7866b8f79c9c102449c0c1f1"
+      ],
+      "contentVersion": "d4a49ffa80e7594b52dca5f6b84a6a414305b6aa7866b8f79c9c102449c0c1f1",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-gunma-function-2c7a077.pdf?rev=d4a49ffa80e7594b52dca5f6b84a6a414305b6aa7866b8f79c9c102449c0c1f1",
+      "pdfFileName": "2022年実施_群馬県_中3数学_二次関数と回転体（変化の割合・体積）.pdf",
+      "fileSize": 4053273
     },
     {
       "id": "g2-2022-tokushima-function-faa5cc4",
@@ -1640,6 +2297,102 @@
       "fileSize": 3104751
     },
     {
+      "id": "g3-2022-iwate-geometry-ace75ec",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "空間図形と三平方の定理（切断・相似な三角錐・体積）",
+      "shortUnit": "空間図形と三平方の定理",
+      "tags": [
+        "切断",
+        "相似な三角錐",
+        "体積"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2022-iwate-geometry-ace75ec/page-01.jpg?v=270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f",
+        "/previews/g3-2022-iwate-geometry-ace75ec/page-02.jpg?v=270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f",
+        "/previews/g3-2022-iwate-geometry-ace75ec/page-03.jpg?v=270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f",
+        "/previews/g3-2022-iwate-geometry-ace75ec/page-04.jpg?v=270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f",
+        "/previews/g3-2022-iwate-geometry-ace75ec/page-05.jpg?v=270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f"
+      ],
+      "contentVersion": "270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-iwate-geometry-ace75ec.pdf?rev=270fc9d34a4c46ac33f555e25f0e0a74e6b1b564c5aa73232e9b2edd4191dc9f",
+      "pdfFileName": "2022年実施_岩手県_中3数学_空間図形と三平方の定理（切断・相似な三角錐・体積）.pdf",
+      "fileSize": 4305989
+    },
+    {
+      "id": "g3-2022-iwate-geometry-fcd10cf",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "相似な立体と円周角（体積比・角度・平行四辺形）",
+      "shortUnit": "相似な立体と円周角",
+      "tags": [
+        "体積比",
+        "角度",
+        "平行四辺形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-iwate-geometry-fcd10cf/page-01.jpg?v=a5e64e02a8fc59f40973dac1ca687a37f5a8ada33442cc370ffc1f326c4db09d",
+        "/previews/g3-2022-iwate-geometry-fcd10cf/page-02.jpg?v=a5e64e02a8fc59f40973dac1ca687a37f5a8ada33442cc370ffc1f326c4db09d",
+        "/previews/g3-2022-iwate-geometry-fcd10cf/page-03.jpg?v=a5e64e02a8fc59f40973dac1ca687a37f5a8ada33442cc370ffc1f326c4db09d",
+        "/previews/g3-2022-iwate-geometry-fcd10cf/page-04.jpg?v=a5e64e02a8fc59f40973dac1ca687a37f5a8ada33442cc370ffc1f326c4db09d"
+      ],
+      "contentVersion": "a5e64e02a8fc59f40973dac1ca687a37f5a8ada33442cc370ffc1f326c4db09d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-iwate-geometry-fcd10cf.pdf?rev=a5e64e02a8fc59f40973dac1ca687a37f5a8ada33442cc370ffc1f326c4db09d",
+      "pdfFileName": "2022年実施_岩手県_中3数学_相似な立体と円周角（体積比・角度・平行四辺形）.pdf",
+      "fileSize": 5451670
+    },
+    {
+      "id": "g3-2022-gunma-geometry-b478b2e",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "円周角の定理の逆と角度",
+      "shortUnit": "円周角の定理の逆と角度",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gunma-geometry-b478b2e/page-01.jpg?v=147ad37923870c535a2abe64b88393ed325f937364eb0625f131b20dc340495a",
+        "/previews/g3-2022-gunma-geometry-b478b2e/page-02.jpg?v=147ad37923870c535a2abe64b88393ed325f937364eb0625f131b20dc340495a",
+        "/previews/g3-2022-gunma-geometry-b478b2e/page-03.jpg?v=147ad37923870c535a2abe64b88393ed325f937364eb0625f131b20dc340495a",
+        "/previews/g3-2022-gunma-geometry-b478b2e/page-04.jpg?v=147ad37923870c535a2abe64b88393ed325f937364eb0625f131b20dc340495a"
+      ],
+      "contentVersion": "147ad37923870c535a2abe64b88393ed325f937364eb0625f131b20dc340495a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-gunma-geometry-b478b2e.pdf?rev=147ad37923870c535a2abe64b88393ed325f937364eb0625f131b20dc340495a",
+      "pdfFileName": "2022年実施_群馬県_中3数学_円周角の定理の逆と角度.pdf",
+      "fileSize": 3580121
+    },
+    {
+      "id": "g3-2022-okinawa-proof-2d5b050",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "沖縄県",
+      "field": "図形の証明",
+      "unit": "平行線と相似の証明（線分比・面積比）",
+      "shortUnit": "平行線と相似の証明",
+      "tags": [
+        "線分比",
+        "面積比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-okinawa-proof-2d5b050/page-01.jpg?v=4608d70fc366b5ce66766e53b1197d5e03b4db66fb9484b2397f49f1ed81c2cf",
+        "/previews/g3-2022-okinawa-proof-2d5b050/page-02.jpg?v=4608d70fc366b5ce66766e53b1197d5e03b4db66fb9484b2397f49f1ed81c2cf",
+        "/previews/g3-2022-okinawa-proof-2d5b050/page-03.jpg?v=4608d70fc366b5ce66766e53b1197d5e03b4db66fb9484b2397f49f1ed81c2cf",
+        "/previews/g3-2022-okinawa-proof-2d5b050/page-04.jpg?v=4608d70fc366b5ce66766e53b1197d5e03b4db66fb9484b2397f49f1ed81c2cf"
+      ],
+      "contentVersion": "4608d70fc366b5ce66766e53b1197d5e03b4db66fb9484b2397f49f1ed81c2cf",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-okinawa-proof-2d5b050.pdf?rev=4608d70fc366b5ce66766e53b1197d5e03b4db66fb9484b2397f49f1ed81c2cf",
+      "pdfFileName": "2022年実施_沖縄県_中3数学_平行線と相似の証明（線分比・面積比）.pdf",
+      "fileSize": 6405182
+    },
+    {
       "id": "g2-2022-iwate-proof-b898447",
       "grade": 2,
       "year": 2022,
@@ -1683,6 +2436,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2022-gunma-proof-6050a80.pdf?rev=4bbc2efb3b1ab9b6e9a7a9fd9a9debee275c70a3ffec92a27032c8e51d484181",
       "pdfFileName": "2022年実施_群馬県_中2数学_角の二等分線を用いた合同の証明と折り紙の作図.pdf",
       "fileSize": 6522195
+    },
+    {
+      "id": "g3-2022-gunma-proof-7154b48",
+      "grade": 3,
+      "year": 2022,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "相似の証明と面積比（平行四辺形）",
+      "shortUnit": "相似の証明と面積比",
+      "tags": [
+        "平行四辺形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2022-gunma-proof-7154b48/page-01.jpg?v=146437952ff97d3144bb77bdfa906773010c4a665bed0bdee77af84d88ea9b15",
+        "/previews/g3-2022-gunma-proof-7154b48/page-02.jpg?v=146437952ff97d3144bb77bdfa906773010c4a665bed0bdee77af84d88ea9b15",
+        "/previews/g3-2022-gunma-proof-7154b48/page-03.jpg?v=146437952ff97d3144bb77bdfa906773010c4a665bed0bdee77af84d88ea9b15",
+        "/previews/g3-2022-gunma-proof-7154b48/page-04.jpg?v=146437952ff97d3144bb77bdfa906773010c4a665bed0bdee77af84d88ea9b15"
+      ],
+      "contentVersion": "146437952ff97d3144bb77bdfa906773010c4a665bed0bdee77af84d88ea9b15",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2022-gunma-proof-7154b48.pdf?rev=146437952ff97d3144bb77bdfa906773010c4a665bed0bdee77af84d88ea9b15",
+      "pdfFileName": "2022年実施_群馬県_中3数学_相似の証明と面積比（平行四辺形）.pdf",
+      "fileSize": 2498199
     },
     {
       "id": "g2-2022-fukushima-proof-4eb0648",
@@ -2152,6 +2928,56 @@
       "fileSize": 8233531
     },
     {
+      "id": "g3-2021-okinawa-function-60b50ea",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "二次関数と直線・面積（放物線・座標・平方根）",
+      "shortUnit": "二次関数と直線・面積",
+      "tags": [
+        "放物線",
+        "座標",
+        "平方根"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-okinawa-function-60b50ea/page-01.jpg?v=3295db585447299449c4fb0cfd862ac04def7602e477aed519aedab78998ef7a",
+        "/previews/g3-2021-okinawa-function-60b50ea/page-02.jpg?v=3295db585447299449c4fb0cfd862ac04def7602e477aed519aedab78998ef7a",
+        "/previews/g3-2021-okinawa-function-60b50ea/page-03.jpg?v=3295db585447299449c4fb0cfd862ac04def7602e477aed519aedab78998ef7a",
+        "/previews/g3-2021-okinawa-function-60b50ea/page-04.jpg?v=3295db585447299449c4fb0cfd862ac04def7602e477aed519aedab78998ef7a"
+      ],
+      "contentVersion": "3295db585447299449c4fb0cfd862ac04def7602e477aed519aedab78998ef7a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-okinawa-function-60b50ea.pdf?rev=3295db585447299449c4fb0cfd862ac04def7602e477aed519aedab78998ef7a",
+      "pdfFileName": "2021年実施_沖縄県_中3数学_二次関数と直線・面積（放物線・座標・平方根）.pdf",
+      "fileSize": 4679109
+    },
+    {
+      "id": "g3-2021-okinawa-function-16e9743",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "二次関数と動点（直角二等辺三角形・面積・グラフ）",
+      "shortUnit": "二次関数と動点",
+      "tags": [
+        "直角二等辺三角形",
+        "面積",
+        "グラフ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-okinawa-function-16e9743/page-01.jpg?v=3209637f1be064471316f1cd8a6806348c26ecd4f52dbb6cba13ea23cb68e4b6",
+        "/previews/g3-2021-okinawa-function-16e9743/page-02.jpg?v=3209637f1be064471316f1cd8a6806348c26ecd4f52dbb6cba13ea23cb68e4b6",
+        "/previews/g3-2021-okinawa-function-16e9743/page-03.jpg?v=3209637f1be064471316f1cd8a6806348c26ecd4f52dbb6cba13ea23cb68e4b6",
+        "/previews/g3-2021-okinawa-function-16e9743/page-04.jpg?v=3209637f1be064471316f1cd8a6806348c26ecd4f52dbb6cba13ea23cb68e4b6"
+      ],
+      "contentVersion": "3209637f1be064471316f1cd8a6806348c26ecd4f52dbb6cba13ea23cb68e4b6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-okinawa-function-16e9743.pdf?rev=3209637f1be064471316f1cd8a6806348c26ecd4f52dbb6cba13ea23cb68e4b6",
+      "pdfFileName": "2021年実施_沖縄県_中3数学_二次関数と動点（直角二等辺三角形・面積・グラフ）.pdf",
+      "fileSize": 5361276
+    },
+    {
       "id": "g2-2021-iwate-function-7188ecf",
       "grade": 2,
       "year": 2021,
@@ -2175,6 +3001,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-function-7188ecf.pdf?rev=5f0ea9eabdcd73f2c5efb2175a374fdb8b59c21792ba1b84993323d5208f67b2",
       "pdfFileName": "2021年実施_岩手県_中2数学_一次関数の利用（加熱時間・温度・電気料金）.pdf",
       "fileSize": 6837203
+    },
+    {
+      "id": "g3-2021-iwate-function-203ba44",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "関数",
+      "unit": "二次関数の利用（放物線上の点・図形の周・二次方程式）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "放物線上の点",
+        "図形の周",
+        "二次方程式"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-iwate-function-203ba44/page-01.jpg?v=b344986b4d8ce8cdba5e0c3ae64d622bbf01346749cbbb19df545e16c50e727e",
+        "/previews/g3-2021-iwate-function-203ba44/page-02.jpg?v=b344986b4d8ce8cdba5e0c3ae64d622bbf01346749cbbb19df545e16c50e727e",
+        "/previews/g3-2021-iwate-function-203ba44/page-03.jpg?v=b344986b4d8ce8cdba5e0c3ae64d622bbf01346749cbbb19df545e16c50e727e",
+        "/previews/g3-2021-iwate-function-203ba44/page-04.jpg?v=b344986b4d8ce8cdba5e0c3ae64d622bbf01346749cbbb19df545e16c50e727e"
+      ],
+      "contentVersion": "b344986b4d8ce8cdba5e0c3ae64d622bbf01346749cbbb19df545e16c50e727e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-iwate-function-203ba44.pdf?rev=b344986b4d8ce8cdba5e0c3ae64d622bbf01346749cbbb19df545e16c50e727e",
+      "pdfFileName": "2021年実施_岩手県_中3数学_二次関数の利用（放物線上の点・図形の周・二次方程式）.pdf",
+      "fileSize": 4774338
     },
     {
       "id": "g1-2021-iwate-function-5b941c8",
@@ -2421,6 +3272,100 @@
       "fileSize": 4690828
     },
     {
+      "id": "g3-2021-okinawa-geometry-2bd877d",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "四角錐の切断（平行線と線分比・体積）",
+      "shortUnit": "四角錐の切断",
+      "tags": [
+        "平行線と線分比",
+        "体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-okinawa-geometry-2bd877d/page-01.jpg?v=1e40a2ae148883425e54e5b16f96635c4ffe8b9e86c9f870c04da076bd95b378",
+        "/previews/g3-2021-okinawa-geometry-2bd877d/page-02.jpg?v=1e40a2ae148883425e54e5b16f96635c4ffe8b9e86c9f870c04da076bd95b378",
+        "/previews/g3-2021-okinawa-geometry-2bd877d/page-03.jpg?v=1e40a2ae148883425e54e5b16f96635c4ffe8b9e86c9f870c04da076bd95b378",
+        "/previews/g3-2021-okinawa-geometry-2bd877d/page-04.jpg?v=1e40a2ae148883425e54e5b16f96635c4ffe8b9e86c9f870c04da076bd95b378"
+      ],
+      "contentVersion": "1e40a2ae148883425e54e5b16f96635c4ffe8b9e86c9f870c04da076bd95b378",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-okinawa-geometry-2bd877d.pdf?rev=1e40a2ae148883425e54e5b16f96635c4ffe8b9e86c9f870c04da076bd95b378",
+      "pdfFileName": "2021年実施_沖縄県_中3数学_四角錐の切断（平行線と線分比・体積）.pdf",
+      "fileSize": 6507084
+    },
+    {
+      "id": "g3-2021-iwate-geometry-9e8487f",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "円周角と平行線の線分比（角度・線分の長さ）",
+      "shortUnit": "円周角と平行線の線分比",
+      "tags": [
+        "角度",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-iwate-geometry-9e8487f/page-01.jpg?v=31ca3e153d6a735c4e3d59c3b85da0ce152178814ec8e5abcfb40d3dde4200f9",
+        "/previews/g3-2021-iwate-geometry-9e8487f/page-02.jpg?v=31ca3e153d6a735c4e3d59c3b85da0ce152178814ec8e5abcfb40d3dde4200f9",
+        "/previews/g3-2021-iwate-geometry-9e8487f/page-03.jpg?v=31ca3e153d6a735c4e3d59c3b85da0ce152178814ec8e5abcfb40d3dde4200f9",
+        "/previews/g3-2021-iwate-geometry-9e8487f/page-04.jpg?v=31ca3e153d6a735c4e3d59c3b85da0ce152178814ec8e5abcfb40d3dde4200f9"
+      ],
+      "contentVersion": "31ca3e153d6a735c4e3d59c3b85da0ce152178814ec8e5abcfb40d3dde4200f9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-iwate-geometry-9e8487f.pdf?rev=31ca3e153d6a735c4e3d59c3b85da0ce152178814ec8e5abcfb40d3dde4200f9",
+      "pdfFileName": "2021年実施_岩手県_中3数学_円周角と平行線の線分比（角度・線分の長さ）.pdf",
+      "fileSize": 2908009
+    },
+    {
+      "id": "g3-2021-iwate-geometry-a274288",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "岩手県",
+      "field": "図形",
+      "unit": "空間図形と三平方の定理（直方体の展開図・線分の長さ・三角錐の体積）",
+      "shortUnit": "空間図形と三平方の定理",
+      "tags": [
+        "直方体の展開図",
+        "線分の長さ",
+        "三角錐の体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-iwate-geometry-a274288/page-01.jpg?v=0385cad10a2ab29b62fbcb07f8599f09d522d9ee1ea75ae83f03532035683a3c",
+        "/previews/g3-2021-iwate-geometry-a274288/page-02.jpg?v=0385cad10a2ab29b62fbcb07f8599f09d522d9ee1ea75ae83f03532035683a3c",
+        "/previews/g3-2021-iwate-geometry-a274288/page-03.jpg?v=0385cad10a2ab29b62fbcb07f8599f09d522d9ee1ea75ae83f03532035683a3c",
+        "/previews/g3-2021-iwate-geometry-a274288/page-04.jpg?v=0385cad10a2ab29b62fbcb07f8599f09d522d9ee1ea75ae83f03532035683a3c"
+      ],
+      "contentVersion": "0385cad10a2ab29b62fbcb07f8599f09d522d9ee1ea75ae83f03532035683a3c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-iwate-geometry-a274288.pdf?rev=0385cad10a2ab29b62fbcb07f8599f09d522d9ee1ea75ae83f03532035683a3c",
+      "pdfFileName": "2021年実施_岩手県_中3数学_空間図形と三平方の定理（直方体の展開図・線分の長さ・三角錐の体積）.pdf",
+      "fileSize": 3445737
+    },
+    {
+      "id": "g3-2021-gunma-geometry-cfdf5f9",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "円の接線・三平方の定理・相似と面積比",
+      "shortUnit": "円の接線・三平方の定理・相似と面積比",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-gunma-geometry-cfdf5f9/page-01.jpg?v=4800cf04571643c0e9c61ddee97b00751930e8d167afc54caa70d4de6a39066b",
+        "/previews/g3-2021-gunma-geometry-cfdf5f9/page-02.jpg?v=4800cf04571643c0e9c61ddee97b00751930e8d167afc54caa70d4de6a39066b",
+        "/previews/g3-2021-gunma-geometry-cfdf5f9/page-03.jpg?v=4800cf04571643c0e9c61ddee97b00751930e8d167afc54caa70d4de6a39066b",
+        "/previews/g3-2021-gunma-geometry-cfdf5f9/page-04.jpg?v=4800cf04571643c0e9c61ddee97b00751930e8d167afc54caa70d4de6a39066b"
+      ],
+      "contentVersion": "4800cf04571643c0e9c61ddee97b00751930e8d167afc54caa70d4de6a39066b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-gunma-geometry-cfdf5f9.pdf?rev=4800cf04571643c0e9c61ddee97b00751930e8d167afc54caa70d4de6a39066b",
+      "pdfFileName": "2021年実施_群馬県_中3数学_円の接線・三平方の定理・相似と面積比.pdf",
+      "fileSize": 6547284
+    },
+    {
       "id": "g2-2021-gunma-geometry-213c217",
       "grade": 2,
       "year": 2021,
@@ -2515,6 +3460,31 @@
       "fileSize": 6165483
     },
     {
+      "id": "g3-2021-okinawa-proof-ea57af2",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "沖縄県",
+      "field": "図形の証明",
+      "unit": "正五角形と円（円周角・相似の証明・線分の長さ）",
+      "shortUnit": "正五角形と円",
+      "tags": [
+        "円周角",
+        "相似の証明",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-okinawa-proof-ea57af2/page-01.jpg?v=c133eb683dd148ab044db8dc84376278c5959ab3f17885f9de59d5fd5f291122",
+        "/previews/g3-2021-okinawa-proof-ea57af2/page-02.jpg?v=c133eb683dd148ab044db8dc84376278c5959ab3f17885f9de59d5fd5f291122",
+        "/previews/g3-2021-okinawa-proof-ea57af2/page-03.jpg?v=c133eb683dd148ab044db8dc84376278c5959ab3f17885f9de59d5fd5f291122",
+        "/previews/g3-2021-okinawa-proof-ea57af2/page-04.jpg?v=c133eb683dd148ab044db8dc84376278c5959ab3f17885f9de59d5fd5f291122"
+      ],
+      "contentVersion": "c133eb683dd148ab044db8dc84376278c5959ab3f17885f9de59d5fd5f291122",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-okinawa-proof-ea57af2.pdf?rev=c133eb683dd148ab044db8dc84376278c5959ab3f17885f9de59d5fd5f291122",
+      "pdfFileName": "2021年実施_沖縄県_中3数学_正五角形と円（円周角・相似の証明・線分の長さ）.pdf",
+      "fileSize": 6994279
+    },
+    {
       "id": "g2-2021-iwate-proof-fd0573b",
       "grade": 2,
       "year": 2021,
@@ -2536,6 +3506,27 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-proof-fd0573b.pdf?rev=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
       "pdfFileName": "2021年実施_岩手県_中2数学_三角形の合同証明（平行線の錯角と同位角）.pdf",
       "fileSize": 2804261
+    },
+    {
+      "id": "g3-2021-gunma-proof-01de387",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "円周角・相似の証明と平行線の比",
+      "shortUnit": "円周角・相似の証明と平行線の比",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-gunma-proof-01de387/page-01.jpg?v=d999f595fa4ed93ecb1de3606ed1429a688296a42f88ac4ab1b0f8b94fad1c57",
+        "/previews/g3-2021-gunma-proof-01de387/page-02.jpg?v=d999f595fa4ed93ecb1de3606ed1429a688296a42f88ac4ab1b0f8b94fad1c57",
+        "/previews/g3-2021-gunma-proof-01de387/page-03.jpg?v=d999f595fa4ed93ecb1de3606ed1429a688296a42f88ac4ab1b0f8b94fad1c57",
+        "/previews/g3-2021-gunma-proof-01de387/page-04.jpg?v=d999f595fa4ed93ecb1de3606ed1429a688296a42f88ac4ab1b0f8b94fad1c57"
+      ],
+      "contentVersion": "d999f595fa4ed93ecb1de3606ed1429a688296a42f88ac4ab1b0f8b94fad1c57",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-gunma-proof-01de387.pdf?rev=d999f595fa4ed93ecb1de3606ed1429a688296a42f88ac4ab1b0f8b94fad1c57",
+      "pdfFileName": "2021年実施_群馬県_中3数学_円周角・相似の証明と平行線の比.pdf",
+      "fileSize": 3564290
     },
     {
       "id": "g3-2021-fukuoka-proof-9c319b5",
@@ -2975,6 +3966,31 @@
       "fileSize": 6047936
     },
     {
+      "id": "g3-2020-okinawa-function-ff5f006",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "反比例と円・直線（接する円・座標・平方根）",
+      "shortUnit": "反比例と円・直線",
+      "tags": [
+        "接する円",
+        "座標",
+        "平方根"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-okinawa-function-ff5f006/page-01.jpg?v=557253e381cdeec31568ca51d11ca4c703ae1848c7e4c27ebd3c24693e3b4fc6",
+        "/previews/g3-2020-okinawa-function-ff5f006/page-02.jpg?v=557253e381cdeec31568ca51d11ca4c703ae1848c7e4c27ebd3c24693e3b4fc6",
+        "/previews/g3-2020-okinawa-function-ff5f006/page-03.jpg?v=557253e381cdeec31568ca51d11ca4c703ae1848c7e4c27ebd3c24693e3b4fc6",
+        "/previews/g3-2020-okinawa-function-ff5f006/page-04.jpg?v=557253e381cdeec31568ca51d11ca4c703ae1848c7e4c27ebd3c24693e3b4fc6"
+      ],
+      "contentVersion": "557253e381cdeec31568ca51d11ca4c703ae1848c7e4c27ebd3c24693e3b4fc6",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-okinawa-function-ff5f006.pdf?rev=557253e381cdeec31568ca51d11ca4c703ae1848c7e4c27ebd3c24693e3b4fc6",
+      "pdfFileName": "2020年実施_沖縄県_中3数学_反比例と円・直線（接する円・座標・平方根）.pdf",
+      "fileSize": 5067774
+    },
+    {
       "id": "g2-2020-gifu-function-6c6dec4",
       "grade": 2,
       "year": 2020,
@@ -3096,6 +4112,31 @@
       "fileSize": 5488804
     },
     {
+      "id": "g3-2020-okinawa-geometry-0626810",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "円錐と内接球（相似・三平方の定理・体積比）",
+      "shortUnit": "円錐と内接球",
+      "tags": [
+        "相似",
+        "三平方の定理",
+        "体積比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-okinawa-geometry-0626810/page-01.jpg?v=57bf2ad8d6927086c78cbcdd9bd0f9c716a96fb8e898f148d34e82c4c90acbc4",
+        "/previews/g3-2020-okinawa-geometry-0626810/page-02.jpg?v=57bf2ad8d6927086c78cbcdd9bd0f9c716a96fb8e898f148d34e82c4c90acbc4",
+        "/previews/g3-2020-okinawa-geometry-0626810/page-03.jpg?v=57bf2ad8d6927086c78cbcdd9bd0f9c716a96fb8e898f148d34e82c4c90acbc4",
+        "/previews/g3-2020-okinawa-geometry-0626810/page-04.jpg?v=57bf2ad8d6927086c78cbcdd9bd0f9c716a96fb8e898f148d34e82c4c90acbc4"
+      ],
+      "contentVersion": "57bf2ad8d6927086c78cbcdd9bd0f9c716a96fb8e898f148d34e82c4c90acbc4",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-okinawa-geometry-0626810.pdf?rev=57bf2ad8d6927086c78cbcdd9bd0f9c716a96fb8e898f148d34e82c4c90acbc4",
+      "pdfFileName": "2020年実施_沖縄県_中3数学_円錐と内接球（相似・三平方の定理・体積比）.pdf",
+      "fileSize": 7141216
+    },
+    {
       "id": "g1-2020-okinawa-geometry-b7f5a7b",
       "grade": 1,
       "year": 2020,
@@ -3117,6 +4158,72 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g1-2020-okinawa-geometry-b7f5a7b.pdf?rev=c7979221da86fdcc5239a76faa303073a96a6c629d39035f864cce4086612344",
       "pdfFileName": "2020年実施_沖縄県_中1数学_作図と対称移動（線分の長さの和）.pdf",
       "fileSize": 6750282
+    },
+    {
+      "id": "g3-2020-gunma-geometry-d30f576",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "円周角と中心角を用いた折り返し図形の面積",
+      "shortUnit": "円周角と中心角を用いた折り返し図形の面積",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-gunma-geometry-d30f576/page-01.jpg?v=50e5b1813144bee31a4ef9e2954408ceba8508426c082891ba652e69724fd7e5",
+        "/previews/g3-2020-gunma-geometry-d30f576/page-02.jpg?v=50e5b1813144bee31a4ef9e2954408ceba8508426c082891ba652e69724fd7e5",
+        "/previews/g3-2020-gunma-geometry-d30f576/page-03.jpg?v=50e5b1813144bee31a4ef9e2954408ceba8508426c082891ba652e69724fd7e5",
+        "/previews/g3-2020-gunma-geometry-d30f576/page-04.jpg?v=50e5b1813144bee31a4ef9e2954408ceba8508426c082891ba652e69724fd7e5"
+      ],
+      "contentVersion": "50e5b1813144bee31a4ef9e2954408ceba8508426c082891ba652e69724fd7e5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-gunma-geometry-d30f576.pdf?rev=50e5b1813144bee31a4ef9e2954408ceba8508426c082891ba652e69724fd7e5",
+      "pdfFileName": "2020年実施_群馬県_中3数学_円周角と中心角を用いた折り返し図形の面積.pdf",
+      "fileSize": 8357961
+    },
+    {
+      "id": "g3-2020-gunma-geometry-25249af",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "相似な立体と円すい（光の広がり・面積）",
+      "shortUnit": "相似な立体と円すい",
+      "tags": [
+        "光の広がり",
+        "面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-gunma-geometry-25249af/page-01.jpg?v=3dbd474bc89b26e0955c803cfe717ff0331b6163bbb42c56684a7a4f8c754c5d",
+        "/previews/g3-2020-gunma-geometry-25249af/page-02.jpg?v=3dbd474bc89b26e0955c803cfe717ff0331b6163bbb42c56684a7a4f8c754c5d",
+        "/previews/g3-2020-gunma-geometry-25249af/page-03.jpg?v=3dbd474bc89b26e0955c803cfe717ff0331b6163bbb42c56684a7a4f8c754c5d",
+        "/previews/g3-2020-gunma-geometry-25249af/page-04.jpg?v=3dbd474bc89b26e0955c803cfe717ff0331b6163bbb42c56684a7a4f8c754c5d"
+      ],
+      "contentVersion": "3dbd474bc89b26e0955c803cfe717ff0331b6163bbb42c56684a7a4f8c754c5d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-gunma-geometry-25249af.pdf?rev=3dbd474bc89b26e0955c803cfe717ff0331b6163bbb42c56684a7a4f8c754c5d",
+      "pdfFileName": "2020年実施_群馬県_中3数学_相似な立体と円すい（光の広がり・面積）.pdf",
+      "fileSize": 6666461
+    },
+    {
+      "id": "g3-2020-gunma-geometry-80b3c88",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "直方体の展開図・三平方の定理と最短距離",
+      "shortUnit": "直方体の展開図・三平方の定理と最短距離",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-gunma-geometry-80b3c88/page-01.jpg?v=6d317d09f3d9054f859186294fee1d7a958c84181556fcd23da5cb08b4195a2b",
+        "/previews/g3-2020-gunma-geometry-80b3c88/page-02.jpg?v=6d317d09f3d9054f859186294fee1d7a958c84181556fcd23da5cb08b4195a2b",
+        "/previews/g3-2020-gunma-geometry-80b3c88/page-03.jpg?v=6d317d09f3d9054f859186294fee1d7a958c84181556fcd23da5cb08b4195a2b",
+        "/previews/g3-2020-gunma-geometry-80b3c88/page-04.jpg?v=6d317d09f3d9054f859186294fee1d7a958c84181556fcd23da5cb08b4195a2b"
+      ],
+      "contentVersion": "6d317d09f3d9054f859186294fee1d7a958c84181556fcd23da5cb08b4195a2b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-gunma-geometry-80b3c88.pdf?rev=6d317d09f3d9054f859186294fee1d7a958c84181556fcd23da5cb08b4195a2b",
+      "pdfFileName": "2020年実施_群馬県_中3数学_直方体の展開図・三平方の定理と最短距離.pdf",
+      "fileSize": 5472370
     },
     {
       "id": "g3-2020-nagano-geometry-4fda7d7",
@@ -3191,6 +4298,27 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-proof-fe426e0.pdf?rev=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
       "pdfFileName": "2020年実施_沖縄県_中2数学_平行四辺形と合同の証明（面積比）.pdf",
       "fileSize": 7253734
+    },
+    {
+      "id": "g3-2020-gunma-proof-b9b0685",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "平行線と線分の比を用いた図形の証明と面積",
+      "shortUnit": "平行線と線分の比を用いた図形の証明と面積",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-gunma-proof-b9b0685/page-01.jpg?v=a1adf9d57f6b61036c4462fbc4fb268cfd3d6c8bcd66c056ba22eb80271ebce8",
+        "/previews/g3-2020-gunma-proof-b9b0685/page-02.jpg?v=a1adf9d57f6b61036c4462fbc4fb268cfd3d6c8bcd66c056ba22eb80271ebce8",
+        "/previews/g3-2020-gunma-proof-b9b0685/page-03.jpg?v=a1adf9d57f6b61036c4462fbc4fb268cfd3d6c8bcd66c056ba22eb80271ebce8",
+        "/previews/g3-2020-gunma-proof-b9b0685/page-04.jpg?v=a1adf9d57f6b61036c4462fbc4fb268cfd3d6c8bcd66c056ba22eb80271ebce8"
+      ],
+      "contentVersion": "a1adf9d57f6b61036c4462fbc4fb268cfd3d6c8bcd66c056ba22eb80271ebce8",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-gunma-proof-b9b0685.pdf?rev=a1adf9d57f6b61036c4462fbc4fb268cfd3d6c8bcd66c056ba22eb80271ebce8",
+      "pdfFileName": "2020年実施_群馬県_中3数学_平行線と線分の比を用いた図形の証明と面積.pdf",
+      "fileSize": 4124044
     },
     {
       "id": "g3-2020-fukuoka-proof-d49d08b",
@@ -3581,6 +4709,52 @@
       "fileSize": 5794259
     },
     {
+      "id": "g3-2019-okinawa-function-bcff94a",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "関数",
+      "unit": "二次関数と直線・面積（放物線・座標・等積条件）",
+      "shortUnit": "二次関数と直線・面積",
+      "tags": [
+        "放物線",
+        "座標",
+        "等積条件"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-okinawa-function-bcff94a/page-01.jpg?v=38c686e42907eb8e47c7b02ff5dcf310c076104d064ea02f3a346238773747d9",
+        "/previews/g3-2019-okinawa-function-bcff94a/page-02.jpg?v=38c686e42907eb8e47c7b02ff5dcf310c076104d064ea02f3a346238773747d9",
+        "/previews/g3-2019-okinawa-function-bcff94a/page-03.jpg?v=38c686e42907eb8e47c7b02ff5dcf310c076104d064ea02f3a346238773747d9",
+        "/previews/g3-2019-okinawa-function-bcff94a/page-04.jpg?v=38c686e42907eb8e47c7b02ff5dcf310c076104d064ea02f3a346238773747d9"
+      ],
+      "contentVersion": "38c686e42907eb8e47c7b02ff5dcf310c076104d064ea02f3a346238773747d9",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-okinawa-function-bcff94a.pdf?rev=38c686e42907eb8e47c7b02ff5dcf310c076104d064ea02f3a346238773747d9",
+      "pdfFileName": "2019年実施_沖縄県_中3数学_二次関数と直線・面積（放物線・座標・等積条件）.pdf",
+      "fileSize": 3678887
+    },
+    {
+      "id": "g3-2019-gunma-function-62c839a",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "関数",
+      "unit": "二次関数と相似を用いた図形の重なりと面積",
+      "shortUnit": "二次関数と相似を用いた図形の重なりと面積",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-gunma-function-62c839a/page-01.jpg?v=8e6474839b678202079ed836f52ad8608c2cc3e7a881e666e4267baed713e43c",
+        "/previews/g3-2019-gunma-function-62c839a/page-02.jpg?v=8e6474839b678202079ed836f52ad8608c2cc3e7a881e666e4267baed713e43c",
+        "/previews/g3-2019-gunma-function-62c839a/page-03.jpg?v=8e6474839b678202079ed836f52ad8608c2cc3e7a881e666e4267baed713e43c",
+        "/previews/g3-2019-gunma-function-62c839a/page-04.jpg?v=8e6474839b678202079ed836f52ad8608c2cc3e7a881e666e4267baed713e43c"
+      ],
+      "contentVersion": "8e6474839b678202079ed836f52ad8608c2cc3e7a881e666e4267baed713e43c",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-gunma-function-62c839a.pdf?rev=8e6474839b678202079ed836f52ad8608c2cc3e7a881e666e4267baed713e43c",
+      "pdfFileName": "2019年実施_群馬県_中3数学_二次関数と相似を用いた図形の重なりと面積.pdf",
+      "fileSize": 6623295
+    },
+    {
       "id": "g2-2019-nagano-function-d0f869f",
       "grade": 2,
       "year": 2019,
@@ -3701,6 +4875,78 @@
       "fileSize": 2312612
     },
     {
+      "id": "g3-2019-okinawa-geometry-78048f9",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "図形",
+      "unit": "正八面体と内接球（三平方の定理・体積）",
+      "shortUnit": "正八面体と内接球",
+      "tags": [
+        "三平方の定理",
+        "体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-okinawa-geometry-78048f9/page-01.jpg?v=840ad868fe60b0684e7cd085a25d8c7e22d44a275615b4555040b5d70de4091f",
+        "/previews/g3-2019-okinawa-geometry-78048f9/page-02.jpg?v=840ad868fe60b0684e7cd085a25d8c7e22d44a275615b4555040b5d70de4091f",
+        "/previews/g3-2019-okinawa-geometry-78048f9/page-03.jpg?v=840ad868fe60b0684e7cd085a25d8c7e22d44a275615b4555040b5d70de4091f",
+        "/previews/g3-2019-okinawa-geometry-78048f9/page-04.jpg?v=840ad868fe60b0684e7cd085a25d8c7e22d44a275615b4555040b5d70de4091f"
+      ],
+      "contentVersion": "840ad868fe60b0684e7cd085a25d8c7e22d44a275615b4555040b5d70de4091f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-okinawa-geometry-78048f9.pdf?rev=840ad868fe60b0684e7cd085a25d8c7e22d44a275615b4555040b5d70de4091f",
+      "pdfFileName": "2019年実施_沖縄県_中3数学_正八面体と内接球（三平方の定理・体積）.pdf",
+      "fileSize": 4970122
+    },
+    {
+      "id": "g3-2019-gunma-geometry-3d58d5d",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "折り返し図形と三平方の定理（証明・線分の長さ）",
+      "shortUnit": "折り返し図形と三平方の定理",
+      "tags": [
+        "証明",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-gunma-geometry-3d58d5d/page-01.jpg?v=0c5d981925c49bc388105e18a9392f4b54880b82e99afa8d1576bd64220a3b43",
+        "/previews/g3-2019-gunma-geometry-3d58d5d/page-02.jpg?v=0c5d981925c49bc388105e18a9392f4b54880b82e99afa8d1576bd64220a3b43",
+        "/previews/g3-2019-gunma-geometry-3d58d5d/page-03.jpg?v=0c5d981925c49bc388105e18a9392f4b54880b82e99afa8d1576bd64220a3b43",
+        "/previews/g3-2019-gunma-geometry-3d58d5d/page-04.jpg?v=0c5d981925c49bc388105e18a9392f4b54880b82e99afa8d1576bd64220a3b43"
+      ],
+      "contentVersion": "0c5d981925c49bc388105e18a9392f4b54880b82e99afa8d1576bd64220a3b43",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-gunma-geometry-3d58d5d.pdf?rev=0c5d981925c49bc388105e18a9392f4b54880b82e99afa8d1576bd64220a3b43",
+      "pdfFileName": "2019年実施_群馬県_中3数学_折り返し図形と三平方の定理（証明・線分の長さ）.pdf",
+      "fileSize": 2733283
+    },
+    {
+      "id": "g3-2019-gunma-geometry-c923de1",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "相似と面積比（格子状道路・最短経路）",
+      "shortUnit": "相似と面積比",
+      "tags": [
+        "格子状道路",
+        "最短経路"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-gunma-geometry-c923de1/page-01.jpg?v=ad8bf4acd6c3853021e468acb15464fdb91c3d418e0bc619ad17fc65a728916f",
+        "/previews/g3-2019-gunma-geometry-c923de1/page-02.jpg?v=ad8bf4acd6c3853021e468acb15464fdb91c3d418e0bc619ad17fc65a728916f",
+        "/previews/g3-2019-gunma-geometry-c923de1/page-03.jpg?v=ad8bf4acd6c3853021e468acb15464fdb91c3d418e0bc619ad17fc65a728916f",
+        "/previews/g3-2019-gunma-geometry-c923de1/page-04.jpg?v=ad8bf4acd6c3853021e468acb15464fdb91c3d418e0bc619ad17fc65a728916f"
+      ],
+      "contentVersion": "ad8bf4acd6c3853021e468acb15464fdb91c3d418e0bc619ad17fc65a728916f",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-gunma-geometry-c923de1.pdf?rev=ad8bf4acd6c3853021e468acb15464fdb91c3d418e0bc619ad17fc65a728916f",
+      "pdfFileName": "2019年実施_群馬県_中3数学_相似と面積比（格子状道路・最短経路）.pdf",
+      "fileSize": 5146981
+    },
+    {
       "id": "g3-2019-nagano-geometry-6bc4b68",
       "grade": 3,
       "year": 2019,
@@ -3751,6 +4997,31 @@
       "fileSize": 4878412
     },
     {
+      "id": "g3-2019-okinawa-proof-590b263",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "沖縄県",
+      "field": "図形の証明",
+      "unit": "円周角と相似の証明（交わる弦・線分比・面積比）",
+      "shortUnit": "円周角と相似の証明",
+      "tags": [
+        "交わる弦",
+        "線分比",
+        "面積比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-okinawa-proof-590b263/page-01.jpg?v=18da5c0cb9d03350eb464df8c01c4e1e292c88865da11abd661e64f8fe9c715d",
+        "/previews/g3-2019-okinawa-proof-590b263/page-02.jpg?v=18da5c0cb9d03350eb464df8c01c4e1e292c88865da11abd661e64f8fe9c715d",
+        "/previews/g3-2019-okinawa-proof-590b263/page-03.jpg?v=18da5c0cb9d03350eb464df8c01c4e1e292c88865da11abd661e64f8fe9c715d",
+        "/previews/g3-2019-okinawa-proof-590b263/page-04.jpg?v=18da5c0cb9d03350eb464df8c01c4e1e292c88865da11abd661e64f8fe9c715d"
+      ],
+      "contentVersion": "18da5c0cb9d03350eb464df8c01c4e1e292c88865da11abd661e64f8fe9c715d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-okinawa-proof-590b263.pdf?rev=18da5c0cb9d03350eb464df8c01c4e1e292c88865da11abd661e64f8fe9c715d",
+      "pdfFileName": "2019年実施_沖縄県_中3数学_円周角と相似の証明（交わる弦・線分比・面積比）.pdf",
+      "fileSize": 4847074
+    },
+    {
       "id": "g2-2019-gunma-proof-598ce98",
       "grade": 2,
       "year": 2019,
@@ -3770,6 +5041,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gunma-proof-598ce98.pdf?rev=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
       "pdfFileName": "2019年実施_群馬県_中2数学_角の二等分線の作図と垂直であることの証明.pdf",
       "fileSize": 3629171
+    },
+    {
+      "id": "g3-2019-gunma-proof-7154b48",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "相似の証明と面積比（平行四辺形）",
+      "shortUnit": "相似の証明と面積比",
+      "tags": [
+        "平行四辺形"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-gunma-proof-7154b48/page-01.jpg?v=ccdbf0f5c811fc20241f6b38f8952a8fa824cb8f2365647cb0078c3194c9af2a",
+        "/previews/g3-2019-gunma-proof-7154b48/page-02.jpg?v=ccdbf0f5c811fc20241f6b38f8952a8fa824cb8f2365647cb0078c3194c9af2a",
+        "/previews/g3-2019-gunma-proof-7154b48/page-03.jpg?v=ccdbf0f5c811fc20241f6b38f8952a8fa824cb8f2365647cb0078c3194c9af2a",
+        "/previews/g3-2019-gunma-proof-7154b48/page-04.jpg?v=ccdbf0f5c811fc20241f6b38f8952a8fa824cb8f2365647cb0078c3194c9af2a"
+      ],
+      "contentVersion": "ccdbf0f5c811fc20241f6b38f8952a8fa824cb8f2365647cb0078c3194c9af2a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-gunma-proof-7154b48.pdf?rev=ccdbf0f5c811fc20241f6b38f8952a8fa824cb8f2365647cb0078c3194c9af2a",
+      "pdfFileName": "2019年実施_群馬県_中3数学_相似の証明と面積比（平行四辺形）.pdf",
+      "fileSize": 3059390
     },
     {
       "id": "g3-2019-fukuoka-proof-2702c3d",
@@ -4136,6 +5430,30 @@
       "fileSize": 11582547
     },
     {
+      "id": "g3-2018-gunma-geometry-c975428",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "円の接線と三平方の定理（半円・面積）",
+      "shortUnit": "円の接線と三平方の定理",
+      "tags": [
+        "半円",
+        "面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2018-gunma-geometry-c975428/page-01.jpg?v=951e4f0f59a1df6da8368b805c0783fb4782a82135ba85a2ca289bf08c736aa5",
+        "/previews/g3-2018-gunma-geometry-c975428/page-02.jpg?v=951e4f0f59a1df6da8368b805c0783fb4782a82135ba85a2ca289bf08c736aa5",
+        "/previews/g3-2018-gunma-geometry-c975428/page-03.jpg?v=951e4f0f59a1df6da8368b805c0783fb4782a82135ba85a2ca289bf08c736aa5",
+        "/previews/g3-2018-gunma-geometry-c975428/page-04.jpg?v=951e4f0f59a1df6da8368b805c0783fb4782a82135ba85a2ca289bf08c736aa5"
+      ],
+      "contentVersion": "951e4f0f59a1df6da8368b805c0783fb4782a82135ba85a2ca289bf08c736aa5",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-gunma-geometry-c975428.pdf?rev=951e4f0f59a1df6da8368b805c0783fb4782a82135ba85a2ca289bf08c736aa5",
+      "pdfFileName": "2018年実施_群馬県_中3数学_円の接線と三平方の定理（半円・面積）.pdf",
+      "fileSize": 6139795
+    },
+    {
       "id": "g3-2018-nagano-geometry-4fda7d7",
       "grade": 3,
       "year": 2018,
@@ -4448,6 +5766,50 @@
       "fileSize": 3810340
     },
     {
+      "id": "g3-2017-gunma-pattern-255c177",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "規則性",
+      "unit": "式の展開・因数分解と二次方程式を用いた数の規則性",
+      "shortUnit": "式の展開・因数分解と二次方程式を用いた数の規則性",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2017-gunma-pattern-255c177/page-01.jpg?v=4679eeb90618bad33ca34cc6a63e95d8020cb6f88ade15a033923e598ff7c800",
+        "/previews/g3-2017-gunma-pattern-255c177/page-02.jpg?v=4679eeb90618bad33ca34cc6a63e95d8020cb6f88ade15a033923e598ff7c800",
+        "/previews/g3-2017-gunma-pattern-255c177/page-03.jpg?v=4679eeb90618bad33ca34cc6a63e95d8020cb6f88ade15a033923e598ff7c800",
+        "/previews/g3-2017-gunma-pattern-255c177/page-04.jpg?v=4679eeb90618bad33ca34cc6a63e95d8020cb6f88ade15a033923e598ff7c800"
+      ],
+      "contentVersion": "4679eeb90618bad33ca34cc6a63e95d8020cb6f88ade15a033923e598ff7c800",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-gunma-pattern-255c177.pdf?rev=4679eeb90618bad33ca34cc6a63e95d8020cb6f88ade15a033923e598ff7c800",
+      "pdfFileName": "2017年実施_群馬県_中3数学_式の展開・因数分解と二次方程式を用いた数の規則性.pdf",
+      "fileSize": 3292885
+    },
+    {
+      "id": "g3-2017-gunma-function-6f0b4fb",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "関数",
+      "unit": "二次関数の利用（振り子の長さと往復時間）",
+      "shortUnit": "二次関数の利用",
+      "tags": [
+        "振り子の長さと往復時間"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2017-gunma-function-6f0b4fb/page-01.jpg?v=bc690ff52d72c07e676dd0ab7049f371f6f2f83522269c4d65047b6d5c18c870",
+        "/previews/g3-2017-gunma-function-6f0b4fb/page-02.jpg?v=bc690ff52d72c07e676dd0ab7049f371f6f2f83522269c4d65047b6d5c18c870",
+        "/previews/g3-2017-gunma-function-6f0b4fb/page-03.jpg?v=bc690ff52d72c07e676dd0ab7049f371f6f2f83522269c4d65047b6d5c18c870",
+        "/previews/g3-2017-gunma-function-6f0b4fb/page-04.jpg?v=bc690ff52d72c07e676dd0ab7049f371f6f2f83522269c4d65047b6d5c18c870"
+      ],
+      "contentVersion": "bc690ff52d72c07e676dd0ab7049f371f6f2f83522269c4d65047b6d5c18c870",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-gunma-function-6f0b4fb.pdf?rev=bc690ff52d72c07e676dd0ab7049f371f6f2f83522269c4d65047b6d5c18c870",
+      "pdfFileName": "2017年実施_群馬県_中3数学_二次関数の利用（振り子の長さと往復時間）.pdf",
+      "fileSize": 2783777
+    },
+    {
       "id": "g3-2017-nagano-function-522cbf4",
       "grade": 3,
       "year": 2017,
@@ -4520,6 +5882,27 @@
       "fileSize": 2879751
     },
     {
+      "id": "g3-2017-gunma-geometry-6cd24ab",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "図形",
+      "unit": "正四角すいの相似・三平方の定理と最短距離",
+      "shortUnit": "正四角すいの相似・三平方の定理と最短距離",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2017-gunma-geometry-6cd24ab/page-01.jpg?v=2e80af60610a39fc99da9a340d180e5762ea179578a07ba0f806ef8056d2e872",
+        "/previews/g3-2017-gunma-geometry-6cd24ab/page-02.jpg?v=2e80af60610a39fc99da9a340d180e5762ea179578a07ba0f806ef8056d2e872",
+        "/previews/g3-2017-gunma-geometry-6cd24ab/page-03.jpg?v=2e80af60610a39fc99da9a340d180e5762ea179578a07ba0f806ef8056d2e872",
+        "/previews/g3-2017-gunma-geometry-6cd24ab/page-04.jpg?v=2e80af60610a39fc99da9a340d180e5762ea179578a07ba0f806ef8056d2e872"
+      ],
+      "contentVersion": "2e80af60610a39fc99da9a340d180e5762ea179578a07ba0f806ef8056d2e872",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-gunma-geometry-6cd24ab.pdf?rev=2e80af60610a39fc99da9a340d180e5762ea179578a07ba0f806ef8056d2e872",
+      "pdfFileName": "2017年実施_群馬県_中3数学_正四角すいの相似・三平方の定理と最短距離.pdf",
+      "fileSize": 5775552
+    },
+    {
       "id": "g3-2017-nagano-geometry-417b2fa",
       "grade": 3,
       "year": 2017,
@@ -4572,6 +5955,27 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-fukuoka-geometry-f8c4ea4.pdf?rev=4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168",
       "pdfFileName": "2017年実施_福岡県_中3数学_空間図形と三平方の定理（正六角柱・体積・線分の長さ）.pdf",
       "fileSize": 4264312
+    },
+    {
+      "id": "g3-2017-gunma-proof-917a064",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "群馬県",
+      "field": "図形の証明",
+      "unit": "円周角と弧を用いた正方形の回転の証明",
+      "shortUnit": "円周角と弧を用いた正方形の回転の証明",
+      "tags": [],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2017-gunma-proof-917a064/page-01.jpg?v=ea4c990c9b6e2c750426dd353ae1ee28f4c5f62b89c8aac1d0d2326f2240605a",
+        "/previews/g3-2017-gunma-proof-917a064/page-02.jpg?v=ea4c990c9b6e2c750426dd353ae1ee28f4c5f62b89c8aac1d0d2326f2240605a",
+        "/previews/g3-2017-gunma-proof-917a064/page-03.jpg?v=ea4c990c9b6e2c750426dd353ae1ee28f4c5f62b89c8aac1d0d2326f2240605a",
+        "/previews/g3-2017-gunma-proof-917a064/page-04.jpg?v=ea4c990c9b6e2c750426dd353ae1ee28f4c5f62b89c8aac1d0d2326f2240605a"
+      ],
+      "contentVersion": "ea4c990c9b6e2c750426dd353ae1ee28f4c5f62b89c8aac1d0d2326f2240605a",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-gunma-proof-917a064.pdf?rev=ea4c990c9b6e2c750426dd353ae1ee28f4c5f62b89c8aac1d0d2326f2240605a",
+      "pdfFileName": "2017年実施_群馬県_中3数学_円周角と弧を用いた正方形の回転の証明.pdf",
+      "fileSize": 3711452
     },
     {
       "id": "g2-2017-gunma-proof-6536242",

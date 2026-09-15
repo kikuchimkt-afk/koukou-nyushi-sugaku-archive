@@ -1,4 +1,4 @@
-"""沖縄県・数学 採用27題の150dpi基準切り出し設定。
+"""沖縄県・数学 採用50題の150dpi基準切り出し設定。
 
 問題・正解・解説は ``D:\\Files\\(高校入試)沖縄県`` のローカル原本を使う。
 2019年だけ問題・正解・解説が合本 ``2019.pdf``、2020年以降は年度別の
@@ -91,10 +91,11 @@ def config(
     problem: list[dict],
     answer_sheet: list[dict],
     explanation: list[dict],
+    detail_unit: str | None = None,
     science_dpi: int | None = None,
 ) -> dict:
     scale = ANSWER_SCALES[year]
-    return {
+    result = {
         "slug": f"okinawa_q{question}_{year}_math",
         "year": year,
         "grade": grade,
@@ -118,6 +119,9 @@ def config(
         "answers": WHOLE_ANSWERS[year],
         "explanation": explanation,
     }
+    if detail_unit is not None:
+        result["detail_unit"] = detail_unit
+    return result
 
 
 CONFIGS = [
@@ -170,6 +174,48 @@ CONFIGS = [
         explanation=[
             fragment(45, (105, 1190, 970, 1450), (1075, 1518)),
             fragment(46, (105, 145, 970, 510), (1075, 1518)),
+        ],
+    ),
+    config(
+        year=2019,
+        question=7,
+        grade=3,
+        field="関数",
+        detail_unit="二次関数と直線・面積（放物線・座標・等積条件）",
+        filename_unit="二次関数と直線・面積（放物線・座標・等積条件）",
+        stamp="二次関数と直線・面積 - 放物線、座標、等積条件",
+        problem=[fragment(4, (120, 220, 970, 675), (1075, 1518))],
+        answer_sheet=[answer_fragment((489, 581, 775, 727))],
+        explanation=[fragment(46, (105, 510, 970, 917), (1075, 1518))],
+    ),
+    config(
+        year=2019,
+        question=8,
+        grade=3,
+        field="図形の証明",
+        detail_unit="円周角と相似の証明（交わる弦・線分比・面積比）",
+        filename_unit="円周角と相似の証明（交わる弦・線分比・面積比）",
+        stamp="円周角と相似の証明 - 交わる弦、線分比、面積比",
+        problem=[
+            fragment(4, (120, 675, 970, 1450), (1075, 1518)),
+            fragment(5, (120, 140, 970, 325), (1075, 1518)),
+        ],
+        answer_sheet=[answer_fragment((489, 726, 900, 1088))],
+        explanation=[fragment(46, (105, 917, 970, 1187), (1075, 1518))],
+    ),
+    config(
+        year=2019,
+        question=9,
+        grade=3,
+        field="図形",
+        detail_unit="正八面体と内接球（三平方の定理・体積）",
+        filename_unit="正八面体と内接球（三平方の定理・体積）",
+        stamp="正八面体と内接球 - 三平方の定理、体積",
+        problem=[fragment(5, (120, 325, 970, 1085), (1075, 1518))],
+        answer_sheet=[answer_fragment((489, 1087, 775, 1196))],
+        explanation=[
+            fragment(46, (105, 1187, 970, 1450), (1075, 1518)),
+            fragment(47, (105, 145, 970, 490), (1075, 1518)),
         ],
     ),
     config(
@@ -250,6 +296,18 @@ CONFIGS = [
     ),
     config(
         year=2020,
+        question=7,
+        grade=3,
+        field="関数",
+        detail_unit="反比例と円・直線（接する円・座標・平方根）",
+        filename_unit="反比例と円・直線（接する円・座標・平方根）",
+        stamp="反比例と円・直線 - 接する円、座標、平方根",
+        problem=[fragment(5, (110, 220, 950, 1035), (1020, 1526))],
+        answer_sheet=[answer_fragment((490, 643, 769, 787))],
+        explanation=[fragment(12, (105, 655, 960, 1115), (1018, 1524))],
+    ),
+    config(
+        year=2020,
         question=8,
         grade=2,
         field="図形の証明",
@@ -264,6 +322,21 @@ CONFIGS = [
             fragment(12, (105, 1115, 960, 1450), (1018, 1524)),
             fragment(13, (105, 160, 920, 245), (1019, 1522)),
         ],
+    ),
+    config(
+        year=2020,
+        question=9,
+        grade=3,
+        field="図形",
+        detail_unit="円錐と内接球（相似・三平方の定理・体積比）",
+        filename_unit="円錐と内接球（相似・三平方の定理・体積比）",
+        stamp="円錐と内接球 - 相似、三平方の定理、体積比",
+        problem=[
+            fragment(6, (70, 825, 920, 1450), (1014, 1522)),
+            fragment(7, (110, 145, 950, 520), (1019, 1525)),
+        ],
+        answer_sheet=[answer_fragment((490, 1105, 771, 1214))],
+        explanation=[fragment(13, (105, 245, 920, 1050), (1019, 1522))],
     ),
     config(
         year=2020,
@@ -322,6 +395,69 @@ CONFIGS = [
     ),
     config(
         year=2021,
+        question=6,
+        grade=3,
+        field="関数",
+        detail_unit="二次関数と動点（直角二等辺三角形・面積・グラフ）",
+        filename_unit="二次関数と動点（直角二等辺三角形・面積・グラフ）",
+        stamp="二次関数と動点 - 直角二等辺三角形、面積、グラフ",
+        problem=[
+            fragment(4, (110, 575, 950, 1410), (1021, 1527)),
+            fragment(5, (80, 145, 920, 560), (1019, 1526)),
+        ],
+        answer_sheet=[answer_fragment((492, 479, 775, 625))],
+        explanation=[
+            fragment(10, (105, 1290, 960, 1450), (1018, 1526)),
+            fragment(11, (65, 145, 920, 295), (1018, 1523)),
+        ],
+    ),
+    config(
+        year=2021,
+        question=7,
+        grade=3,
+        field="関数",
+        detail_unit="二次関数と直線・面積（放物線・座標・平方根）",
+        filename_unit="二次関数と直線・面積（放物線・座標・平方根）",
+        stamp="二次関数と直線・面積 - 放物線、座標、平方根",
+        problem=[fragment(5, (80, 560, 920, 1040), (1019, 1526))],
+        answer_sheet=[answer_fragment((492, 624, 775, 769))],
+        explanation=[fragment(11, (65, 295, 920, 735), (1018, 1523))],
+    ),
+    config(
+        year=2021,
+        question=8,
+        grade=3,
+        field="図形の証明",
+        detail_unit="正五角形と円（円周角・相似の証明・線分の長さ）",
+        filename_unit="正五角形と円（円周角・相似の証明・線分の長さ）",
+        stamp="正五角形と円 - 円周角、相似の証明、線分の長さ",
+        problem=[
+            fragment(5, (80, 1040, 920, 1410), (1019, 1526)),
+            fragment(6, (80, 145, 950, 785), (1021, 1527)),
+        ],
+        answer_sheet=[answer_fragment((492, 767, 920, 1130))],
+        explanation=[fragment(11, (65, 735, 920, 1130), (1018, 1523))],
+    ),
+    config(
+        year=2021,
+        question=9,
+        grade=3,
+        field="図形",
+        detail_unit="四角錐の切断（平行線と線分比・体積）",
+        filename_unit="四角錐の切断（平行線と線分比・体積）",
+        stamp="四角錐の切断 - 平行線と線分比、体積",
+        problem=[
+            fragment(6, (80, 785, 950, 1410), (1021, 1527)),
+            fragment(7, (80, 145, 920, 490), (1019, 1525)),
+        ],
+        answer_sheet=[answer_fragment((492, 1128, 778, 1273))],
+        explanation=[
+            fragment(11, (65, 1130, 920, 1450), (1018, 1523)),
+            fragment(12, (105, 145, 960, 400), (1019, 1526)),
+        ],
+    ),
+    config(
+        year=2021,
         question=10,
         grade=1,
         field="数と式",
@@ -363,6 +499,21 @@ CONFIGS = [
     ),
     config(
         year=2022,
+        question=5,
+        grade=3,
+        field="数と式",
+        detail_unit="因数分解と自然数（平方の差・整数の組）",
+        filename_unit="因数分解と自然数（平方の差・整数の組）",
+        stamp="因数分解と自然数 - 平方の差、整数の組",
+        problem=[
+            fragment(3, (115, 1165, 950, 1410), (1019, 1525)),
+            fragment(4, (70, 145, 920, 905), (1021, 1524)),
+        ],
+        answer_sheet=[answer_fragment((493, 348, 790, 501))],
+        explanation=[fragment(9, (105, 720, 960, 970), (1017, 1525))],
+    ),
+    config(
+        year=2022,
         question=6,
         grade=2,
         field="関数",
@@ -377,6 +528,36 @@ CONFIGS = [
     ),
     config(
         year=2022,
+        question=7,
+        grade=3,
+        field="関数",
+        detail_unit="二次関数と直線・面積（変域・変化の割合・座標）",
+        filename_unit="二次関数と直線・面積（変域・変化の割合・座標）",
+        stamp="二次関数と直線・面積 - 変域、変化の割合、座標",
+        problem=[fragment(5, (70, 750, 920, 1195), (1019, 1525))],
+        answer_sheet=[answer_fragment((493, 613, 790, 766))],
+        explanation=[
+            fragment(9, (105, 1300, 960, 1450), (1017, 1525)),
+            fragment(10, (65, 145, 920, 370), (1022, 1523)),
+        ],
+    ),
+    config(
+        year=2022,
+        question=8,
+        grade=3,
+        field="図形の証明",
+        detail_unit="平行線と相似の証明（線分比・面積比）",
+        filename_unit="平行線と相似の証明（線分比・面積比）",
+        stamp="平行線と相似の証明 - 線分比、面積比",
+        problem=[
+            fragment(5, (70, 1195, 920, 1410), (1019, 1525)),
+            fragment(6, (70, 145, 920, 620), (1019, 1525)),
+        ],
+        answer_sheet=[answer_fragment((493, 764, 940, 1088))],
+        explanation=[fragment(10, (65, 370, 920, 845), (1022, 1523))],
+    ),
+    config(
+        year=2022,
         question=9,
         grade=1,
         field="図形",
@@ -385,6 +566,21 @@ CONFIGS = [
         problem=[fragment(6, (70, 620, 920, 1150), (1019, 1525))],
         answer_sheet=[answer_fragment((493, 1086, 790, 1238))],
         explanation=[fragment(10, (65, 845, 920, 1090), (1022, 1523))],
+    ),
+    config(
+        year=2022,
+        question=10,
+        grade=3,
+        field="数と式",
+        detail_unit="式の展開と二次方程式（計算カード・操作の順序）",
+        filename_unit="式の展開と二次方程式（計算カード・操作の順序）",
+        stamp="式の展開と二次方程式 - 計算カード、操作の順序",
+        problem=[
+            fragment(6, (70, 1150, 920, 1410), (1019, 1525)),
+            fragment(7, (70, 145, 920, 930), (1019, 1525)),
+        ],
+        answer_sheet=[answer_fragment((493, 1235, 790, 1388))],
+        explanation=[fragment(10, (65, 1090, 920, 1320), (1022, 1523))],
     ),
 
     # 2023年
@@ -429,6 +625,21 @@ CONFIGS = [
     ),
     config(
         year=2023,
+        question=6,
+        grade=3,
+        field="数と式",
+        detail_unit="式の展開と文字式の証明（連続する奇数・平方の差）",
+        filename_unit="式の展開と文字式の証明（連続する奇数・平方の差）",
+        stamp="式の展開と文字式の証明 - 連続する奇数、平方の差",
+        problem=[
+            fragment(4, (50, 570, 920, 1410), (1023, 1521)),
+            fragment(5, (115, 145, 950, 390), (1022, 1523)),
+        ],
+        answer_sheet=[answer_fragment((469, 892, 985, 1233))],
+        explanation=[fragment(10, (105, 1210, 960, 1450), (1020, 1523))],
+    ),
+    config(
+        year=2023,
         question=7,
         grade=1,
         field="図形",
@@ -437,6 +648,66 @@ CONFIGS = [
         problem=[fragment(5, (115, 390, 950, 690), (1022, 1523))],
         answer_sheet=[answer_fragment((93, 1157, 427, 1422))],
         explanation=[fragment(11, (65, 165, 920, 305), (1020, 1521))],
+    ),
+    config(
+        year=2023,
+        question=8,
+        grade=3,
+        field="関数",
+        detail_unit="二次関数と直線・面積（変化の割合・等積条件）",
+        filename_unit="二次関数と直線・面積（変化の割合・等積条件）",
+        stamp="二次関数と直線・面積 - 変化の割合、等積条件",
+        problem=[fragment(5, (115, 690, 950, 1410), (1022, 1523))],
+        answer_sheet=[answer_fragment((469, 324, 790, 478))],
+        explanation=[fragment(11, (65, 305, 920, 725), (1020, 1521))],
+    ),
+    config(
+        year=2023,
+        question=9,
+        grade=3,
+        field="図形の証明",
+        detail_unit="合同と相似の証明（平行線・線分比）",
+        filename_unit="合同と相似の証明（平行線・線分比）",
+        stamp="合同と相似の証明 - 平行線、線分比",
+        problem=[fragment(6, (80, 135, 920, 808), (1022, 1523))],
+        answer_sheet=[
+            answer_fragment((469, 476, 790, 592)),
+            answer_fragment((469, 1232, 985, 1421)),
+        ],
+        explanation=[fragment(11, (65, 725, 920, 1090), (1020, 1521))],
+    ),
+    config(
+        year=2023,
+        question=10,
+        grade=3,
+        field="図形",
+        detail_unit="四角錐と三平方の定理（円周角・体積・最短距離）",
+        filename_unit="四角錐と三平方の定理（円周角・体積・最短距離）",
+        stamp="四角錐と三平方の定理 - 円周角、体積、最短距離",
+        problem=[
+            fragment(6, (80, 808, 920, 1410), (1022, 1523)),
+            fragment(7, (80, 145, 920, 580), (1021, 1523)),
+        ],
+        answer_sheet=[answer_fragment((469, 590, 790, 743))],
+        explanation=[
+            fragment(11, (65, 1090, 920, 1450), (1020, 1521)),
+            fragment(12, (105, 145, 960, 550), (1020, 1523)),
+        ],
+    ),
+    config(
+        year=2023,
+        question=11,
+        grade=3,
+        field="数と式",
+        detail_unit="二次方程式と規則性（正多角形・碁石の個数）",
+        filename_unit="二次方程式と規則性（正多角形・碁石の個数）",
+        stamp="二次方程式と規則性 - 正多角形、碁石の個数",
+        problem=[
+            fragment(7, (80, 580, 920, 1410), (1021, 1523)),
+            fragment(8, (80, 145, 920, 445), (1022, 1522)),
+        ],
+        answer_sheet=[answer_fragment((469, 741, 790, 819))],
+        explanation=[fragment(12, (105, 550, 960, 810), (1020, 1523))],
     ),
 
     # 2024年
@@ -481,6 +752,26 @@ CONFIGS = [
     ),
     config(
         year=2024,
+        question=6,
+        grade=3,
+        field="数と式",
+        detail_unit="式の展開と文字式の証明（数表・積の差）",
+        filename_unit="式の展開と文字式の証明（数表・積の差）",
+        stamp="式の展開と文字式の証明 - 数表、積の差",
+        problem=[
+            fragment(4, (50, 915, 920, 1410), (1025, 1524)),
+            fragment(5, (115, 145, 950, 1035), (1024, 1525)),
+        ],
+        answer_sheet=[answer_fragment((469, 921, 970, 1199))],
+        explanation=[
+            {
+                **fragment(11, (65, 160, 920, 380), (1023, 1521)),
+                "white_masks": [[0.68, 0.89, 1.0, 1.0]],
+            }
+        ],
+    ),
+    config(
+        year=2024,
         question=7,
         grade=1,
         field="図形",
@@ -493,5 +784,62 @@ CONFIGS = [
             fragment(11, (620, 360, 920, 625), (1023, 1521)),
         ],
         science_dpi=2300,
+    ),
+    config(
+        year=2024,
+        question=8,
+        grade=3,
+        field="関数",
+        detail_unit="二次関数と直線（変化の割合・最短距離）",
+        filename_unit="二次関数と直線（変化の割合・最短距離）",
+        stamp="二次関数と直線 - 変化の割合、最短距離",
+        problem=[fragment(6, (90, 140, 920, 652), (1025, 1522))],
+        answer_sheet=[answer_fragment((475, 329, 783, 480))],
+        explanation=[fragment(11, (65, 625, 920, 1065), (1023, 1521))],
+    ),
+    config(
+        year=2024,
+        question=9,
+        grade=3,
+        field="図形の証明",
+        detail_unit="合同の証明と円周角の定理の逆（二等辺三角形・角度）",
+        filename_unit="合同の証明と円周角の定理の逆（二等辺三角形・角度）",
+        stamp="合同の証明と円周角の定理の逆 - 二等辺三角形、角度",
+        problem=[fragment(6, (90, 652, 920, 1410), (1025, 1522))],
+        answer_sheet=[
+            answer_fragment((475, 478, 783, 591)),
+            answer_fragment((469, 1198, 970, 1382)),
+        ],
+        explanation=[fragment(11, (65, 1065, 920, 1395), (1023, 1521))],
+    ),
+    config(
+        year=2024,
+        question=10,
+        grade=3,
+        field="図形",
+        detail_unit="円錐と三平方の定理（相似・円周・側面積）",
+        filename_unit="円錐と三平方の定理（相似・円周・側面積）",
+        stamp="円錐と三平方の定理 - 相似、円周、側面積",
+        problem=[fragment(7, (90, 140, 920, 1067), (1026, 1525))],
+        answer_sheet=[answer_fragment((475, 589, 783, 702))],
+        explanation=[
+            fragment(11, (65, 1395, 920, 1450), (1023, 1521)),
+            fragment(12, (105, 145, 960, 415), (1023, 1523)),
+        ],
+    ),
+    config(
+        year=2024,
+        question=11,
+        grade=3,
+        field="数と式",
+        detail_unit="二次方程式と規則性（ビーズ・袋・小箱）",
+        filename_unit="二次方程式と規則性（ビーズ・袋・小箱）",
+        stamp="二次方程式と規則性 - ビーズ、袋、小箱",
+        problem=[
+            fragment(7, (90, 1067, 920, 1410), (1026, 1525)),
+            fragment(8, (90, 145, 920, 1080), (1023, 1522)),
+        ],
+        answer_sheet=[answer_fragment((475, 700, 783, 850))],
+        explanation=[fragment(12, (105, 415, 960, 700), (1023, 1523))],
     ),
 ]
