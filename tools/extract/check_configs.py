@@ -21,13 +21,13 @@ FIELDS = {
     "図形の証明",
     "データの活用",
 }
-EXPECTED_CONFIG_COUNT = 172
+EXPECTED_CONFIG_COUNT = 193
 EXPECTED_BY_PREFECTURE = {
     "北海道": 20,
     "青森県": 4,
-    "福岡県": 11,
+    "福岡県": 25,
     "福島県": 10,
-    "長野県": 3,
+    "長野県": 10,
     "群馬県": 20,
     "岐阜県": 14,
     "沖縄県": 27,
@@ -49,9 +49,11 @@ EXPECTED_BY_GRADE_FIELD = {
     (2, "図形"): 3,
     (2, "図形の証明"): 14,
     (2, "データの活用"): 25,
-    (3, "数と式"): 2,
-    (3, "関数"): 6,
-    (3, "図形の証明"): 4,
+    (3, "数と式"): 5,
+    (3, "方程式の利用"): 1,
+    (3, "関数"): 8,
+    (3, "図形"): 10,
+    (3, "図形の証明"): 9,
     (3, "データの活用"): 1,
 }
 EXPECTED_SELECTION = {
@@ -159,6 +161,20 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "fukushima_q5_2022",
     "fukushima_q5_2024",
     "fukushima_q5_2025",
+    "fukuoka_q2_2018",
+    "fukuoka_q2_2020",
+    "fukuoka_q3_2017",
+    "fukuoka_q3_2021",
+    "fukuoka_q5_2017",
+    "fukuoka_q5_2018",
+    "fukuoka_q5_2019",
+    "fukuoka_q5_2020",
+    "fukuoka_q5_2021",
+    "fukuoka_q6_2017",
+    "fukuoka_q6_2018",
+    "fukuoka_q6_2019",
+    "fukuoka_q6_2020",
+    "fukuoka_q6_2021",
     "gifu_q2_2018",
     "gifu_q2_2020",
     "gifu_q2_2021",
@@ -242,6 +258,13 @@ EXPECTED_ADDITIONAL_SLUGS = {
     "iwate_q9_2021",
     "iwate_q9_2022",
     "iwate_q9_2025",
+    "nagano_2017_q3",
+    "nagano_2017_q4",
+    "nagano_2018_q4",
+    "nagano_2019_q4",
+    "nagano_2020_q4",
+    "nagano_2021_q3",
+    "nagano_2021_q4",
     "okinawa_q10_2019_math",
     "okinawa_q10_2020_math",
     "okinawa_q10_2021_math",
@@ -311,7 +334,7 @@ ADDITIONAL_SELECTION_KEYS = (
     "explanation_source_pdf",
 )
 EXPECTED_ADDITIONAL_SELECTION_SHA256 = (
-    "a8ee393eff9875d191ab5b4c9721d5cb889b730168e5502834c5d6242851828b"
+    "2964b0e3b2660e8c5472cdf3565511ada510e12168b8835baa1b6e86025ad8fb"
 )
 REQUIRED_KEYS = {
     "slug",

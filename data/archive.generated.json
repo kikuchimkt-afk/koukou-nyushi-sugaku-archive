@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T09:57:37.643Z",
+  "generatedAt": "2026-09-15T06:12:30.383Z",
   "releaseTag": "pdfs-v1",
-  "totalItems": 172,
-  "totalPages": 722,
+  "totalItems": 193,
+  "totalPages": 822,
   "items": [
     {
       "id": "g2-2025-iwate-algebra-3de8aef",
@@ -1933,6 +1933,31 @@
       "fileSize": 1521833
     },
     {
+      "id": "g3-2021-fukuoka-algebra-fbf443c",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "数と式",
+      "unit": "式の展開と数の性質（連続する偶数・整数と平方数）",
+      "shortUnit": "式の展開と数の性質",
+      "tags": [
+        "連続する偶数",
+        "整数と平方数"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2021-fukuoka-algebra-fbf443c/page-01.jpg?v=2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886",
+        "/previews/g3-2021-fukuoka-algebra-fbf443c/page-02.jpg?v=2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886",
+        "/previews/g3-2021-fukuoka-algebra-fbf443c/page-03.jpg?v=2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886",
+        "/previews/g3-2021-fukuoka-algebra-fbf443c/page-04.jpg?v=2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886",
+        "/previews/g3-2021-fukuoka-algebra-fbf443c/page-05.jpg?v=2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886"
+      ],
+      "contentVersion": "2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-fukuoka-algebra-fbf443c.pdf?rev=2c2905f4fd5cb8227e25ad9522d6e483ddd28793ba533e355f31d89525fed886",
+      "pdfFileName": "2021年実施_福岡県_中3数学_式の展開と数の性質（連続する偶数・整数と平方数）.pdf",
+      "fileSize": 10252363
+    },
+    {
       "id": "g2-2021-iwate-equation-use-cc0d846",
       "grade": 2,
       "year": 2021,
@@ -2294,6 +2319,33 @@
       "fileSize": 20958047
     },
     {
+      "id": "g3-2021-nagano-function-6da617a",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "長野県",
+      "field": "関数",
+      "unit": "二乗に比例する関数と一次関数（徒歩・自転車・電車・自動車）",
+      "shortUnit": "二乗に比例する関数と一次関数",
+      "tags": [
+        "徒歩",
+        "自転車",
+        "電車",
+        "自動車"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2021-nagano-function-6da617a/page-01.jpg?v=205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88",
+        "/previews/g3-2021-nagano-function-6da617a/page-02.jpg?v=205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88",
+        "/previews/g3-2021-nagano-function-6da617a/page-03.jpg?v=205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88",
+        "/previews/g3-2021-nagano-function-6da617a/page-04.jpg?v=205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88",
+        "/previews/g3-2021-nagano-function-6da617a/page-05.jpg?v=205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88"
+      ],
+      "contentVersion": "205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-nagano-function-6da617a.pdf?rev=205bc7c662870230fae013e804eb2a9b58d553436ed7f9435e2a99427d4edd88",
+      "pdfFileName": "2021年実施_長野県_中3数学_二乗に比例する関数と一次関数（徒歩・自転車・電車・自動車）.pdf",
+      "fileSize": 14300739
+    },
+    {
       "id": "g2-2021-fukuoka-function-14fefc7",
       "grade": 2,
       "year": 2021,
@@ -2411,6 +2463,58 @@
       "fileSize": 5474781
     },
     {
+      "id": "g3-2021-nagano-geometry-1a22b27",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "長野県",
+      "field": "図形",
+      "unit": "相似な図形（平行四辺形・線分比・面積比）",
+      "shortUnit": "相似な図形",
+      "tags": [
+        "平行四辺形",
+        "線分比",
+        "面積比"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g3-2021-nagano-geometry-1a22b27/page-01.jpg?v=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+        "/previews/g3-2021-nagano-geometry-1a22b27/page-02.jpg?v=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+        "/previews/g3-2021-nagano-geometry-1a22b27/page-03.jpg?v=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+        "/previews/g3-2021-nagano-geometry-1a22b27/page-04.jpg?v=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+        "/previews/g3-2021-nagano-geometry-1a22b27/page-05.jpg?v=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+        "/previews/g3-2021-nagano-geometry-1a22b27/page-06.jpg?v=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba"
+      ],
+      "contentVersion": "cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-nagano-geometry-1a22b27.pdf?rev=cd7fa1701017134c68b8c865e904a6f70efeb44d4fd639b2dee37d0898e7dfba",
+      "pdfFileName": "2021年実施_長野県_中3数学_相似な図形（平行四辺形・線分比・面積比）.pdf",
+      "fileSize": 10211846
+    },
+    {
+      "id": "g3-2021-fukuoka-geometry-07b4413",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "図形",
+      "unit": "空間図形と平行線の比（複合立体・線分の長さ・体積）",
+      "shortUnit": "空間図形と平行線の比",
+      "tags": [
+        "複合立体",
+        "線分の長さ",
+        "体積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2021-fukuoka-geometry-07b4413/page-01.jpg?v=638785723c6c332dcea629353c64736c968fae4f8ecee220bbf21555854e5f2b",
+        "/previews/g3-2021-fukuoka-geometry-07b4413/page-02.jpg?v=638785723c6c332dcea629353c64736c968fae4f8ecee220bbf21555854e5f2b",
+        "/previews/g3-2021-fukuoka-geometry-07b4413/page-03.jpg?v=638785723c6c332dcea629353c64736c968fae4f8ecee220bbf21555854e5f2b",
+        "/previews/g3-2021-fukuoka-geometry-07b4413/page-04.jpg?v=638785723c6c332dcea629353c64736c968fae4f8ecee220bbf21555854e5f2b"
+      ],
+      "contentVersion": "638785723c6c332dcea629353c64736c968fae4f8ecee220bbf21555854e5f2b",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-fukuoka-geometry-07b4413.pdf?rev=638785723c6c332dcea629353c64736c968fae4f8ecee220bbf21555854e5f2b",
+      "pdfFileName": "2021年実施_福岡県_中3数学_空間図形と平行線の比（複合立体・線分の長さ・体積）.pdf",
+      "fileSize": 6165483
+    },
+    {
       "id": "g2-2021-iwate-proof-fd0573b",
       "grade": 2,
       "year": 2021,
@@ -2432,6 +2536,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2021-iwate-proof-fd0573b.pdf?rev=ca077f79ef9b24cb899268eef5a7e32128ccbf0febe97e49f3669d0580ac87f5",
       "pdfFileName": "2021年実施_岩手県_中2数学_三角形の合同証明（平行線の錯角と同位角）.pdf",
       "fileSize": 2804261
+    },
+    {
+      "id": "g3-2021-fukuoka-proof-9c319b5",
+      "grade": 3,
+      "year": 2021,
+      "prefecture": "福岡県",
+      "field": "図形の証明",
+      "unit": "平行線と線分の比（平行四辺形・合同・面積比）",
+      "shortUnit": "平行線と線分の比",
+      "tags": [
+        "平行四辺形",
+        "合同",
+        "面積比"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2021-fukuoka-proof-9c319b5/page-01.jpg?v=adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325",
+        "/previews/g3-2021-fukuoka-proof-9c319b5/page-02.jpg?v=adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325",
+        "/previews/g3-2021-fukuoka-proof-9c319b5/page-03.jpg?v=adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325",
+        "/previews/g3-2021-fukuoka-proof-9c319b5/page-04.jpg?v=adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325",
+        "/previews/g3-2021-fukuoka-proof-9c319b5/page-05.jpg?v=adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325"
+      ],
+      "contentVersion": "adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2021-fukuoka-proof-9c319b5.pdf?rev=adfbb229446ec84162b9aa8b9af760c800b738cb241adc7f890ff341808c2325",
+      "pdfFileName": "2021年実施_福岡県_中3数学_平行線と線分の比（平行四辺形・合同・面積比）.pdf",
+      "fileSize": 8263991
     },
     {
       "id": "g2-2021-fukushima-proof-ca76511",
@@ -2697,6 +2827,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-shizuoka-equation-use-5048745.pdf?rev=dd6a9042d2fae4878fc3707a4704f645a16d45212fdbd057e8afd202e0d7c640",
       "pdfFileName": "2020年実施_静岡県_中2数学_連立方程式の利用（美術館の入館者数・割合・料金）.pdf",
       "fileSize": 4531077
+    },
+    {
+      "id": "g3-2020-fukuoka-equation-use-3496aa8",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "福岡県",
+      "field": "方程式の利用",
+      "unit": "二次方程式の利用（長方形の土地と幅2mの道）",
+      "shortUnit": "二次方程式の利用",
+      "tags": [
+        "長方形の土地と幅2mの道"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-fukuoka-equation-use-3496aa8/page-01.jpg?v=391d46a26a6485f83881183e50b3e1e8b8eec43629daa62b4a7cc3caf711d941",
+        "/previews/g3-2020-fukuoka-equation-use-3496aa8/page-02.jpg?v=391d46a26a6485f83881183e50b3e1e8b8eec43629daa62b4a7cc3caf711d941",
+        "/previews/g3-2020-fukuoka-equation-use-3496aa8/page-03.jpg?v=391d46a26a6485f83881183e50b3e1e8b8eec43629daa62b4a7cc3caf711d941",
+        "/previews/g3-2020-fukuoka-equation-use-3496aa8/page-04.jpg?v=391d46a26a6485f83881183e50b3e1e8b8eec43629daa62b4a7cc3caf711d941"
+      ],
+      "contentVersion": "391d46a26a6485f83881183e50b3e1e8b8eec43629daa62b4a7cc3caf711d941",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-fukuoka-equation-use-3496aa8.pdf?rev=391d46a26a6485f83881183e50b3e1e8b8eec43629daa62b4a7cc3caf711d941",
+      "pdfFileName": "2020年実施_福岡県_中3数学_二次方程式の利用（長方形の土地と幅2mの道）.pdf",
+      "fileSize": 5645028
     },
     {
       "id": "g2-2020-fukushima-equation-use-f940db1",
@@ -2966,6 +3119,57 @@
       "fileSize": 6750282
     },
     {
+      "id": "g3-2020-nagano-geometry-4fda7d7",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "長野県",
+      "field": "図形",
+      "unit": "円周角と相似・三平方の定理（2つの円・動点・面積比）",
+      "shortUnit": "円周角と相似・三平方の定理",
+      "tags": [
+        "2つの円",
+        "動点",
+        "面積比"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2020-nagano-geometry-4fda7d7/page-01.jpg?v=288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59",
+        "/previews/g3-2020-nagano-geometry-4fda7d7/page-02.jpg?v=288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59",
+        "/previews/g3-2020-nagano-geometry-4fda7d7/page-03.jpg?v=288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59",
+        "/previews/g3-2020-nagano-geometry-4fda7d7/page-04.jpg?v=288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59",
+        "/previews/g3-2020-nagano-geometry-4fda7d7/page-05.jpg?v=288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59"
+      ],
+      "contentVersion": "288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-nagano-geometry-4fda7d7.pdf?rev=288a2e4ef91b5c49140a13be9d650a9946dd593569c92468f972036878e48c59",
+      "pdfFileName": "2020年実施_長野県_中3数学_円周角と相似・三平方の定理（2つの円・動点・面積比）.pdf",
+      "fileSize": 9280363
+    },
+    {
+      "id": "g3-2020-fukuoka-geometry-bfdd663",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "福岡県",
+      "field": "図形",
+      "unit": "相似な立体と三平方の定理（直方体・体積・線分の長さ）",
+      "shortUnit": "相似な立体と三平方の定理",
+      "tags": [
+        "直方体",
+        "体積",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2020-fukuoka-geometry-bfdd663/page-01.jpg?v=1762c857172c23db722155305b18cbd84091b466e900db75e54bda5f3d8a3afa",
+        "/previews/g3-2020-fukuoka-geometry-bfdd663/page-02.jpg?v=1762c857172c23db722155305b18cbd84091b466e900db75e54bda5f3d8a3afa",
+        "/previews/g3-2020-fukuoka-geometry-bfdd663/page-03.jpg?v=1762c857172c23db722155305b18cbd84091b466e900db75e54bda5f3d8a3afa",
+        "/previews/g3-2020-fukuoka-geometry-bfdd663/page-04.jpg?v=1762c857172c23db722155305b18cbd84091b466e900db75e54bda5f3d8a3afa"
+      ],
+      "contentVersion": "1762c857172c23db722155305b18cbd84091b466e900db75e54bda5f3d8a3afa",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-fukuoka-geometry-bfdd663.pdf?rev=1762c857172c23db722155305b18cbd84091b466e900db75e54bda5f3d8a3afa",
+      "pdfFileName": "2020年実施_福岡県_中3数学_相似な立体と三平方の定理（直方体・体積・線分の長さ）.pdf",
+      "fileSize": 6707186
+    },
+    {
       "id": "g2-2020-okinawa-proof-fe426e0",
       "grade": 2,
       "year": 2020,
@@ -2987,6 +3191,33 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2020-okinawa-proof-fe426e0.pdf?rev=bdb193d9016f09fb68a6689487fc42ee227fd6b33c52f1180d4b306816ba5e0e",
       "pdfFileName": "2020年実施_沖縄県_中2数学_平行四辺形と合同の証明（面積比）.pdf",
       "fileSize": 7253734
+    },
+    {
+      "id": "g3-2020-fukuoka-proof-d49d08b",
+      "grade": 3,
+      "year": 2020,
+      "prefecture": "福岡県",
+      "field": "図形の証明",
+      "unit": "相似と円の性質（角の二等分線・円周角・面積）",
+      "shortUnit": "相似と円の性質",
+      "tags": [
+        "角の二等分線",
+        "円周角",
+        "面積"
+      ],
+      "pageCount": 6,
+      "previewPages": [
+        "/previews/g3-2020-fukuoka-proof-d49d08b/page-01.jpg?v=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+        "/previews/g3-2020-fukuoka-proof-d49d08b/page-02.jpg?v=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+        "/previews/g3-2020-fukuoka-proof-d49d08b/page-03.jpg?v=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+        "/previews/g3-2020-fukuoka-proof-d49d08b/page-04.jpg?v=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+        "/previews/g3-2020-fukuoka-proof-d49d08b/page-05.jpg?v=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+        "/previews/g3-2020-fukuoka-proof-d49d08b/page-06.jpg?v=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31"
+      ],
+      "contentVersion": "64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2020-fukuoka-proof-d49d08b.pdf?rev=64d25afb6656c40ff68a1945bc3caea1217a9b91c6a5214d3dcbe205d50d4e31",
+      "pdfFileName": "2020年実施_福岡県_中3数学_相似と円の性質（角の二等分線・円周角・面積）.pdf",
+      "fileSize": 7867830
     },
     {
       "id": "g3-2020-hokkaido-proof-c8833d4",
@@ -3470,6 +3701,56 @@
       "fileSize": 2312612
     },
     {
+      "id": "g3-2019-nagano-geometry-6bc4b68",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "長野県",
+      "field": "図形",
+      "unit": "相似と三平方の定理（平行四辺形・回転体・面積比）",
+      "shortUnit": "相似と三平方の定理",
+      "tags": [
+        "平行四辺形",
+        "回転体",
+        "面積比"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-nagano-geometry-6bc4b68/page-01.jpg?v=c4fca9c99dd0a13a56e43b0656f93c2c807eb4fcb7296f14c92cc6d918db655d",
+        "/previews/g3-2019-nagano-geometry-6bc4b68/page-02.jpg?v=c4fca9c99dd0a13a56e43b0656f93c2c807eb4fcb7296f14c92cc6d918db655d",
+        "/previews/g3-2019-nagano-geometry-6bc4b68/page-03.jpg?v=c4fca9c99dd0a13a56e43b0656f93c2c807eb4fcb7296f14c92cc6d918db655d",
+        "/previews/g3-2019-nagano-geometry-6bc4b68/page-04.jpg?v=c4fca9c99dd0a13a56e43b0656f93c2c807eb4fcb7296f14c92cc6d918db655d"
+      ],
+      "contentVersion": "c4fca9c99dd0a13a56e43b0656f93c2c807eb4fcb7296f14c92cc6d918db655d",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-nagano-geometry-6bc4b68.pdf?rev=c4fca9c99dd0a13a56e43b0656f93c2c807eb4fcb7296f14c92cc6d918db655d",
+      "pdfFileName": "2019年実施_長野県_中3数学_相似と三平方の定理（平行四辺形・回転体・面積比）.pdf",
+      "fileSize": 6552355
+    },
+    {
+      "id": "g3-2019-fukuoka-geometry-3ba42a8",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "福岡県",
+      "field": "図形",
+      "unit": "回転体と三平方の定理（円すいと円柱・面積比・線分の長さ）",
+      "shortUnit": "回転体と三平方の定理",
+      "tags": [
+        "円すいと円柱",
+        "面積比",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2019-fukuoka-geometry-3ba42a8/page-01.jpg?v=6188e2398d457743facbab8374d1ae22a4b2e25d6da5f0fe527a0273067d1ca7",
+        "/previews/g3-2019-fukuoka-geometry-3ba42a8/page-02.jpg?v=6188e2398d457743facbab8374d1ae22a4b2e25d6da5f0fe527a0273067d1ca7",
+        "/previews/g3-2019-fukuoka-geometry-3ba42a8/page-03.jpg?v=6188e2398d457743facbab8374d1ae22a4b2e25d6da5f0fe527a0273067d1ca7",
+        "/previews/g3-2019-fukuoka-geometry-3ba42a8/page-04.jpg?v=6188e2398d457743facbab8374d1ae22a4b2e25d6da5f0fe527a0273067d1ca7"
+      ],
+      "contentVersion": "6188e2398d457743facbab8374d1ae22a4b2e25d6da5f0fe527a0273067d1ca7",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-fukuoka-geometry-3ba42a8.pdf?rev=6188e2398d457743facbab8374d1ae22a4b2e25d6da5f0fe527a0273067d1ca7",
+      "pdfFileName": "2019年実施_福岡県_中3数学_回転体と三平方の定理（円すいと円柱・面積比・線分の長さ）.pdf",
+      "fileSize": 4878412
+    },
+    {
       "id": "g2-2019-gunma-proof-598ce98",
       "grade": 2,
       "year": 2019,
@@ -3489,6 +3770,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-gunma-proof-598ce98.pdf?rev=3651b3046e54f667fb857b4c469e5f18143a5804476c1720888a6edd351e77be",
       "pdfFileName": "2019年実施_群馬県_中2数学_角の二等分線の作図と垂直であることの証明.pdf",
       "fileSize": 3629171
+    },
+    {
+      "id": "g3-2019-fukuoka-proof-2702c3d",
+      "grade": 3,
+      "year": 2019,
+      "prefecture": "福岡県",
+      "field": "図形の証明",
+      "unit": "相似と円の性質（円周角・線分比・面積）",
+      "shortUnit": "相似と円の性質",
+      "tags": [
+        "円周角",
+        "線分比",
+        "面積"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2019-fukuoka-proof-2702c3d/page-01.jpg?v=e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832",
+        "/previews/g3-2019-fukuoka-proof-2702c3d/page-02.jpg?v=e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832",
+        "/previews/g3-2019-fukuoka-proof-2702c3d/page-03.jpg?v=e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832",
+        "/previews/g3-2019-fukuoka-proof-2702c3d/page-04.jpg?v=e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832",
+        "/previews/g3-2019-fukuoka-proof-2702c3d/page-05.jpg?v=e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832"
+      ],
+      "contentVersion": "e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2019-fukuoka-proof-2702c3d.pdf?rev=e1c5c74d9090bbaef05f755b7982d304f7f1fa712ac8c342108b59b2ad680832",
+      "pdfFileName": "2019年実施_福岡県_中3数学_相似と円の性質（円周角・線分比・面積）.pdf",
+      "fileSize": 6578033
     },
     {
       "id": "g2-2019-hokkaido-proof-2f53791",
@@ -3638,6 +3945,29 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2019-fukuoka-data-6bdc017.pdf?rev=bf518326ff65f8c0932cdba9886d6d3fa2faa6856297b0aabf84c452a744a13d",
       "pdfFileName": "2019年実施_福岡県_中2数学_確率（玉の取り出し・2種類のくじ引きの比較）.pdf",
       "fileSize": 4257570
+    },
+    {
+      "id": "g3-2018-fukuoka-algebra-e96093b",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "福岡県",
+      "field": "数と式",
+      "unit": "数の性質と式の展開（連続する3の倍数の平方差）",
+      "shortUnit": "数の性質と式の展開",
+      "tags": [
+        "連続する3の倍数の平方差"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2018-fukuoka-algebra-e96093b/page-01.jpg?v=1f9858ce7dcb26d99aed036dd7b2d2bbd5f9c8f221bad47f3cc998532fe3cc88",
+        "/previews/g3-2018-fukuoka-algebra-e96093b/page-02.jpg?v=1f9858ce7dcb26d99aed036dd7b2d2bbd5f9c8f221bad47f3cc998532fe3cc88",
+        "/previews/g3-2018-fukuoka-algebra-e96093b/page-03.jpg?v=1f9858ce7dcb26d99aed036dd7b2d2bbd5f9c8f221bad47f3cc998532fe3cc88",
+        "/previews/g3-2018-fukuoka-algebra-e96093b/page-04.jpg?v=1f9858ce7dcb26d99aed036dd7b2d2bbd5f9c8f221bad47f3cc998532fe3cc88"
+      ],
+      "contentVersion": "1f9858ce7dcb26d99aed036dd7b2d2bbd5f9c8f221bad47f3cc998532fe3cc88",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-fukuoka-algebra-e96093b.pdf?rev=1f9858ce7dcb26d99aed036dd7b2d2bbd5f9c8f221bad47f3cc998532fe3cc88",
+      "pdfFileName": "2018年実施_福岡県_中3数学_数の性質と式の展開（連続する3の倍数の平方差）.pdf",
+      "fileSize": 3482534
     },
     {
       "id": "g1-2018-gunma-equation-use-e685d15",
@@ -3806,6 +4136,57 @@
       "fileSize": 11582547
     },
     {
+      "id": "g3-2018-nagano-geometry-4fda7d7",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "長野県",
+      "field": "図形",
+      "unit": "円周角と相似・三平方の定理（2つの円・動点・面積比）",
+      "shortUnit": "円周角と相似・三平方の定理",
+      "tags": [
+        "2つの円",
+        "動点",
+        "面積比"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2018-nagano-geometry-4fda7d7/page-01.jpg?v=8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22",
+        "/previews/g3-2018-nagano-geometry-4fda7d7/page-02.jpg?v=8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22",
+        "/previews/g3-2018-nagano-geometry-4fda7d7/page-03.jpg?v=8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22",
+        "/previews/g3-2018-nagano-geometry-4fda7d7/page-04.jpg?v=8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22",
+        "/previews/g3-2018-nagano-geometry-4fda7d7/page-05.jpg?v=8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22"
+      ],
+      "contentVersion": "8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-nagano-geometry-4fda7d7.pdf?rev=8f992f4558fe64cadd718dd7d15911e729a7918ceadbaf6bfa3d89619dcb9f22",
+      "pdfFileName": "2018年実施_長野県_中3数学_円周角と相似・三平方の定理（2つの円・動点・面積比）.pdf",
+      "fileSize": 8259621
+    },
+    {
+      "id": "g3-2018-fukuoka-geometry-3a80e95",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "福岡県",
+      "field": "図形",
+      "unit": "相似な立体と三平方の定理（正四面体・体積比・線分の長さ）",
+      "shortUnit": "相似な立体と三平方の定理",
+      "tags": [
+        "正四面体",
+        "体積比",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2018-fukuoka-geometry-3a80e95/page-01.jpg?v=03e68c5a78251ddf1abd1053b58ed16997f1ca43b624463094a34f76f5a697c1",
+        "/previews/g3-2018-fukuoka-geometry-3a80e95/page-02.jpg?v=03e68c5a78251ddf1abd1053b58ed16997f1ca43b624463094a34f76f5a697c1",
+        "/previews/g3-2018-fukuoka-geometry-3a80e95/page-03.jpg?v=03e68c5a78251ddf1abd1053b58ed16997f1ca43b624463094a34f76f5a697c1",
+        "/previews/g3-2018-fukuoka-geometry-3a80e95/page-04.jpg?v=03e68c5a78251ddf1abd1053b58ed16997f1ca43b624463094a34f76f5a697c1"
+      ],
+      "contentVersion": "03e68c5a78251ddf1abd1053b58ed16997f1ca43b624463094a34f76f5a697c1",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-fukuoka-geometry-3a80e95.pdf?rev=03e68c5a78251ddf1abd1053b58ed16997f1ca43b624463094a34f76f5a697c1",
+      "pdfFileName": "2018年実施_福岡県_中3数学_相似な立体と三平方の定理（正四面体・体積比・線分の長さ）.pdf",
+      "fileSize": 3943573
+    },
+    {
       "id": "g2-2018-gunma-proof-9731512",
       "grade": 2,
       "year": 2018,
@@ -3825,6 +4206,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2018-gunma-proof-9731512.pdf?rev=81bb273b3e4e3268cda0b5c26f6d1527d01fb6a298b63e6061eb3367fb3937e9",
       "pdfFileName": "2018年実施_群馬県_中2数学_平行線と多角形の内角を用いた図形の証明.pdf",
       "fileSize": 3324602
+    },
+    {
+      "id": "g3-2018-fukuoka-proof-7449e8d",
+      "grade": 3,
+      "year": 2018,
+      "prefecture": "福岡県",
+      "field": "図形の証明",
+      "unit": "円の性質と相似（半円・四角形の面積）",
+      "shortUnit": "円の性質と相似",
+      "tags": [
+        "半円",
+        "四角形の面積"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2018-fukuoka-proof-7449e8d/page-01.jpg?v=6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef",
+        "/previews/g3-2018-fukuoka-proof-7449e8d/page-02.jpg?v=6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef",
+        "/previews/g3-2018-fukuoka-proof-7449e8d/page-03.jpg?v=6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef",
+        "/previews/g3-2018-fukuoka-proof-7449e8d/page-04.jpg?v=6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef",
+        "/previews/g3-2018-fukuoka-proof-7449e8d/page-05.jpg?v=6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef"
+      ],
+      "contentVersion": "6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2018-fukuoka-proof-7449e8d.pdf?rev=6b639377fe738ae3bfda3b0738a7efefd72b63b1155fcf82255ed878b6b132ef",
+      "pdfFileName": "2018年実施_福岡県_中3数学_円の性質と相似（半円・四角形の面積）.pdf",
+      "fileSize": 5673398
     },
     {
       "id": "g3-2018-hokkaido-proof-8755bab",
@@ -3972,6 +4378,30 @@
       "fileSize": 12981365
     },
     {
+      "id": "g3-2017-fukuoka-algebra-f59bd40",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "福岡県",
+      "field": "数と式",
+      "unit": "式の展開と文字式の証明（4数の配置と積の差）",
+      "shortUnit": "式の展開と文字式の証明",
+      "tags": [
+        "4数の配置と積の差"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2017-fukuoka-algebra-f59bd40/page-01.jpg?v=b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405",
+        "/previews/g3-2017-fukuoka-algebra-f59bd40/page-02.jpg?v=b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405",
+        "/previews/g3-2017-fukuoka-algebra-f59bd40/page-03.jpg?v=b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405",
+        "/previews/g3-2017-fukuoka-algebra-f59bd40/page-04.jpg?v=b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405",
+        "/previews/g3-2017-fukuoka-algebra-f59bd40/page-05.jpg?v=b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405"
+      ],
+      "contentVersion": "b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-fukuoka-algebra-f59bd40.pdf?rev=b1445d0e87b9c2781beffb78e422ba0c8539429d477425a66adb8284695a4405",
+      "pdfFileName": "2017年実施_福岡県_中3数学_式の展開と文字式の証明（4数の配置と積の差）.pdf",
+      "fileSize": 4672931
+    },
+    {
       "id": "g2-2017-gunma-equation-use-d598e35",
       "grade": 2,
       "year": 2017,
@@ -4016,6 +4446,32 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-fukuoka-equation-use-4358e97.pdf?rev=8ea708ad704dc71383322a5eb396e0658b5aeef2f38269257f35c7e8c7af52a4",
       "pdfFileName": "2017年実施_福岡県_中2数学_連立方程式の応用（袋詰めの個数と売上金額）.pdf",
       "fileSize": 3810340
+    },
+    {
+      "id": "g3-2017-nagano-function-522cbf4",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "長野県",
+      "field": "関数",
+      "unit": "二乗に比例する関数と一次関数の総合（移動グラフ・放物線・面積）",
+      "shortUnit": "二乗に比例する関数と一次関数の総合",
+      "tags": [
+        "移動グラフ",
+        "放物線",
+        "面積"
+      ],
+      "pageCount": 5,
+      "previewPages": [
+        "/previews/g3-2017-nagano-function-522cbf4/page-01.jpg?v=c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1",
+        "/previews/g3-2017-nagano-function-522cbf4/page-02.jpg?v=c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1",
+        "/previews/g3-2017-nagano-function-522cbf4/page-03.jpg?v=c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1",
+        "/previews/g3-2017-nagano-function-522cbf4/page-04.jpg?v=c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1",
+        "/previews/g3-2017-nagano-function-522cbf4/page-05.jpg?v=c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1"
+      ],
+      "contentVersion": "c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-nagano-function-522cbf4.pdf?rev=c4349566eb4d3c18ce4c9cc9fbb4c628cc0914c1723d815f58bed0c21b9a11f1",
+      "pdfFileName": "2017年実施_長野県_中3数学_二乗に比例する関数と一次関数の総合（移動グラフ・放物線・面積）.pdf",
+      "fileSize": 11532503
     },
     {
       "id": "g2-2017-fukuoka-function-67706d3",
@@ -4064,6 +4520,60 @@
       "fileSize": 2879751
     },
     {
+      "id": "g3-2017-nagano-geometry-417b2fa",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "長野県",
+      "field": "図形",
+      "unit": "図形の総合（円錐・相似・円周角・三平方の定理）",
+      "shortUnit": "図形の総合",
+      "tags": [
+        "円錐",
+        "相似",
+        "円周角",
+        "三平方の定理"
+      ],
+      "pageCount": 7,
+      "previewPages": [
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-01.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-02.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-03.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-04.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-05.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-06.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+        "/previews/g3-2017-nagano-geometry-417b2fa/page-07.jpg?v=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862"
+      ],
+      "contentVersion": "e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-nagano-geometry-417b2fa.pdf?rev=e4af8168fe0ac2a8e9142db3cfa34df8b6256733d54d02a8e26c4962cdd8d862",
+      "pdfFileName": "2017年実施_長野県_中3数学_図形の総合（円錐・相似・円周角・三平方の定理）.pdf",
+      "fileSize": 10207866
+    },
+    {
+      "id": "g3-2017-fukuoka-geometry-f8c4ea4",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "福岡県",
+      "field": "図形",
+      "unit": "空間図形と三平方の定理（正六角柱・体積・線分の長さ）",
+      "shortUnit": "空間図形と三平方の定理",
+      "tags": [
+        "正六角柱",
+        "体積",
+        "線分の長さ"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2017-fukuoka-geometry-f8c4ea4/page-01.jpg?v=4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168",
+        "/previews/g3-2017-fukuoka-geometry-f8c4ea4/page-02.jpg?v=4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168",
+        "/previews/g3-2017-fukuoka-geometry-f8c4ea4/page-03.jpg?v=4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168",
+        "/previews/g3-2017-fukuoka-geometry-f8c4ea4/page-04.jpg?v=4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168"
+      ],
+      "contentVersion": "4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-fukuoka-geometry-f8c4ea4.pdf?rev=4212a43a4765177491c9b908411bac76eb85e89637e9aa4ae42a732a0f0fb168",
+      "pdfFileName": "2017年実施_福岡県_中3数学_空間図形と三平方の定理（正六角柱・体積・線分の長さ）.pdf",
+      "fileSize": 4264312
+    },
+    {
       "id": "g2-2017-gunma-proof-6536242",
       "grade": 2,
       "year": 2017,
@@ -4083,6 +4593,31 @@
       "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g2-2017-gunma-proof-6536242.pdf?rev=3d02edd79f2dec73b2ca50e735fd1c3818c84167e4c7d53e85f40459053f3332",
       "pdfFileName": "2017年実施_群馬県_中2数学_折り返しと平行線を用いた図形の証明.pdf",
       "fileSize": 1983098
+    },
+    {
+      "id": "g3-2017-fukuoka-proof-da5b688",
+      "grade": 3,
+      "year": 2017,
+      "prefecture": "福岡県",
+      "field": "図形の証明",
+      "unit": "相似と円の性質（半円・相似比・面積）",
+      "shortUnit": "相似と円の性質",
+      "tags": [
+        "半円",
+        "相似比",
+        "面積"
+      ],
+      "pageCount": 4,
+      "previewPages": [
+        "/previews/g3-2017-fukuoka-proof-da5b688/page-01.jpg?v=f9a48e7c7e288c56408cba222b95117bd1e0bab692d9f4ed1aef11ca0bf1fc9e",
+        "/previews/g3-2017-fukuoka-proof-da5b688/page-02.jpg?v=f9a48e7c7e288c56408cba222b95117bd1e0bab692d9f4ed1aef11ca0bf1fc9e",
+        "/previews/g3-2017-fukuoka-proof-da5b688/page-03.jpg?v=f9a48e7c7e288c56408cba222b95117bd1e0bab692d9f4ed1aef11ca0bf1fc9e",
+        "/previews/g3-2017-fukuoka-proof-da5b688/page-04.jpg?v=f9a48e7c7e288c56408cba222b95117bd1e0bab692d9f4ed1aef11ca0bf1fc9e"
+      ],
+      "contentVersion": "f9a48e7c7e288c56408cba222b95117bd1e0bab692d9f4ed1aef11ca0bf1fc9e",
+      "pdfUrl": "https://github.com/kikuchimkt-afk/koukou-nyushi-sugaku-archive/releases/download/pdfs-v1/g3-2017-fukuoka-proof-da5b688.pdf?rev=f9a48e7c7e288c56408cba222b95117bd1e0bab692d9f4ed1aef11ca0bf1fc9e",
+      "pdfFileName": "2017年実施_福岡県_中3数学_相似と円の性質（半円・相似比・面積）.pdf",
+      "fileSize": 3686090
     },
     {
       "id": "g2-2016-tokushima-equation-use-3de38d0",
